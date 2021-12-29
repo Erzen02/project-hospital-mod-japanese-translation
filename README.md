@@ -14,8 +14,11 @@ Anyone can use them, as long as they follow the license below.
 
 ## Translated MODs
 
-- CRP           W.I.P
-- ENT           100%
+|  Mod name  |  translation progress  |
+| ---------- | ---------------------- |
+|  CRP       |                  W.I.P |
+|  ENT       |                   100% |
+|  MORE_DG   |                  W.I.P |
 
 ## How to use
 
