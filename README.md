@@ -7,7 +7,8 @@ MODを利用することで新要素を追加してさらに充実させるこ�
 個人的にSteamワークショップで人気のあるMODを日本語訳したので、ここで公開します。  
 下記のライセンスに従う限り、どなたでもご利用いただけます。  
   
-Project Hospital is a highly functional hospital simulation game available on Steam, which can be further enhanced by adding new elements through the use of mods.  
+Project Hospital is a highly functional hospital simulation game available on Steam,  
+which can be further enhanced by adding new elements through the use of mods.  
 I have translated some mods from the Steam Workshop into Japanese and publish them here.  
 Anyone can use them, as long as they follow the license below.  
 
