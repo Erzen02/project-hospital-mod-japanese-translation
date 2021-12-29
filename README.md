@@ -17,7 +17,7 @@ Anyone can use them, as long as they follow the license below.
 |  Mod name  |  translation progress  |
 | ---------- | ---------------------- |
 |  CRP       |                  W.I.P |
-|  ENT       |                   100% |
+|  ENT       |              Completed |
 |  MORE_DG   |                  W.I.P |
 
 ## How to use
