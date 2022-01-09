@@ -86,138 +86,138 @@
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_DEFEROXAMINE_DESCRIPTION</LocID>
-				<Text>三価カチオンキレート剤は、血漿や細胞から遊離した鉄を固定してフェリオキサミン錯体を形成することができる。</Text>
+				<Text>三価カチオンキレート剤は、血漿や細胞から遊離した鉄を固定してフェリオキサミン錯体を形成することができます。</Text>
 			</GameDBLocalizedString>
 			<!--  v0.03.2  -->
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_IGP</LocID>
-				<Text>GBI</Text>
+				<Text>糖脂質生合成阻害剤（GBI）</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_IGP_DESCRIPTION</LocID>
-				<Text>Glycolipid Biosynthesis Inhibitors prevent glycolipid synthesis.</Text>
+				<Text>糖脂質生合成阻害剤は、糖脂質の合成を阻害します。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU</LocID>
-				<Text>ERT</Text>
+				<Text>酸素補充療法（ERT）</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU_DESCRIPTION</LocID>
-				<Text>Enzyme replacement therapy (ERT) is a medical treatment which replaces an enzyme that is deficient or absent in the body.</Text>
+				<Text>酵素補充療法（ERT）とは、体内で不足または欠乏している酵素を補充する医療行為です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_PHLÉBOTOMIES</LocID>
-				<Text>Phlebotomy</Text>
+				<Text>瀉血</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_PHLÉBOTOMIES_DESCRIPTION</LocID>
-				<Text>The surgical opening or puncture of a vein in order to withdraw blood, to introduce a fluid, or (historically) when letting blood.</Text>
+				<Text>血を抜くため、液体を入れるため、または（歴史的に）血を抜くために、外科的に静脈を開く、または穿刺することです。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE</LocID>
-				<Text>Danaparoid sodium</Text>
+				<Text>ダナパロイドナトリウム（血液凝固阻止剤）</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE_DESCRIPTION</LocID>
-				<Text>Danaparoid sodium is an anticoagulant with an antithrombotic action due to inhibition of thrombin generation (TGI) by two mechanisms: indirect inactivation of Factor Xa via AT and direct inhibition of thrombin activation of Factor IX (an important feedback loop for thrombin generation).</Text>
+				<Text>ダナパロイドナトリウムは、ATを介したFactor Xaの間接的な不活性化とFactor IXのトロンビン活性化（トロンビン生成の重要なフィードバックループ）の直接阻害の2つのメカニズムによるトロンビン生成抑制（TGI）による抗血栓作用がある薬剤です。</Text>
 			</GameDBLocalizedString>
 
 			<!-- ================================================== Chirurgie ================================================== -->
 
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</LocID>
-				<Text>Valve replacement</Text>
+				<Text>弁置換手術</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE_DESCRIPTION</LocID>
-				<Text>Valve replacement surgery is the replacement of one or more of the heart valves with either an artificial heart valve or a bioprosthesis.</Text>
+				<Text>弁置換手術は、1つ以上の心臓弁を人工心臓弁またはバイオプロテーゼに置き換える手術です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_PACEMAKER</LocID>
-				<Text>Pace-Maker</Text>
+				<Text>ペースメーカー</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_PACEMAKER_DESCRIPTION</LocID>
-				<Text>A cardiac pacemaker (or artificial pacemaker, so as not to be confused with the natural pacemaker of the heart), is a medical device that generates electrical impulses delivered by electrodes to cause the heart muscle chambers (the upper, or atria and/or the lower, or ventricles) to contract and therefore pump blood; by doing so this device replaces and/or regulates the function of the electrical conduction system of the heart.</Text>
+				<Text>心臓ペースメーカー（または人工ペースメーカー、心臓の自然ペースメーカーと混同しないように）は、心臓の筋肉の部屋（上部または心房、下部または心室）を収縮させるために、電極によって送られる電気インパルスを生成する医療機器であり、それによってこのデバイスは心臓の電気伝導システムの機能を代替および/または調節するものです。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_DAI</LocID>
-				<Text>Implantable cardioverter-defibrillator</Text>
+				<Text>植込み型除細動器（ICD）</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_DAI_DESCRIPTION</LocID>
-				<Text>An implantable cardioverter-defibrillator (ICD) or automated implantable cardioverter defibrillator (AICD) is a device implantable inside the body, able to perform cardioversion, defibrillation, and (in modern versions) pacing of the heart. The device is therefore capable of correcting most life-threatening cardiac arrhythmias. The ICD is the first-line treatment and prophylactic therapy for patients at risk for sudden cardiac death due to ventricular fibrillation and ventricular tachycardia. Current devices can be programmed to detect abnormal heart rhythms and deliver therapy via programmable antitachycardia pacing in addition to low-energy and high-energy shocks.</Text>
+				<Text>植込み型除細動器（ICD）または自動植込み型除細動器（AICD）は、体内に埋め込むことができる装置で、心臓の除細動、ペーシング（最新型）を行うことができます。そのため、生命を脅かすほとんどの不整脈を修正することができます。ICDは、心室細動や心室頻拍により心臓突然死の危険性がある患者の第一選択治療および予防治療となります。現在のデバイスは、異常な心臓のリズムを検出し、低エネルギーおよび高エネルギーショックに加えて、プログラム可能な抗頻拍ペーシングによる治療を行うようにプログラムすることができます。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_REVASCULARISATION</LocID>
-				<Text>Revascularization</Text>
+				<Text>血管再灌流療法</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_REVASCULARISATION_DESCRIPTION</LocID>
-				<Text>Vascular bypass and angioplasty are the two primary means of revascularization.</Text>
+				<Text>血管バイパス術と血管形成術は、再灌流療法の主要な2つの手段です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE</LocID>
-				<Text>Fasciotomy</Text>
+				<Text>筋膜切開</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE_DESCRIPTION</LocID>
-				<Text>Fasciotomy or fasciectomy is a surgical procedure where the fascia is cut to relieve tension or pressure commonly to treat the resulting loss of circulation to an area of tissue or muscle.</Text>
+				<Text>筋膜切開術は、筋膜を切断して緊張や圧迫を緩和し、組織や筋肉の循環不全を治療する手術です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_MISE_A_PLAT</LocID>
-				<Text>Stent</Text>
+				<Text>ステント治療</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_MISE_A_PLAT_DESCRIPTION</LocID>
-				<Text>Exclusion of the aneurysmal area from the circulatory flow by interposition of a vascular prosthesis. In the graft flattening, the prosthetic tube is sutured both above and below the aneurysm in order to reconstruct the artery.</Text>
+				<Text>カテーテルを使用して、「動脈硬化」などで狭くなっている部位に、「ステント」と呼ばれる金属製の網状の筒を留置し、血液の流れを改善する治療法です。</Text>
 			</GameDBLocalizedString>
 			<!-- v0.02 -->
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_SURRENALECTOMIE</LocID>
-				<Text>Adrenalectomy</Text>
+				<Text>副腎摘出術</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_SURRENALECTOMIE_DESCRIPTION</LocID>
-				<Text>Surgical removal of one or both adrenal glands.</Text>
+				<Text>片方または両方の副腎を外科的に摘出します。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_EXERESE_GS</LocID>
-				<Text>Surgical excision</Text>
+				<Text>外科的切除</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_EXERESE_MI</LocID>
-				<Text>Surgical excision</Text>
+				<Text>外科的切除</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_EXERESE_DESCRIPTION</LocID>
-				<Text>An excision is a surgical procedure consisting in removing from the organism an element which is harmful or useless to it.</Text>
+				<Text>切除とは、生体にとって有害または無益な要素を生体から除去する外科的処置です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_THYROIDECTOMIE</LocID>
-				<Text>Thyroidectomy</Text>
+				<Text>甲状腺摘出術</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_THYROIDECTOMIE_DESCRIPTION</LocID>
-				<Text>Surgical removal of the thyroid gland.</Text>
+				<Text>甲状腺を外科的に切除します。</Text>
 			</GameDBLocalizedString>
 			<!-- v0.03 -->
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_SPLENECTOMIE_MI</LocID>
-				<Text>Splenectomy</Text>
+				<Text>脾臓摘出術</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_SPLENECTOMIE_DESCRIPTION</LocID>
-				<Text>Surgical removal of the spleen.</Text>
+				<Text>脾臓の外科的切除を行います。</Text>
 			</GameDBLocalizedString>
 			<!-- v0.03.2 -->
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_STÉRÉOTAXIE</LocID>
-				<Text>Stereotactic</Text>
+				<Text>定位脳手術</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRT_MOREDG_STÉRÉOTAXIE_DESCRIPTION</LocID>
-				<Text>Stereotactic neurosurgery is the technique for locating targets of surgical interest within the brain relative to an external frame of reference.</Text>
+				<Text>定位脳手術は、脳内の手術対象物を外部から相対的に位置決めして行う手術です。</Text>
 			</GameDBLocalizedString>
 
 		</LocalizedStrings>
