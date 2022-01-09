@@ -20,6 +20,8 @@ Anyone can use them, as long as they follow the license below.
 |  ENT       |              Completed |
 |  MORE_DG   |                  W.I.P |
 
+Date of last check: October, 2021
+
 ## How to use
 
 - Project Hospitalを購入します。
@@ -27,10 +29,10 @@ Anyone can use them, as long as they follow the license below.
 - MODのインストールフォルダ内にこのリポジトリ内の"ModStringTableJa*.xml"全てを入れます。
 - ゲームを起動して楽しみます。
 
-- buy Project Hospital.
-- subscribe to the original mod on Steam.
-- put all the "ModStringTableJa*.xml" from this repository into the mod installation folder. 4.
-- launch the game and enjoy.
+- Buy Project Hospital.
+- Subscribe to the original mod on Steam.
+- Put all the "ModStringTableJa*.xml" from this repository into the mod installation folder.
+- Launch the game and enjoy.
 
 ## Contribute
 
@@ -46,7 +48,7 @@ Anyone can use them, as long as they follow the license below.
 - 翻訳の催促を行わないでください。
 - 重要：元ファイルの著作権は各Modの原作者に帰属します。（各著作者の許可の範囲で使用してください）
 
-- You are free to copy, modify and use the files I have translated in your videos.
+- You are free to copy, modify and use the files I have translated in your Youtube video etc.
 - Please do not prompt me for translations.
 - Important: The copyright of the original files belongs to the original authors of each mod.
 
