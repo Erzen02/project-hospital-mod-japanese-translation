@@ -103,7 +103,7 @@
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_BOUVERET</LocID>
-				<Text>ブヴレー‐ホフマン症候群</Text>
+				<Text>ブヴレー-ホフマン症候群</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_BOUVERET_DESCRIPTION</LocID>
@@ -325,129 +325,129 @@
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_GOITRE_MULTINODULE</LocID>
-				<Text>Toxic multinodular goiter</Text>
+				<Text>中毒性多結節性甲状腺腫</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_GOITRE_MULTINODULE_DESCRIPTION</LocID>
-				<Text>Toxic multinodular goiter is the natural evolution of ancient multinodular goiter.</Text>
+				<Text>中毒性多結節性甲状腺腫は、多結節性甲状腺腫が自然に進化したものである。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_ADENOME_TOXIQUE</LocID>
-				<Text>Plummer's toxic adenoma</Text>
+				<Text>プランマー病（甲状腺過機能結節）</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_ADENOME_TOXIQUE_DESCRIPTION</LocID>
-				<Text>The toxic adenoma is a solitary, hyperfunctional benign tumor of the thyroid. This pathology indicates the presence of a localized hypertrophy from where the appearance of a protuberance of generally rounded shape. In addition, this type of adenoma is distinguished by its autonomous functioning.</Text>
+				<Text>甲状腺過機能結節は、甲状腺の単発性、機能亢進性の良性腫瘍です。この病態は、局所的な肥大の存在を示し、そこから一般に丸みを帯びた形状の隆起が出現します。また、このタイプの腺腫は、その自律的な機能によって区別されます。</Text>
 			</GameDBLocalizedString>
 			<!-- v0.03  -->
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_PORPHYRIE</LocID>
-				<Text>Acute intermittent porphyria</Text>
+				<Text>急性間欠性ポルフィリン症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_PORPHYRIE_DESCRIPTION</LocID>
-				<Text>Acute intermittent porphyria (AIP) is a rare autosomal dominant metabolic disorder affecting the production of heme resulting from a deficiency of the porphobilinogen deaminase. It is the most common of the acute porphyrias.</Text>
+				<Text>急性間欠性ポルフィリン症（AIP）は、ポルフォビリノーゲンデアミナーゼの欠損によるヘム産生に影響を及ぼす、まれな常染色体優性の代謝異常症です。急性ポルフィリン症の中で最も一般的な疾患です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_SPHEROCYTOSE</LocID>
-				<Text>Minkowski-Chauffard disease</Text>
+				<Text>遺伝性球状赤血球症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_SPHEROCYTOSE_DESCRIPTION</LocID>
-				<Text>Minkowski-Chauffard disease or Hereditary spherocytosis is an abnormality of red blood cells, or erythrocytes. The disorder is caused by mutations in genes relating to membrane proteins that allow for the erythrocytes to change shape. The abnormal erythrocytes are sphere-shaped (spherocytosis) rather than the normal biconcave disk shaped.</Text>
+				<Text>遺伝性球状赤血球症、別名ミンコフスキー-シャファード病は、赤血球の異常疾患です。この疾患は、赤血球の形状変化を可能にする膜タンパク質に関連する遺伝子の変異によって引き起こされます。この疾患にでは赤血球は正常な両凹型の円盤状ではなく、球状（スフェロサイトーシス）に変化します。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_MARCHIAFAVA_MICHELI</LocID>
-				<Text>Marchiafava Micheli syndrome</Text>
+				<Text>発作性夜間ヘモグロビン尿症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_MARCHIAFAVA_MICHELI_DESCRIPTION</LocID>
-				<Text>Marchiafava Micheli syndrome or Paroxysmal nocturnal hemoglobinuria (PNH) is a rare, acquired, life-threatening disease of the blood characterized by destruction of red blood cells by the complement system, a part of the body's innate immune system.</Text>
+				<Text>発作性夜間ヘモグロビン尿症（PNH）またはマルキアファヴァ・ミッシェル症候群は、後天的に発症し、生命を脅かすまれな血液疾患であり、身体の自然免疫系の一部である補体系によって赤血球が破壊されることを特徴とします。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_FAVISME</LocID>
-				<Text>Favism</Text>
+				<Text>G6PD欠損症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_FAVISME_DESCRIPTION</LocID>
-				<Text>Favism or Glucose-6-phosphate dehydrogenase deficiency (G6PDD) is an inborn error of metabolism that predisposes to red blood cell breakdown.</Text>
+				<Text>グルコース-6-リン酸デヒドロゲナーゼ欠損症（G6PDD）は、赤血球がもろくなり溶血性貧血などを引き起こす先天性代謝異常症です。ソラマメ中毒の原因でもあります。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_DEFICIT_PK</LocID>
-				<Text>PK deficiency</Text>
+				<Text>ピルビンキナーゼ欠損症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_DEFICIT_PK_DESCRIPTION</LocID>
-				<Text>Pyruvate kinase deficiency is an inherited metabolic disorder of the enzyme pyruvate kinase which affects the survival of red blood cells.</Text>
+				<Text>ピルビン酸キナーゼ欠損症は、赤血球の生存に影響を及ぼすピルビン酸キナーゼという酵素の遺伝的な代謝異常です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_AHAA</LocID>
-				<Text>Autoimmune hemolytic anemia</Text>
+				<Text>自己免疫性溶血性貧血</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_AHAA_DESCRIPTION</LocID>
-				<Text>Autoimmune hemolytic anemia (AIHA) occurs when antibodies directed against the person's own red blood cells (RBCs) cause them to burst (lyse), leading to an insufficient number of oxygen-carrying red blood cells in the circulation.</Text>
+				<Text>自己免疫性溶血性貧血（AIHA）は、自己の赤血球に対する抗体が赤血球の破裂（溶血）を引き起こし、循環中の酸素運搬赤血球の数が不足することにより発症します。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_PTT</LocID>
-				<Text>Moschkowitz disease</Text>
+				<Text>血栓性血小板減少性紫斑病</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_PTT_DESCRIPTION</LocID>
-				<Text>Moschkowitz disease or Thrombotic thrombocytopenic purpura (TTP) is a blood disorder that results in blood clots forming in small blood vessels throughout the body.</Text>
+				<Text>血栓性血小板減少性紫斑病（TTP）またはモシュコビッツ病は、全身の細い血管に血栓ができる血液疾患です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_DREPA_A</LocID>
-				<Text>Acute sickle cell disease</Text>
+				<Text>鎌状赤血球症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_DREPA_C</LocID>
-				<Text>Chronic sickle cell disease</Text>
+				<Text>慢性鎌状赤血球症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_DREPA_DESCRIPTION</LocID>
-				<Text>La drépanocytose, aussi appelée anémie falciforme, est une maladie héréditaire touchant l'hémoglobine des globules rouges.</Text>
+				<Text>鎌状赤血球症は、鎌状赤血球貧血とも呼ばれ、赤血球中のヘモグロビンに影響を及ぼす遺伝性の疾患です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_WILLEBRAND</LocID>
-				<Text>Von Willebrand disease</Text>
+				<Text>フォン・ヴィレブランド病</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_WILLEBRAND_DESCRIPTION</LocID>
-				<Text>Von Willebrand disease (vWD) is the most common hereditary blood-clotting disorder in humans. It arises from a deficiency in the quality or quantity of von Willebrand factor (vWF), a multimeric protein that is required for platelet adhesion.</Text>
+				<Text>フォンウィルブランド病（vWD）は、ヒトで最も一般的な遺伝性の血液凝固異常症です。血小板の接着に必要な多量体タンパク質であるフォンウィルブランド因子（vWF）の質または量の欠乏により発症します。</Text>
 			</GameDBLocalizedString>
 			<!-- v0.03.2  -->
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_NIEMANN-PICK</LocID>
-				<Text>Niemann-Pick disease</Text>
+				<Text>ニーマン・ピック病</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_NIEMANN-PICK_DESCRIPTION</LocID>
-				<Text>Niemann-Pick disease type C (NP-C) is a lysosomal lipid storage disease.</Text>
+				<Text>ニーマン・ピック病C型（NP-C）は、肝臓や脾臓などの神経細胞にライソゾーム型脂質が蓄積する、NPC1遺伝子またはNPC2遺伝子の変異による遺伝病です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_KIMURA</LocID>
-				<Text>Kimura disease</Text>
+				<Text>木村病</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_KIMURA_DESCRIPTION</LocID>
-				<Text>Kimura disease is a benign and chronic inflammatory disorder of unknown etiology, occurring mainly in Asian countries (very rarely in Western countries) and predominantly affecting young men.</Text>
+				<Text>木村病は、主にアジア諸国（欧米諸国ではごく稀）に発生し、若い男性に多く見られる良性の慢性炎症性疾患で、発生原因はまだ解明されていません。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_FANCONI</LocID>
-				<Text>Fanconi anemia</Text>
+				<Text>ファンコニ貧血</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_FANCONI_DESCRIPTION</LocID>
-				<Text>Fanconi anemia (FA) is a hereditary DNA repair disorder. FA is due to mutations in genes involved in DNA repair and genomic stability. Fifteen genes representing 15 complementation groups have been identified.</Text>
+				<Text>ファンコニ貧血（FA）は、遺伝性のDNA修復障害です。FAは、DNA修復とゲノムの安定性に関わる遺伝子の変異が原因で発症します。19のファンコニ貧血責任遺伝子がこれまでに同定されています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_BERNARD-SOULIER</LocID>
-				<Text>Bernard-Soulier syndrome</Text>
+				<Text>ベルナール・スーリエ症候群</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_BERNARD-SOULIER_DESCRIPTION</LocID>
-				<Text>Bernard Soulier syndrome (BSS) is an inherited platelet disorder characterized by mild to severe bleeding tendency , macrothrombocytopenia and absent ristocetin-induced platelet agglutination.</Text>
+				<Text>Bernard Soulier症候群（BSS）は、軽度から重度の出血傾向、巨赤芽球減少症、リストセチンによる血小板凝集の欠如を特徴とする遺伝性の血小板障害です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_THROMBASTHENIE_GLANDZMANN</LocID>
