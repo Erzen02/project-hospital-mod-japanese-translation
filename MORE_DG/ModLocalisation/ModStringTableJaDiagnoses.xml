@@ -673,53 +673,53 @@
 			<!-- ++ v0.03 ++ -->
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_PURPURA_FULMINANS</LocID>
-				<Text>Purpura fulminans</Text>
+				<Text>電撃性紫斑病</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_PURPURA_FULMINANS_DESCRIPTION</LocID>
-				<Text>Purpura fulminans is an acute, often fatal, thrombotic disorder which manifests as blood spots, bruising and discolouration of the skin resulting from coagulation in small blood vessels within the skin and rapidly leads to skin necrosis. Purpura fulminans is a presenting feature of severe acute sepsis.</Text>
+				<Text>急性かつ致死的な血栓性疾患であり、皮膚内の小血管の凝固により、皮膚の血斑、あざ、変色として現れ、急速に皮膚壊死を起こすことがあります。また、重症急性敗血症の症状として現れることもあります。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_CIVD</LocID>
-				<Text>Disseminated intravascular coagulation</Text>
+				<Text>播種性血管内凝固症候群</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_CIVD_DESCRIPTION</LocID>
-				<Text>Disseminated intravascular coagulation (DIC) is a condition in which blood clots form throughout the body, blocking small blood vessels.</Text>
+				<Text>播種性血管内凝固症候群（DIC）とは、全身に血栓ができ、細い血管を塞いでしまう病気です。</Text>
 			</GameDBLocalizedString>
 			<!-- ++ v0.03.2 ++ -->
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_PURPURA_THROMBOPENIQUE</LocID>
-				<Text>Severe thrombocytopenic purpura</Text>
+				<Text>重度の血小板減少症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_PURPURA_THROMBOPENIQUE_DESCRIPTION</LocID>
-				<Text>Severe thrombocytopenia causes purpura: it is petechial, non-infiltrated, isolated or ecchymotic, sometimes associated with large hematomas. The discovery of a purpura requires the prescription of a blood count. The platelet count is usually less than 20 giga/L.</Text>
+				<Text>重度の血小板減少症は、点状、非浸潤性、孤立性または斑点状の紫斑を生じ、時に大きな血腫を伴います。紫斑病が発見された場合、血球計算の処方が必要となります。血小板数は通常20Giga/L以下です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_DRESS_SD</LocID>
-				<Text>DRESS Syndrome</Text>
+				<Text>薬剤性過敏症症候群</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_DRESS_SD_DESCRIPTION</LocID>
-				<Text>Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome, initially recognized as a serious form of cutaneous drug adverse reaction, is now viewed as a drug-related syndrome that can cause life-threatening organ dysfunctions.</Text>
+				<Text>DRESS（Drug reaction with eosinophilia and systemic symptoms）症候群は、当初は重篤な皮膚薬物副作用として認識されていましたが、現在では生命を脅かす臓器機能障害を引き起こす薬物関連症候群と見なされています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_THROMBOPENIE_HEPARINE</LocID>
-				<Text>Heparin-induced thrombocytopenia</Text>
+				<Text>ヘパリン起因性血小板減少症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_THROMBOPENIE_HEPARINE_DESCRIPTION</LocID>
-				<Text>Heparin-induced thrombocytopenia (HIT) is a rare drug-induced, immune-mediated prothrombotic disorder associated with thrombocytopenia and venous and/or arterial thrombosis. HIT results from a humoral immune reaction directed against a complex involving endogenous platelet factor 4 (PF4) and exogenous heparin: auto-antibodies recognize PF4 only when it is complexed with heparin. This immune complex activates the circulating platelets via their FcγRIIA surface receptors, leading to consumptive thrombocytopenia and hypercoagulability. The source of heparin (bovine >porcine), its formulation (unfractionated >low molecular weight >fondaparinux), the dose (prophylactic >therapeutic >heparin flushes), route of administration (subcutaneous >intravenous) and duration of administration (over 4 days >4 days or less) are determining factors.</Text>
+				<Text>ヘパリン起因性血小板減少症（HIT）は、血小板減少や静脈・動脈血栓症を伴う、薬剤を介した稀な血栓症促進疾患です。HITは、内因性血小板第4因子（PF4）と外因性ヘパリンとの複合体に対する体液性免疫反応に起因します：自己抗体は、PF4がヘパリンと複合化された場合にのみ認識します。この免疫複合体は、FcγRIIA表面受容体を介して循環血小板を活性化し、消費性血小板減少症や血液凝固能亢進症を引き起こします。ヘパリンの供給源（ウシ＞ポルシン）、製剤（未分画＞低分子＞フォンダパリヌクス）、投与量（予防＞治療＞ヘパリンフラッシュ）、投与経路（皮下＞静脈内）、投与期間（4日以上＞4日以下）が決定要因です。</Text>
 			</GameDBLocalizedString>
 			<!-- ++ v0.03.3 ++ -->
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_TRANSPLANTATION_COEUR</LocID>
-				<Text>Heart transplant</Text>
+				<Text>心臓移植</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID>
-				<Text>A heart transplant, or a cardiac transplant, is a surgical transplant procedure performed on patients with end-stage heart failure or severe coronary artery disease when other medical or surgical treatments have failed.</Text>
+				<Text>心臓移植は、末期心不全や重度の冠動脈疾患の患者に対し、他の内科的・外科的治療が奏功しなかった場合に行われる外科的移植術です。</Text>
 			</GameDBLocalizedString>
 
 		</LocalizedStrings>
