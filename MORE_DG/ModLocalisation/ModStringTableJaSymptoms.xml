@@ -559,7 +559,7 @@
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_THYROIDE_QUERVAIN_DESCRIPTION</LocID>
-				<Text>シンチグラフィーでは検査部位の固定化は見られませんでした。/Text>
+				<Text>シンチグラフィーでは検査部位の固定化は見られませんでした。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE</LocID>
@@ -731,7 +731,7 @@
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_RP</LocID>
-				<Text>RPの変異</Text>
+				<Text>リボソーム蛋白質の変異</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_RP_DESCRIPTION</LocID>
@@ -739,173 +739,173 @@
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE</LocID>
-				<Text>Glucocerebrosidase deficiency</Text>
+				<Text>グルコセレブロシダーゼ欠乏</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE_DESCRIPTION</LocID>
-				<Text>Low glucocerebrosidase level leading to accumulation of glucosylceramide deposits.</Text>
+				<Text>グルコセレブロシダーゼが減少しており、グルコシルセラミドの沈着が起こりやすくなっています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_SH2D1A</LocID>
-				<Text>SH2D1A mutation </Text>
+				<Text>SH2D1A遺伝子の変異</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_SH2D1A_DESCRIPTION</LocID>
-				<Text>Mutation of the SH2D1A gene which is located on the X chromosome. This gene codes for a protein called SAP (signalling lymphocyte activation molecular [SLAM] associated protein).</Text>
+				<Text>X染色体上に存在するSH2D1A遺伝子の変異が認められました。この遺伝子は、SAPと呼ばれるタンパク質に影響を与えています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_SIDEROBLASTE</LocID>
-				<Text>Sideroblast</Text>
+				<Text>担鉄赤芽球</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_SIDEROBLASTE_DESCRIPTION</LocID>
-				<Text>Sideroblasts have been found. These are iron-containing granulations stained with Perls's reagent, corresponding to aggregates of ribosomes and ferritin.</Text>
+				<Text>担鉄赤芽球が発見された。これはPerls試薬で染色した鉄を含む顆粒で、リボソームとフェリチンの凝集体に相当します。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE</LocID>
-				<Text>Erythroblast</Text>
+				<Text>赤芽球</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE_DESCRIPTION</LocID>
-				<Text>Low erythroblast rate.</Text>
+				<Text>赤芽球が少なくなっています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_HÉMOGLOBINE_C</LocID>
-				<Text>Hemoglobin  C</Text>
+				<Text>C型ヘモグロビン</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_HÉMOGLOBINE_C_DESCRIPTION</LocID>
-				<Text>Discovery of hemoglobins type C with a blood smear.</Text>
+				<Text>血液塗抹標本検査によってC型ヘモグロビンの存在が認められました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_HÉMOGLOBINE_D</LocID>
-				<Text>Hemoglobin  D</Text>
+				<Text>D型ヘモグロビン</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_HÉMOGLOBINE_D_DESCRIPTION</LocID>
-				<Text>Discovery of hemoglobins type D with a blood smear.</Text>
+				<Text>血液塗抹標本検査によってD型ヘモグロビンの存在が認められました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_HÉMOGLOBINE_E</LocID>
-				<Text>Hemoglobin  E</Text>
+				<Text>E型ヘモグロビン</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_HÉMOGLOBINE_E_DESCRIPTION</LocID>
-				<Text>Discovery of hemoglobins type E with a blood smear.</Text>
+				<Text>血液塗抹標本検査によってE型ヘモグロビンの存在が認められました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_HÉMOGLOBINE_M</LocID>
-				<Text>Hemoglobin  M</Text>
+				<Text>ヘモグロビンM</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_HÉMOGLOBINE_M_DESCRIPTION</LocID>
-				<Text>Discovery of hemoglobins type M with a blood smear.</Text>
+				<Text>血液塗抹標本検査によってM型ヘモグロビンの存在が認められました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON</LocID>
-				<Text>Triad</Text>
+				<Text>三徴候</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON_DESCRIPTION</LocID>
-				<Text>Classical triad of dysphagia, iron-deficiency anemia and esophageal webs.</Text>
+				<Text>嚥下障害、鉄欠乏性貧血、食道ウェブの古典的な三徴候です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG</LocID>
-				<Text>Mutation</Text>
+				<Text>ACVRLまたはENG遺伝子の異変</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG_DESCRIPTION</LocID>
-				<Text>A mutation in one of the two ACVRL or ENG genes involved in the TGF-beta signaling pathway has been found.</Text>
+				<Text>TGF-βシグナル伝達経路に関与する2つのACVRLまたはENG遺伝子のいずれかに変異が見つかっています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_LT_ANORMAL</LocID>
-				<Text>Coombs +</Text>
+				<Text>クームス試験の陽性</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_LT_ANORMAL_DESCRIPTION</LocID>
-				<Text>The Coombs test is positive.</Text>
+				<Text>クームス試験は陽性です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_HFE</LocID>
-				<Text>HFE mutation</Text>
+				<Text>HFE 遺伝子の変異</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_HFE_DESCRIPTION</LocID>
-				<Text>The HFE gene located on chromosome 6 is mutated. Two types of alterations exist: the C282Y mutation and the H63D mutation.</Text>
+				<Text>6番染色体上にあるHFE遺伝子に変異がある。C282Y変異とH63D変異の2種類の変異が存在しています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP</LocID>
-				<Text>Mutation</Text>
+				<Text>遺伝子の変異</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP_DESCRIPTION</LocID>
-				<Text>Mutations in the gene coding for hemojuvelin (HJV) on chromosome 1 or mutations in the gene coding for hepcidin (HAMP) on chromosome 19 have been found.</Text>
+				<Text>1番染色体のヘモジュベリン（HJV）をコードする遺伝子の変異や、19番染色体のヘプシジン（HAMP）をコードする遺伝子の変異が見つかっています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_TFR2</LocID>
-				<Text>TFR2 mutation</Text>
+				<Text>トランスフェリン受容体-2遺伝子の変異</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_TFR2_DESCRIPTION</LocID>
-				<Text>Mutations in the transferrin receptor-2 (TFR2) gene on chromosome 7 have been found.</Text>
+				<Text>第7染色体のトランスフェリン受容体-2（TFR2）遺伝子に変異が見つかっています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_SLC40A1</LocID>
-				<Text>SLC40A1 mutation</Text>
+				<Text>SLC40A1遺伝子の変異</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_SLC40A1_DESCRIPTION</LocID>
-				<Text>Mutations in the SLC40A1 gene located on chromosome 2 which codes for ferroportin (FPN) have been found.</Text>
+				<Text>フェロポルチン（FPN）をコードする2番染色体上のSLC40A1遺伝子に変異が見つかっています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE</LocID>
-				<Text>Hypocellular bone marrow</Text>
+				<Text>骨髄の低細胞化</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE_DESCRIPTION</LocID>
-				<Text>The bone marrow is hypocellular, it's "empty".</Text>
+				<Text>骨髄が低細胞性であり、「空」の状態です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE</LocID>
-				<Text>Thrombocytopenic purpura</Text>
+				<Text>血小板減少性紫斑病</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE_DESCRIPTION</LocID>
-				<Text>Symptoms suggestive of thrombocytopenic purpura.</Text>
+				<Text>血小板減少性紫斑病が疑われる症状を確認しました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_DRESS_SD</LocID>
-				<Text>DRESS</Text>
+				<Text>薬剤性過敏症症候群</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_DRESS_SD_DESCRIPTION</LocID>
-				<Text>Symptoms suggestive of DRESS syndrome.</Text>
+				<Text>薬剤性過敏症症候群を示唆する症状を確認しました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P</LocID>
-				<Text>Anti-PF4 ab</Text>
+				<Text>抗PF4 / ヘパリン抗体の検出</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P_DESCRIPTION</LocID>
-				<Text>Anti-PF4 / heparin antibodies were detected by ELISA.</Text>
+				<Text>抗PF4 / ヘパリン抗体をELISA法により検出しました。</Text>
 			</GameDBLocalizedString>
 			<!-- v0.03.3 -->
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_CORTISOL_EFF</LocID>
-				<Text>Very low cortisol</Text>
+				<Text>コルチゾール濃度の大幅低下</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_CORTISOL_EFF_DESCRIPTION</LocID>
-				<Text>The cortisol level in the blood is very low.</Text>
+				<Text>血中のコルチゾール濃度が非常に低くなっています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR</LocID>
-				<Text>Transplant</Text>
+				<Text>心臓移植</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID>
-				<Text>This patient urgently needs a heart transplant!</Text>
+				<Text>この患者には、早急な心臓移植が必要です！</Text>
 			</GameDBLocalizedString>
 
 		</LocalizedStrings>
