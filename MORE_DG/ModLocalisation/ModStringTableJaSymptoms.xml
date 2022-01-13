@@ -369,7 +369,7 @@
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE_DESCRIPTION</LocID>
-				<Text>腹腔動脈と腸間膜動脈の閉塞。</Text>
+				<Text>腹腔動脈と腸間膜動脈の閉塞です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ISCHEMIE_MS</LocID>
@@ -389,185 +389,185 @@
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE</LocID>
-				<Text>Occlusion of mesenteric arteries</Text>
+				<Text>腸間膜動脈閉塞</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</LocID>
-				<Text>It is an acute arterial occlusion or low flow.</Text>
+				<Text>腸間膜動脈の急性閉塞や低流動性を指します。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA</LocID>
-				<Text>AAA ruptured</Text>
+				<Text>腹部大動脈瘤の破裂</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA_DESCRIPTION</LocID>
-				<Text>Ruptured abdominal aortic aneurysm.</Text>
+				<Text>腹部大動脈瘤の破裂が起きています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC</LocID>
-				<Text>IAA ruptured</Text>
+				<Text>総腸骨動脈瘤の破裂</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC_DESCRIPTION</LocID>
-				<Text>Rupture of a common iliac artery aneurysm.</Text>
+				<Text>総腸骨動脈瘤の破裂が起きています。</Text>
 			</GameDBLocalizedString>
 			<!-- v0.02 -->
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_TESTO</LocID>
-				<Text>Low bioavailable testosterone</Text>
+				<Text>生物学的利用能のあるテストステロンの低下</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_TESTO_DESCRIPTION</LocID>
-				<Text>Significant drop in circulating testosterone.</Text>
+				<Text>循環型テストステロンの著しい低下が起きています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PROLACTINOME_F</LocID>
-				<Text>Prolactinoma</Text>
+				<Text>プロラクチノーマ</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PROLACTINOME_H</LocID>
-				<Text>Prolactinoma</Text>
+				<Text>プロラクチノーマ</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PROLACTINOME_DESCRIPTION</LocID>
-				<Text>Discovery of a prolactinoma on MRI.</Text>
+				<Text>MRIでプロラクチノーマを検出しました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE</LocID>
-				<Text>Somatotropic adenoma</Text>
+				<Text>成長ホルモン分泌腺腫</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE_DESCRIPTION</LocID>
-				<Text>No braking during the "minute" brake test.</Text>
+				<Text>No braking during the "minute" brake test.（原文の指している内容が不明）</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_F</LocID>
-				<Text>Corticotropic adenoma</Text>
+				<Text>副腎皮質刺激ホルモン分泌腺腫</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_H</LocID>
-				<Text>Corticotropic adenoma</Text>
+				<Text>副腎皮質刺激ホルモン分泌腺腫</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_DESCRIPTION</LocID>
-				<Text>The test is in favor of the diagnosis of non-curable hypercortisolism if the cortisolemia does not drop below the threshold of 18 ng / ml [50 nmol / l]</Text>
+				<Text>この検査でコルチゾール量が18 ng / ml [50 nmol / l]の閾値を下回らなければ、非治癒性高コルチゾール血症の診断に利用されます。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ADENOME_THYREOTROPE</LocID>
-				<Text>Thyrotropic adenoma</Text>
+				<Text>甲状腺機能性腺腫</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ADENOME_THYREOTROPE_DESCRIPTION</LocID>
-				<Text>Discovery of central hyperthyroidism at the blood test. This is characterized by a high concentration of thyroid hormones associated with a normal high or abnormal concentration of TSH.</Text>
+				<Text>血液検査で甲状腺機能性腺腫を発見しました。これは、TSHの正常高濃度または異常濃度に伴う甲状腺ホルモンの高濃度が特徴です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_F</LocID>
-				<Text>Panhypopituitarism</Text>
+				<Text>汎下垂体機能低下症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_H</LocID>
-				<Text>Panhypopituitarism</Text>
+				<Text>汎下垂体機能低下症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_DESCRIPTION</LocID>
-				<Text>Discovery of a pituitary adenoma that prevents the proper functioning of the pineal gland on MRI.</Text>
+				<Text>MRIで松果腺の正常な機能を阻害する下垂体腺腫を発見しました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ISRNP_F</LocID>
-				<Text>Peripheral adrenal insufficiency</Text>
+				<Text>末梢性副腎機能不全</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ISRNP_H</LocID>
-				<Text>Peripheral adrenal insufficiency</Text>
+				<Text>末梢性副腎機能不全</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ISRNP_DESCRIPTION</LocID>
-				<Text>Discovery of peripheral adrenal insufficiency during the Synacthene test. This is characterized by a low cortisol level associated with a high concentration of ACTH.</Text>
+				<Text>ACTH刺激試験で末梢性副腎機能不全を発見しました。これは高濃度のACTHとコルチゾール値の低さが特徴です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_21OH_F</LocID>
-				<Text>21-OH deficiency</Text>
+				<Text>21水酸化酵素欠損症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_21OH_H</LocID>
-				<Text>21-OH deficiency</Text>
+				<Text>21水酸化酵素欠損症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_21OH_DESCRIPTION</LocID>
-				<Text>It is accepted by the entire endocrinologist community that the diagnosis of D21OH-NC is based on the dosage of 17OHP in the morning and at best in the first part of the cycle. The sample must be taken in the absence of or at a distance from treatment with glucocorticoids, since even "substitute" treatment and a fortiori pharmacological treatment introduces a risk of ignoring the diagnosis (false negative) by inhibiting the corticotropic axis. The sampling for the determination of 17OHP must also be done in the morning, because if it is done in the afternoon, the concentration of 17OHP can be found within the normal range in a patient with D21OH-NC simply because of fluctuations nycthemeral of adrenal cortical function.</Text>
+				<Text>21-水酸化酵素欠損症、D21OH-NCの診断は、朝、かつ治療の最初に17-ヒドロキシプロゲステロンを投与して行われることが望ましいということは、内分泌学者全員が認めるところです。グルココルチコイドによる治療の予定の無い場合か、または治療の影響を受けないようにサンプルを採取しなければなりません。なぜなら、「代用」治療や必然的な薬物治療でさえ、副腎皮質刺激性軸を阻害することによって診断を無視する（偽陰性）リスクを導入するからです。サンプリングも午前中に行わなければなりません。午後に行うと、副腎皮質機能の周期的な変動により、患者のサンプル濃度が正常範囲に収まることがあるからです。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ISF_CORTICOT</LocID>
-				<Text>Central adrenal insufficiency</Text>
+				<Text>中枢性副腎不全</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ISF_CORTICOT_DESCRIPTION</LocID>
-				<Text>Discovery of central adrenal insufficiency during the Synacthene test. This is characterized by low cortisol levels associated with a low or abnormally normal concentration of ACTH.</Text>
+				<Text>シナクテン検査で中枢性副腎機能不全を発見しました。結果は、ACTHの低濃度とコルチゾールレベルの低さを特徴とします。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_AC_ANTI_CASR</LocID>
-				<Text>Anti-CASR Ab</Text>
+				<Text>抗CaSR抗体</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_AC_ANTI_CASR_DESCRIPTION</LocID>
-				<Text>Discovery of anti-CASR antibody during the ELISA test.</Text>
+				<Text>ELISA検査により抗CaSR抗体の存在が認められました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE</LocID>
-				<Text>Parathyroid adenoma</Text>
+				<Text>副甲状腺腺腫</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE_DESCRIPTION</LocID>
-				<Text>Parathyroid adenoma fixing to scintigraphy.</Text>
+				<Text>シンチグラフィー検査により副甲状腺腺腫の存在が認められました。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_CONN</LocID>
-				<Text>Adrenal adenoma</Text>
+				<Text>副腎腺腫</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_CONN_DESCRIPTION</LocID>
-				<Text>Discovery of an adrenal adenoma secreting on CT.</Text>
+				<Text>CTスキャンにより副腎腺腫の分泌の存在が認められました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_HPBL_SRN</LocID>
-				<Text>Adrenal hypertrophy</Text>
+				<Text>副腎肥大</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_HPBL_SRN_DESCRIPTION</LocID>
-				<Text>Increase in size of the adrenal gland on CT scan.</Text>
+				<Text>CTスキャンにより副腎の大きさの増大が認められました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_INSULINOME</LocID>
-				<Text>Inappropriate secretion</Text>
+				<Text>不適切なインスリン・ペプチドCの分泌</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_INSULINOME_DESCRIPTION</LocID>
-				<Text>Inappropriate (normal or high) insulin and peptide C secretion in hypoglycaemia.</Text>
+				<Text>低血糖におけるインスリンおよびペプチドCの不適切な（正常または高）分泌が起きています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_SD_HGP</LocID>
-				<Text>Pancreatic hypoglycemia</Text>
+				<Text>膵臓性低血糖</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_SD_HGP_DESCRIPTION</LocID>
-				<Text>Hypoglycemia of pancreatic origin not linked to an insulin-secreting adenoma.</Text>
+				<Text>インスリン分泌腺腫と関連のない膵臓由来の低血糖症が起きています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_THYROIDE_QUERVAIN</LocID>
-				<Text>White scintigraphye</Text>
+				<Text>白色のシンチグラフィー</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_THYROIDE_QUERVAIN_DESCRIPTION</LocID>
-				<Text>Abscence of fixation with scintigraphy.</Text>
+				<Text>シンチグラフィーでは検査部位の固定化は見られませんでした。/Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE</LocID>
-				<Text>"Checkerboard" scintigraphy</Text>
+				<Text>シンチグラフィーでの”市松模様”</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE_DESCRIPTION</LocID>
-				<Text>Alternating hot and cold beaches (checkerboard) with scintigraphy.</Text>
+				<Text>シンチグラフィーでフィルムに温度差による市松模様状の斑が出来ています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ADENOME_TOXIQUE</LocID>
@@ -575,127 +575,127 @@
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_ADENOME_TOXIQUE_DESCRIPTION</LocID>
-				<Text>Hyperfixation of the isotope at the level of the nodule while the rest of the parenchyma is hypofixant or cold or "extinct" (due to the decrease in TSH), on scintigraphy.</Text>
+				<Text>シンチグラフィーでは、結節のレベルで同位体の高固定化が見られる一方、残りの実質層は低固定化または低温、あるいは「消滅」（TSHの減少による）しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_HYPEROSMOLAIRE</LocID>
-				<Text>Hyperosmolality</Text>
+				<Text>高浸透圧性</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_HYPEROSMOLAIRE_DESCRIPTION</LocID>
-				<Text>An unusually high osmolality.</Text>
+				<Text>浸透圧が異常に高くなっています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_CETONEMIE</LocID>
-				<Text>Ketonemia</Text>
+				<Text>ケトン血症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_CETONEMIE_DESCRIPTION</LocID>
-				<Text>An excess of ketones in the blood.</Text>
+				<Text>血液中にケトン体が過剰に存在する状態です。</Text>
 			</GameDBLocalizedString>
 			<!-- v0.03 -->
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PBG-D</LocID>
-				<Text>Low PBG-D</Text>
+				<Text>ポルフォビリノーゲンデアミナーゼ量の低下</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PBG-D_DESCRIPTION</LocID>
-				<Text>Porphobilinogen deaminase (hydroxymethylbilane synthase, or uroporphyrinogen I synthase) is an enzyme that in humans is encoded by the HMBS gene. Porphobilinogen deaminase is involved in the third step of the heme biosynthetic pathway.</Text>
+				<Text>ポルフォビリノーゲンデアミナーゼ（ヒドロキシメチルビラン合成酵素、ウロポルフィリノーゲンI合成酵素）は、ヒトではHMBS遺伝子に影響される酵素です。ポルフォビリノーゲンデアミナーゼは、ヘム生合成経路の第三段階に関与しています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_SPHEROCYTE</LocID>
-				<Text>Spherocyte</Text>
+				<Text>球状赤血球</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_SPHEROCYTE_DESCRIPTION</LocID>
-				<Text>Discovery of spherocytes in the blood smear.</Text>
+				<Text>血液塗抹標本中に球状になった赤血球を認めました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_DEFICIT_GPI</LocID>
-				<Text>Low GPI</Text>
+				<Text>グルコース-6-リン酸イソメラーゼ量の低下</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_DEFICIT_GPI_DESCRIPTION</LocID>
-				<Text>Glucose-6-phosphate isomerase (GPI), alternatively known as phosphoglucose isomerase/phosphoglucoisomerase (PGI) or phosphohexose isomerase (PHI), is an enzyme that in humans is encoded by the GPI gene on chromosome 19. In the cytoplasm, the gene product functions as a glycolytic enzyme (glucose-6-phosphate isomerase) that interconverts glucose-6-phosphate (G6P) and fructose-6-phosphate (F6P).</Text>
+				<Text>グルコース-6-リン酸イソメラーゼ（GPI）は、別名ホスホグルコースイソメラーゼ（PGI）またはホスホヘキソースイソメラーゼ（PHI）と呼ばれ、ヒトでは19番染色体上のGPI遺伝子に影響される酵素です。細胞質では、この遺伝子産物は、グルコース-6-リン酸（G6P）とフルクトース-6-リン酸（F6P）を相互変換する解糖系酵素（グルコース-6-リン酸イソメラーゼ）として機能しています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_DEFICIT_G6PD</LocID>
-				<Text>Low G6PD</Text>
+				<Text>グルコース-6-リン酸デヒドロゲナーゼ量の低下</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_DEFICIT_G6PD_DESCRIPTION</LocID>
-				<Text>Glucose-6-phosphate dehydrogenase (G6PD or G6PDH) is a cytosolic enzyme that helps protect the red blood cells against oxidative damage from compounds like hydrogen peroxide.</Text>
+				<Text>グルコース-6-リン酸デヒドロゲナーゼ（G6PDまたはG6PDH）は細胞質酵素であり、過酸化水素などの化合物による酸化的損傷から赤血球を保護するのに役立っています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PK_BAS</LocID>
-				<Text>Low PK</Text>
+				<Text>ピルビン酸キナーゼ量の低下</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PK_BAS_DESCRIPTION</LocID>
-				<Text>Pyruvate kinase is the enzyme involved in the last step of glycolysis.</Text>
+				<Text>ピルビン酸キナーゼは、解糖の最後の段階に関与する酵素です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MORE_DG_TEST_COMBS_D</LocID>
-				<Text>Coombs +</Text>
+				<Text>クームス試験陽性</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MORE_DG_TEST_COMBS_D_DESCRIPTION</LocID>
-				<Text>The Coombs test is positive.</Text>
+				<Text>クームス試験は陽性です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_DEFICIT_ADAMTS13</LocID>
-				<Text>Low ADAMTS13</Text>
+				<Text>ADAMTS13量の低下</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_DEFICIT_ADAMTS13_DESCRIPTION</LocID>
-				<Text>ADAMTS13 (a disintegrin and metalloproteinase with a thrombospondin type 1 motif, member 13)—also known as von Willebrand factor-cleaving protease (VWFCP)—is a zinc-containing metalloprotease enzyme that cleaves von Willebrand factor (vWf), a large protein involved in blood clotting.</Text>
+				<Text>ADAMTS13、別名フォンウィルブランド因子切断プロテアーゼ（VWFCP）は、亜鉛含有金属タンパク質酵素で、血液凝固に関わる大型タンパク質vWf（フォンウィルブラント因子）を切断する酵素として知られています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_DREPANOCYTE_A</LocID>
-				<Text>Drepanocyte</Text>
+				<Text>鎌状赤血球</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_DREPANOCYTE_C</LocID>
-				<Text>Drepanocyte</Text>
+				<Text>鎌状赤血球</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_DREPANOCYTE_DESCRIPTION</LocID>
-				<Text>Discovery of drepanocytes in the blood smear.</Text>
+				<Text>血液塗抹標本中に鎌状になった赤血球を認めました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_vWF</LocID>
-				<Text>Low vWF</Text>
+				<Text>フォンウィルブランド因子の量の低下</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_vWF_DESCRIPTION</LocID>
-				<Text>von Willebrand factor (VWF) (/ˌfʌnˈvɪlɪbrɑːnt/) is a blood glycoprotein involved in hemostasis.</Text>
+				<Text>フォンウィルブランド因子（VWF）は、止血に関与する血液中の糖タンパク質です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PURPURA_FULMINANS</LocID>
-				<Text>Purpura fulminans</Text>
+				<Text>電撃性紫斑病</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PURPURA_FULMINANS_DESCRIPTION</LocID>
-				<Text>Purpura fulminans discovered.</Text>
+				<Text>電撃性紫斑病が認められました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_CIVD_DECOMPENSE</LocID>
-				<Text>DIC decompensated</Text>
+				<Text>播種性血管内凝固症候群による減圧</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_CIVD_DECOMPENSE_DESCRIPTION</LocID>
-				<Text>DIC discovered.</Text>
+				<Text>播種性血管内凝固症候群が認められました。</Text>
 			</GameDBLocalizedString>
 			<!-- v0.03.2 -->
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_NPC1_MUTE</LocID>
-				<Text>NPC1 muté</Text>
+				<Text>NPC1の変異</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_NPC1_MUTE_DESCRIPTION</LocID>
-				<Text>The proteins NPC1 and NPC2 seem to work at the level of the endo-lysosomal system to facilitate the intracellular transport of cholesterol and other molecules, but their precise function is not yet known.</Text>
+				<Text>NPC1およびNPC2というタンパク質は、エンド・リソソーム系のレベルでコレステロールやその他の分子の細胞内輸送を促進するために働いているようですが、その正確な機能はまだわかっていません。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_IGE_PNE</LocID>
@@ -703,39 +703,39 @@
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_IGE_PNE_DESCRIPTION</LocID>
-				<Text>Hyperososinophilia and elevated total IgE.</Text>
+				<Text>過好酸球増加と免疫グロブリンの一種であるIgE抗体の増加が確認されました。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_CASSURE_K</LocID>
-				<Text>Test +</Text>
+				<Text>検査での陽性</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_CASSURE_K_DESCRIPTION</LocID>
-				<Text>Chromosome breakage analysis is positive.</Text>
+				<Text>染色体切断解析は陽性です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PLAQUETTES_GEANTES</LocID>
-				<Text>Macrothrombocytes</Text>
+				<Text>巨大血小板性血小板減少症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_PLAQUETTES_GEANTES_DESCRIPTION</LocID>
-				<Text>More than 10% of the platelets studied are giant.</Text>
+				<Text>調査した血小板のうち10％以上が巨大血小板です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_DEFICIT_AIIB_B3</LocID>
-				<Text>Abnormal integrin</Text>
+				<Text>インテグリンの異常</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_DEFICIT_AIIB_B3_DESCRIPTION</LocID>
-				<Text>Quantitative and / or qualitative anomalies of the integrin alphaIIb beta3 are found.</Text>
+				<Text>インテグリンαIIbβ3の量的および/または質的異常が認められます。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_RP</LocID>
-				<Text>RP Mutations</Text>
+				<Text>RPの変異</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_MUTATION_RP_DESCRIPTION</LocID>
-				<Text>Ribosomal proteins (RPs) from either the small (RPS7, RPS17, RPS19, RPS24) or the large (RPL5, RPL11, RPL35a) ribosomal subunit are mutated.</Text>
+				<Text>小（RPS7、RPS17、RPS19、RPS24）または大リボソームサブユニット（RPL5、RPL11、RPL35a）のリボソーム蛋白質（RP）に異変が認められます。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE</LocID>
