@@ -2,149 +2,150 @@
 	<!-- Community Resource Pack -->
 	<GameDBStringTable ID="LOC_EN_ADDON_CRP_SLEEPY_EXAMINATIONS">
 
-		<LanguageCode>en</LanguageCode>
-		<LanguageNameLocalized>English</LanguageNameLocalized>
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
 
 		<Contributors>
 			<Name>Sleepy068</Name>
 			<Name>MacNaab</Name>
 			<Name>James</Name>
+			<Name>Erzen</Name>
 		</Contributors>
 
 		<LocalizedStrings>
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_CCBT</LocID>
-				<Text>Catecholamine Blood Sampling</Text>
+				<Text>カテコールアミン血液検査 - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_CCBT_DESC</LocID>
-				<Text>Catecholamine blood tests measure the amount of catecholamines in your body. “Catecholamines” is an umbrella term for the hormones dopamine, norepinephrine, and epinephrine. \n\nRequired Lab: Haematology</Text>
+				<Text>カテコールアミン血液検査は、体内のカテコラミンの量を測定する検査です。「カテコールアミン」とは、ドーパミン、ノルエピネフリン、エピネフリンというホルモンの総称です。 \n\n必要な検査室: 血液検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_CCBT_TEST</LocID>
-				<Text>Catecholamine Blood Test</Text>
+				<Text>カテコールアミン血液検査 - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_CCBT_TEST_DESC</LocID>
-				<Text>Catecholamine blood tests measure the amount of catecholamines in your body. “Catecholamines” is an umbrella term for the hormones dopamine, norepinephrine, and epinephrine.</Text>
+				<Text>カテコールアミン血液検査は、体内のカテコラミンの量を測定する検査です。「カテコールアミン」とは、ドーパミン、ノルエピネフリン、エピネフリンというホルモンの総称です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_CA</LocID>
-				<Text>CA Blood Sampling</Text>
+				<Text>がん抗原（CA）検査 - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_CA_DESC</LocID>
-				<Text>A Cancer Antigen (CA) test is a blood test used to help diagnose and manage certain types of cancers. Tumour markers are substances, usually proteins, that are produced by the body in response to cancer growth or by the cancer tissue itself. Some tumour markers are specific for one type of cancer, while others are seen in several cancer types. Many of the well-known markers are seen in non-cancerous conditions as well as cancer. Consequently, they cannot be used to diagnose cancer. \n\nRequired Lab: Haematology</Text>
+				<Text>がん抗原（CA）検査は、ある種のがんの診断と管理に用いられる血液検査です。腫瘍マーカーとは、がんの増殖に反応して、あるいはがん組織そのものによって体内で生成される物質で、通常はタンパク質のことです。腫瘍マーカーには、ある種のがんに特異的なものもあれば、複数の種類のがんに認められるものもあります。よく知られたマーカーの多くは、がんだけでなく、がんでない状態でも見られます。そのため、この検査のみをがんの特定に使用することはできません。 \n\n必要な検査室: 血液検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_CA_TEST</LocID>
-				<Text>CA Blood Test</Text>
+				<Text>がん抗原（CA）検査 - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_CA_TEST_DESC</LocID>
-				<Text>A Cancer Antigen (CA) test is a blood test used to help diagnose and manage certain types of cancers. Tumour markers are substances, usually proteins, that are produced by the body in response to cancer growth or by the cancer tissue itself. Some tumour markers are specific for one type of cancer, while others are seen in several cancer types. Many of the well-known markers are seen in non-cancerous conditions as well as cancer. Consequently, they cannot be used to diagnose cancer.</Text>
+				<Text>がん抗原（CA）検査は、ある種のがんの診断と管理に用いられる血液検査です。腫瘍マーカーとは、がんの増殖に反応して、あるいはがん組織そのものによって体内で生成される物質で、通常はタンパク質のことです。腫瘍マーカーには、ある種のがんに特異的なものもあれば、複数の種類のがんに認められるものもあります。よく知られたマーカーの多くは、がんだけでなく、がんでない状態でも見られます。そのため、この検査のみをがんの特定に使用することはできません。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_COLONOSCOPY</LocID>
-				<Text>Colonoscopy</Text>
+				<Text>大腸内視鏡検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_COLONOSCOPY_DESC</LocID>
-				<Text>A colonoscopy is a medical procedure that is done to look for cancer, colon polyps or other abnormalities inside your bowel. Colonoscopy is done using an instrument called a colonoscope (a type of endoscope) — a long, thin, flexible tube containing a camera and a light.</Text>
+				<Text>大腸内視鏡検査は、がんや大腸ポリープなど、腸の中の異常を調べるために行われる医療行為です。大腸内視鏡検査は、大腸内視鏡（内視鏡の一種）と呼ばれる器具、すなわちカメラと照明の入った細長く柔軟なチューブを用いて行われます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_UAS</LocID>
-				<Text>Urine Antigen Screen Sampling</Text>
+				<Text>尿中抗原検査 - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_UAS_DESC</LocID>
-				<Text>Urine test to check the amount of cancer based antigens in the urine. By capitalizing on the concentration of shed antigen from a variety of pathogens in the kidneys for excretion in the urine, urinary antigen testing can be used to obtain rapid test results. \n\nRequired Lab: Histology</Text>
+				<Text>尿中に含まれるがん由来の抗原の量を調べる尿検査です。さまざまな病原体から排出された抗原が腎臓で濃縮されて尿中に排泄されることを利用し、尿中抗原検査を行うことで、迅速に検査結果を得ることができます。 \n\n必要な検査室: 組織検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_UAS_TEST</LocID>
-				<Text>Urine Antigen Screen Test</Text>
+				<Text>尿中抗原検査 - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_UAS_TEST_DESC</LocID>
-				<Text>Urine test to check the amount of cancer based antigens in the urine. By capitalizing on the concentration of shed antigen from a variety of pathogens in the kidneys for excretion in the urine, urinary antigen testing can be used to obtain rapid test results.</Text>
+				<Text>尿中に含まれるがん由来の抗原の量を調べる尿検査です。さまざまな病原体から排出された抗原が腎臓で濃縮されて尿中に排泄されることを利用し、尿中抗原検査を行うことで、迅速に検査結果を得ることができます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_BONEBIOPSY_SAMPLE</LocID>
-				<Text>Bone Marrow Biopsy Sample</Text>
+				<Text>骨髄生検 - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_BONEBIOPSY_SAMPLE_DESC</LocID>
-				<Text>A bone marrow biopsy collects a cylindrical core sample that preserves the marrow's structure. The biopsy sample is evaluated by a specialist to determine cellularity, the volume of cells is compared to the volume of other components of the bone marrow, whether the different cell lineages are present in adequate numbers and if there are any abnormal infiltrates in the marrow. \n\nRequired Lab: Histology</Text>
+				<Text>骨髄生検では、骨髄の構造を保存した円柱状のコア試料を採取します。生検試料は専門医によって評価され、細胞の量、骨髄の他の成分の量との比較、異なる細胞系列が十分な数で存在するかどうか、骨髄に異常な浸潤があるかどうかが判断されます。 \n\n必要な検査室: 組織検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_BONEBIOPSY_TEST</LocID>
-				<Text>Bone Marrow Biopsy Test</Text>
+				<Text>骨髄生検 - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_BONEBIOPSY_TEST_DESC</LocID>
-				<Text>A bone marrow biopsy collects a cylindrical core sample that preserves the marrow's structure. The biopsy sample is evaluated by a specialist to determine cellularity, the volume of cells is compared to the volume of other components of the bone marrow, whether the different cell lineages are present in adequate numbers and if there are any abnormal infiltrates in the marrow.</Text>
+				<Text>骨髄生検では、骨髄の構造を保存した円柱状のコア試料を採取します。生検試料は専門医によって評価され、細胞の量、骨髄の他の成分の量との比較、異なる細胞系列が十分な数で存在するかどうか、骨髄に異常な浸潤があるかどうかが判断されます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_FLOWCYT</LocID>
-				<Text>Flow Cytometry Sample</Text>
+				<Text>フローサイトメトリー - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_FLOWCYT_DESC</LocID>
-				<Text>Flow cytometry is a technique used to detect and measure physical and chemical characteristics of a population of cells or particles. A sample containing cells or particles is suspended in a fluid and injected into the flow cytometer instrument. \n\nRequired Lab: Histology</Text>
+				<Text>フローサイトメトリーとは、細胞や粒子の集団の物理的・化学的特性を検出・測定するための計測技術です。細胞や粒子を含む試料を液体に分散させ、フローサイトメーターの装置に注入し、光学的に観察します。\n\n必要な検査室: 血液検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_FLOWCYT_TEST</LocID>
-				<Text>Flow Cytometry Test</Text>
+				<Text>フローサイトメトリー - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_FLOWCYT_TEST_DESC</LocID>
-				<Text>Flow cytometry is a technique used to detect and measure physical and chemical characteristics of a population of cells or particles. A sample containing cells or particles is suspended in a fluid and injected into the flow cytometer instrument.</Text>
+				<Text>フローサイトメトリーとは、細胞や粒子の集団の物理的・化学的特性を検出・測定するための計測技術です。細胞や粒子を含む試料を液体に分散させ、フローサイトメーターの装置に注入し、光学的に観察します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_CBC_SAMPLING</LocID>
-				<Text>(Oncology) CBC Sampling</Text>
+				<Text>(腫瘍学）CBCサンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE</LocID>
-				<Text>Blood Smear Sample</Text>
+				<Text>末梢血塗抹標本 - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE_DESC</LocID>
-				<Text>A blood film—or peripheral blood smear—is a thin layer of blood smeared on a glass microscope slide and then stained in such a way as to allow the various blood cells to be examined microscopically. \n\nRequired Lab: Histology</Text>
+				<Text>血液フィルム（末梢血塗抹標本）は、スライドガラスに薄く塗った血液を染色し、さまざまな血球を顕微鏡で観察できるようにしたものです。 \n\n必要な検査室: 血液検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_BLOOD_SMEAR_TEST</LocID>
-				<Text>Blood Smear Test</Text>
+				<Text>末梢血塗抹標本 - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_BLOOD_SMEAR_TEST_DESC</LocID>
-				<Text>A blood film—or peripheral blood smear—is a thin layer of blood smeared on a glass microscope slide and then stained in such a way as to allow the various blood cells to be examined microscopically.</Text>
+				<Text>血液フィルム（末梢血塗抹標本）は、スライドガラスに薄く塗った血液を染色し、さまざまな血球を顕微鏡で観察できるようにしたものです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
