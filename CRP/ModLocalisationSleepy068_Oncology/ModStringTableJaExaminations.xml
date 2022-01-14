@@ -150,212 +150,212 @@
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_LIVER_FT_SAMPLING</LocID>
-				<Text>Liver Function Test Sampling</Text>
+				<Text>>肝機能検査（LFT） - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_LIVER_FT_SAMPLING_DESC</LocID>
-				<Text>Liver function tests (also called LFTs) are blood tests that can provide information about how your liver is working. They test the levels of a number of proteins and enzymes that are either produced by liver cells or released into the blood when liver cells are damaged. \n\nRequired Lab: Haematology</Text>
+				<Text>肝機能検査（LFT）は、肝臓の働きに関する情報を得ることができる血液検査です。この検査では、肝細胞で作られるタンパク質や酵素、あるいは肝細胞が損傷を受けた際に血液中に放出されるタンパク質や酵素の濃度が調べられます。 \n\n必要な検査室: 血液検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_LIVER_FT_TEST</LocID>
-				<Text>Liver Function Test</Text>
+				<Text>肝機能検査（LFT） - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_LIVER_FT_TEST_DESC</LocID>
-				<Text>Liver function tests (also called LFTs) are blood tests that can provide information about how your liver is working. They test the levels of a number of proteins and enzymes that are either produced by liver cells or released into the blood when liver cells are damaged.</Text>
+				<Text>肝機能検査（LFT）は、肝臓の働きに関する情報を得ることができる血液検査です。この検査では、肝細胞で作られるタンパク質や酵素、あるいは肝細胞が損傷を受けた際に血液中に放出されるタンパク質や酵素の濃度が調べられます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_FISH_SAMPLE</LocID>
-				<Text>F.I.S.H. Sampling</Text>
+				<Text>FISH法 - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_FISH_SAMPLE_DESC</LocID>
-				<Text>Fluorescence in situ hybridization (FISH) is a molecular cytogenetic technique that uses fluorescent probes that bind to only those parts of a nucleic acid sequence with a high degree of sequence complementarity. It was developed by biomedical researchers in the early 1980s to detect and localize the presence or absence of specific DNA sequences on chromosomes. Fluorescence microscopy can be used to find out where the fluorescent probe is bound to the chromosomes. FISH is often used for finding specific features in DNA for use in genetic counseling, medicine, and species identification. FISH can also be used to detect and localize specific RNA targets (mRNA, lncRNA and miRNA) in cells, circulating tumor cells, and tissue samples. \n\nRequired Lab: Histology</Text>
+				<Text>蛍光in situハイブリダイゼーション法（FISH）は、核酸配列のうち配列相補性の高い部分のみに結合する蛍光プローブを用いた分子細胞遺伝学的手法の一つです。1980年代初頭に生物医学研究者によって開発され、染色体上の特定のDNA配列の有無の検出と局在化を目的としています。蛍光顕微鏡を用いることで、蛍光プローブが染色体のどこに結合しているかを調べることができます。FISHは、遺伝カウンセリング、医学、種の同定に用いるために、DNAの特定の特徴を見つけるためにしばしば使用されます。また、細胞、循環腫瘍細胞、組織サンプル中の特定のRNA標的（mRNA、lncRNA、miRNA）を検出し、局在させるためにも使用されることがあります。 \n\n必要な検査室: 血液検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_FISH_TEST</LocID>
-				<Text>F.I.S.H. Test</Text>
+				<Text>FISH法 - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_FISH_TEST_DESC</LocID>
-				<Text>Fluorescence in situ hybridization (FISH) is a molecular cytogenetic technique that uses fluorescent probes that bind to only those parts of a nucleic acid sequence with a high degree of sequence complementarity. It was developed by biomedical researchers in the early 1980s to detect and localize the presence or absence of specific DNA sequences on chromosomes. Fluorescence microscopy can be used to find out where the fluorescent probe is bound to the chromosomes. FISH is often used for finding specific features in DNA for use in genetic counseling, medicine, and species identification. FISH can also be used to detect and localize specific RNA targets (mRNA, lncRNA and miRNA) in cells, circulating tumor cells, and tissue samples.</Text>
+				<Text>蛍光in situハイブリダイゼーション法（FISH）は、核酸配列のうち配列相補性の高い部分のみに結合する蛍光プローブを用いた分子細胞遺伝学的手法の一つです。1980年代初頭に生物医学研究者によって開発され、染色体上の特定のDNA配列の有無の検出と局在化を目的としています。蛍光顕微鏡を用いることで、蛍光プローブが染色体のどこに結合しているかを調べることができます。FISHは、遺伝カウンセリング、医学、種の同定に用いるために、DNAの特定の特徴を見つけるためにしばしば使用されます。また、細胞、循環腫瘍細胞、組織サンプル中の特定のRNA標的（mRNA、lncRNA、miRNA）を検出し、局在させるためにも使用されることがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_IV_STAINING_SAMPLE</LocID>
-				<Text>In Vitro Staining Sampling</Text>
+				<Text>In vitro染色 - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_IV_STAINING_SAMPLE_DESC</LocID>
-				<Text>Staining is a technique used to enhance contrast in samples, generally at the microscopic level. Stains and dyes are frequently used in histology (the study of tissue under the microscope) and in the medical fields of histopathology, hematology, and cytopathology that focus on the study and diagnoses disease at a microscopic level. Stains may be used to define biological tissues (highlighting, for example, muscle fibers or connective tissue), cell populations (classifying different blood cells), or organelles within individual cells. \n\nRequired Lab: Histology</Text>
+				<Text>染色とは、一般的に顕微鏡で試料のコントラストを強調するために用いられる技術です。染色は、組織学（顕微鏡による組織の研究）や病理組織学、血液学、細胞病理学など、顕微鏡レベルでの研究・診断に重点を置く医学の分野で頻繁に使用されています。染色は、生体組織（例えば筋繊維や結合組織など）、細胞集団（異なる血液細胞の分類）、個々の細胞内の小器官を定義するために使用されます。 \n\n必要な検査室: 血液検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_IV_STAINING_TEST</LocID>
-				<Text>In Vitro Staining Test</Text>
+				<Text>In vitro染色 - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_IV_STAINING_TEST_DESC</LocID>
-				<Text>Staining is a technique used to enhance contrast in samples, generally at the microscopic level. Stains and dyes are frequently used in histology (the study of tissue under the microscope) and in the medical fields of histopathology, hematology, and cytopathology that focus on the study and diagnoses disease at a microscopic level. Stains may be used to define biological tissues (highlighting, for example, muscle fibers or connective tissue), cell populations (classifying different blood cells), or organelles within individual cells.</Text>
+				<Text>染色とは、一般的に顕微鏡で試料のコントラストを強調するために用いられる技術です。染色は、組織学（顕微鏡による組織の研究）や病理組織学、血液学、細胞病理学など、顕微鏡レベルでの研究・診断に重点を置く医学の分野で頻繁に使用されています。染色は、生体組織（例えば筋繊維や結合組織など）、細胞集団（異なる血液細胞の分類）、個々の細胞内の小器官を定義するために使用されます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_X_RAY_MAMMOGRAM</LocID>
-				<Text>Mammogram</Text>
+				<Text>マンモグラム</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_X_RAY_MAMMOGRAM_DESC</LocID>
-				<Text>A mammogram is an X-ray of breast tissue that can find changes too small to be felt during a physical examination. \n\nRequired Room: X-Ray</Text>
+				<Text>マンモグラムは、乳房組織のX線検査で、健康診断では感じられないほどの小さな変化を見つけることができます。 \n\n必要な検査室: X線検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_FNA_SAMPLE</LocID>
-				<Text>Fine Needle Aspiration Sample</Text>
+				<Text>微細針吸引生検 - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_FNA_SAMPLE_DESC</LocID>
-				<Text>Fine needle aspiration is a quicker, less painful biopsy procedure to remove tissue, cell or fluid samples. In fine needle aspiration, a thin needle is inserted into an area of abnormal-appearing tissue or body fluid. As with other types of biopsies, the sample collected during fine needle aspiration can help make a diagnosis or rule out conditions such as cancer. \n\nRequired Lab: Histology</Text>
+				<Text>細針吸引法は、組織、細胞、液体のサンプルを採取する、より迅速で痛みの少ない生検方法です。細針吸引法では、細い針を異常のある組織や体液の領域に挿入します。他の生検と同様に、細針吸引で採取されたサンプルは、診断に役立ったり、癌などの疾患を除外したりすることができます。 \n\n必要な検査室: 血液検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_FNA_TEST</LocID>
-				<Text>Fine Needle Aspiration Test</Text>
+				<Text>微細針吸引生検 - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_FNA_TEST_DESC</LocID>
-				<Text>Fine needle aspiration is a quicker, less painful biopsy procedure to remove tissue, cell or fluid samples. In fine needle aspiration, a thin needle is inserted into an area of abnormal-appearing tissue or body fluid. As with other types of biopsies, the sample collected during fine needle aspiration can be used to help support a diagnosis.</Text>
+				<Text>細針吸引法は、組織、細胞、液体のサンプルを採取する、より迅速で痛みの少ない生検方法です。細針吸引法では、細い針を異常のある組織や体液の領域に挿入します。他の生検と同様に、細針吸引で採取されたサンプルは、診断に役立ったり、癌などの疾患を除外したりすることができます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_EMICRO_SAMPLE</LocID>
-				<Text>Electron Microscopy Sample</Text>
+				<Text>診断用電子顕微鏡 - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_EMICRO_SAMPLE_DESC</LocID>
-				<Text>Diagnostic Electron Microscopy is used as an important diagnostic tool to screen human tissues at high magnification (the ultrastructural level).  For diagnostic purposes solid tissues are prepared for TEM in the same way as other biological tissues, they are fixed in glutaraldehyde and osmium tetroxide then dehydrated and embedded in epoxy resin. \n\nRequired Lab: Histology</Text>
+				<Text>診断用電子顕微鏡は、人体組織を高倍率（超微細構造レベル）でスクリーニングする重要な診断ツールとして使用されています。 診断用の固体組織は、他の生体組織と同様にグルタルアルデヒドと四酸化オスミウムで固定し、脱水後エポキシ樹脂に包埋されます。 \n\n必要な検査室: 血液検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_EMICRO_TEST</LocID>
-				<Text>Electron Microscopy Test</Text>
+				<Text>診断用電子顕微鏡 - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_EMICRO_TEST_DESC</LocID>
-				<Text>Diagnostic Electron Microscopy is used as an important diagnostic tool to screen human tissues at high magnification (the ultrastructural level).  For diagnostic purposes solid tissues are prepared for TEM in the same way as other biological tissues, they are fixed in glutaraldehyde and osmium tetroxide then dehydrated and embedded in epoxy resin.</Text>
+				<Text>診断用電子顕微鏡は、人体組織を高倍率（超微細構造レベル）でスクリーニングする重要な診断ツールとして使用されています。 診断用の固体組織は、他の生体組織と同様にグルタルアルデヒドと四酸化オスミウムで固定し、脱水後エポキシ樹脂に包埋されます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_PELVIC_EXAM</LocID>
-				<Text>Pelvic Exam</Text>
+				<Text>骨盤内診察</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_PELVIC_EXAM_DESC</LocID>
-				<Text>A pelvic exam is a doctor's visual and physical examination of a woman's reproductive organs. During the exam, the doctor inspects the vagina, cervix, fallopian tubes, vulva, ovaries, and uterus.</Text>
+				<Text>骨盤内診察とは、医師が女性の生殖器官を視覚的、物理的に検査することです。検査では、医師は膣、子宮頸部、卵管、外陰部、卵巣および子宮を検査します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_DRE_EXAM</LocID>
-				<Text>Digital Rectal Exam (DRE)</Text>
+				<Text>直腸指診（DRE）</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_DRE_EXAM_DESC</LocID>
-				<Text>A digital rectal exam (DRE) is a test for both men and women. It allows a doctor to check the lower rectum, pelvis, and lower belly for cancer and other health problems like prostate cancer.</Text>
+				<Text>直腸指診（DRE）は、男性・女性ともに受けることができる検査です。これにより、医師は直腸下部、骨盤、下腹部にがんや前立腺がんなどの健康障害がないかどうかを確認することができます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_MINERALT_SAMPLE</LocID>
-				<Text>Comprehensive Mineral Panel Sampling</Text>
+				<Text>包括的ミネラル検査 - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_MINERALT_SAMPLE_DESC</LocID>
-				<Text>The Comprehensive Mineral Panel includes testing the blood for five minerals and is used to detect deficiencies or overexposure (toxicity) across the mineral spectrum. This panel includes testing levels of the following five minerals: Calcium, Copper, Magnesium, Manganese and Zinc. \n\nRequired Lab: Haematology</Text>
+				<Text>包括的ミネラル検査とは、血液中の5種類のミネラルを検査するもので、ミネラル全般の欠乏や過剰摂取（毒性）を検出するために使用されます。この検査では、カルシウム、銅、マグネシウム、マンガン、亜鉛の5種類のミネラルの量をテストします。 \n\n必要な検査室: 血液検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_MINERALT_TEST</LocID>
-				<Text>Comprehensive Mineral Panel Test</Text>
+				<Text>包括的ミネラル検査 - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_MINERALT_TEST_DESC</LocID>
-				<Text>The Comprehensive Mineral Panel includes testing the blood for five minerals and is used to detect deficiencies or overexposure (toxicity) across the mineral spectrum. This panel includes testing levels of the following five minerals: Calcium, Copper, Magnesium, Manganese and Zinc.</Text>
+				<Text>包括的ミネラル検査とは、血液中の5種類のミネラルを検査するもので、ミネラル全般の欠乏や過剰摂取（毒性）を検出するために使用されます。この検査では、カルシウム、銅、マグネシウム、マンガン、亜鉛の5種類のミネラルの量をテストします。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE</LocID>
-				<Text>Lymph Node Biopsy Sampling</Text>
+				<Text>リンパ節生検 - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE_DESC</LocID>
-				<Text>Lymph node biopsy is a test in which a lymph node or a piece of a lymph node is removed for examination under a microscope. A lymph node biopsy can help determine if the patient has an infection, an immune disorder, or cancer. \n\nRequired Lab: Histology</Text>
+				<Text>リンパ節生検は、リンパ節またはリンパ節の一部を採取し、顕微鏡で調べる検査です。リンパ節生検は、患者さんが感染症、免疫疾患、または癌に罹患しているかどうかを判断するのに役立ちます。 \n\n必要な検査室: 組織検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_LYMPHBIOPSY_TEST</LocID>
-				<Text>Lymph Node Biopsy Test</Text>
+				<Text>リンパ節生検 - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_LYMPHBIOPSY_TEST_DESC</LocID>
-				<Text>Lymph node biopsy is a test in which a lymph node or a piece of a lymph node is removed for examination under a microscope. A lymph node biopsy can help determine if the patient has an infection, an immune disorder, or cancer.</Text>
+				<Text>リンパ節生検は、リンパ節またはリンパ節の一部を採取し、顕微鏡で調べる検査です。リンパ節生検は、患者さんが感染症、免疫疾患、または癌に罹患しているかどうかを判断するのに役立ちます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE</LocID>
-				<Text>Colonoscopy Biopsy Sampling</Text>
+				<Text>大腸内視鏡検査 - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE_DESC</LocID>
-				<Text>A colonoscopy is a medical procedure that is done to look for cancer, colon polyps or other abnormalities inside your bowel. Colonoscopy is done using an instrument called a colonoscope (a type of endoscope) — a long, thin, flexible tube containing a camera and a light. During the colonoscopy, the doctor passes an instrument through the colonoscope to obtain a biopsy (a small sample of the colon lining) to be further analysed.</Text>
+				<Text>大腸内視鏡検査は、がんや大腸ポリープなど、腸の中の異常を調べるために行われる医療行為です。大腸内視鏡検査は、大腸内視鏡（内視鏡の一種）と呼ばれる器具、すなわちカメラと照明の入った細長く柔軟なチューブを用いて行われます。大腸内視鏡検査では、医師が大腸内視鏡に器具を通して生検（大腸の粘膜の小さな標本のサンプリング）を行い、さらに詳しく分析します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</LocID>
-				<Text>Colonoscopy Biopsy Testing</Text>
+				<Text>大腸内視鏡検査 - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST_DESC</LocID>
-				<Text>A colonoscopy is a medical procedure that is done to look for cancer, colon polyps or other abnormalities inside your bowel. Colonoscopy is done using an instrument called a colonoscope (a type of endoscope) — a long, thin, flexible tube containing a camera and a light. During the colonoscopy, the doctor passes an instrument through the colonoscope to obtain a biopsy (a small sample of the colon lining) to be further analysed.</Text>
+				<Text>大腸内視鏡検査は、がんや大腸ポリープなど、腸の中の異常を調べるために行われる医療行為です。大腸内視鏡検査は、大腸内視鏡（内視鏡の一種）と呼ばれる器具、すなわちカメラと照明の入った細長く柔軟なチューブを用いて行われます。大腸内視鏡検査では、医師が大腸内視鏡に器具を通して生検（大腸の粘膜の小さな標本のサンプリング）を行い、さらに詳しく分析します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE</LocID>
-				<Text>Liver Biopsy Sampling</Text>
+				<Text>肝生検 - サンプリング</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE_DESC</LocID>
-				<Text>A liver biopsy is a procedure in which a small needle is inserted into the liver to collect a tissue sample. The tissue is then analysed in a laboratory to help doctors diagnose a variety of disorders and diseases in the liver. \n\nRequired Lab: Histology</Text>
+				<Text>肝生検とは、肝臓に小さな針を刺し、組織を採取する方法です。この組織は、医師が肝臓の様々な障害や病気を診断するために、実験室で分析されます。 \n\n必要な検査室: 組織検査室</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_LIVER_BIOPSY_TEST</LocID>
-				<Text>Liver Biopsy Testing</Text>
+				<Text>肝生検 - 検査</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>EXM_CRP_LIVER_BIOPSY_TEST_DESC</LocID>
-				<Text>A liver biopsy is a procedure in which a small needle is inserted into the liver to collect a tissue sample. The tissue is then analysed in a laboratory to help doctors diagnose a variety of disorders and diseases in the liver.</Text>
+				<Text>肝生検とは、肝臓に小さな針を刺し、組織を採取する方法です。この組織は、医師が肝臓の様々な障害や病気を診断するために、実験室で分析されます。</Text>
 			</GameDBLocalizedString>
 
 			<!-- Community Resource Pack v0.0.9.1 Above (New Content Below) -->
