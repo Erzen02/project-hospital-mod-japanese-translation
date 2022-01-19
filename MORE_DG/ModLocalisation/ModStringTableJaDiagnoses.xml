@@ -103,7 +103,7 @@
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_BOUVERET</LocID>
-				<Text>ブヴレー‐ホフマン症候群</Text>
+				<Text>ブヴレー-ホフマン症候群</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_BOUVERET_DESCRIPTION</LocID>
@@ -325,273 +325,273 @@
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_GOITRE_MULTINODULE</LocID>
-				<Text>Toxic multinodular goiter</Text>
+				<Text>中毒性多結節性甲状腺腫</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_GOITRE_MULTINODULE_DESCRIPTION</LocID>
-				<Text>Toxic multinodular goiter is the natural evolution of ancient multinodular goiter.</Text>
+				<Text>中毒性多結節性甲状腺腫は、多結節性甲状腺腫が自然に進化したものである。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_ADENOME_TOXIQUE</LocID>
-				<Text>Plummer's toxic adenoma</Text>
+				<Text>プランマー病（甲状腺過機能結節）</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_ADENOME_TOXIQUE_DESCRIPTION</LocID>
-				<Text>The toxic adenoma is a solitary, hyperfunctional benign tumor of the thyroid. This pathology indicates the presence of a localized hypertrophy from where the appearance of a protuberance of generally rounded shape. In addition, this type of adenoma is distinguished by its autonomous functioning.</Text>
+				<Text>甲状腺過機能結節は、甲状腺の単発性、機能亢進性の良性腫瘍です。この病態は、局所的な肥大の存在を示し、そこから一般に丸みを帯びた形状の隆起が出現します。また、このタイプの腺腫は、その自律的な機能によって区別されます。</Text>
 			</GameDBLocalizedString>
 			<!-- v0.03  -->
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_PORPHYRIE</LocID>
-				<Text>Acute intermittent porphyria</Text>
+				<Text>急性間欠性ポルフィリン症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_PORPHYRIE_DESCRIPTION</LocID>
-				<Text>Acute intermittent porphyria (AIP) is a rare autosomal dominant metabolic disorder affecting the production of heme resulting from a deficiency of the porphobilinogen deaminase. It is the most common of the acute porphyrias.</Text>
+				<Text>急性間欠性ポルフィリン症（AIP）は、ポルフォビリノーゲンデアミナーゼの欠損によるヘム産生に影響を及ぼす、まれな常染色体優性の代謝異常症です。急性ポルフィリン症の中で最も一般的な疾患です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_SPHEROCYTOSE</LocID>
-				<Text>Minkowski-Chauffard disease</Text>
+				<Text>遺伝性球状赤血球症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_SPHEROCYTOSE_DESCRIPTION</LocID>
-				<Text>Minkowski-Chauffard disease or Hereditary spherocytosis is an abnormality of red blood cells, or erythrocytes. The disorder is caused by mutations in genes relating to membrane proteins that allow for the erythrocytes to change shape. The abnormal erythrocytes are sphere-shaped (spherocytosis) rather than the normal biconcave disk shaped.</Text>
+				<Text>遺伝性球状赤血球症、別名ミンコフスキー-シャファード病は、赤血球の異常疾患です。この疾患は、赤血球の形状変化を可能にする膜タンパク質に関連する遺伝子の変異によって引き起こされます。この疾患にでは赤血球は正常な両凹型の円盤状ではなく、球状（スフェロサイトーシス）に変化します。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_MARCHIAFAVA_MICHELI</LocID>
-				<Text>Marchiafava Micheli syndrome</Text>
+				<Text>発作性夜間ヘモグロビン尿症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_MARCHIAFAVA_MICHELI_DESCRIPTION</LocID>
-				<Text>Marchiafava Micheli syndrome or Paroxysmal nocturnal hemoglobinuria (PNH) is a rare, acquired, life-threatening disease of the blood characterized by destruction of red blood cells by the complement system, a part of the body's innate immune system.</Text>
+				<Text>発作性夜間ヘモグロビン尿症（PNH）またはマルキアファヴァ・ミッシェル症候群は、後天的に発症し、生命を脅かすまれな血液疾患であり、身体の自然免疫系の一部である補体系によって赤血球が破壊されることを特徴とします。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_FAVISME</LocID>
-				<Text>Favism</Text>
+				<Text>G6PD欠損症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_FAVISME_DESCRIPTION</LocID>
-				<Text>Favism or Glucose-6-phosphate dehydrogenase deficiency (G6PDD) is an inborn error of metabolism that predisposes to red blood cell breakdown.</Text>
+				<Text>グルコース-6-リン酸デヒドロゲナーゼ欠損症（G6PDD）は、赤血球がもろくなり溶血性貧血などを引き起こす先天性代謝異常症です。ソラマメ中毒の原因でもあります。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_DEFICIT_PK</LocID>
-				<Text>PK deficiency</Text>
+				<Text>ピルビンキナーゼ欠損症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_DEFICIT_PK_DESCRIPTION</LocID>
-				<Text>Pyruvate kinase deficiency is an inherited metabolic disorder of the enzyme pyruvate kinase which affects the survival of red blood cells.</Text>
+				<Text>ピルビン酸キナーゼ欠損症は、赤血球の生存に影響を及ぼすピルビン酸キナーゼという酵素の遺伝的な代謝異常です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_AHAA</LocID>
-				<Text>Autoimmune hemolytic anemia</Text>
+				<Text>自己免疫性溶血性貧血</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_AHAA_DESCRIPTION</LocID>
-				<Text>Autoimmune hemolytic anemia (AIHA) occurs when antibodies directed against the person's own red blood cells (RBCs) cause them to burst (lyse), leading to an insufficient number of oxygen-carrying red blood cells in the circulation.</Text>
+				<Text>自己免疫性溶血性貧血（AIHA）は、自己の赤血球に対する抗体が赤血球の破裂（溶血）を引き起こし、循環中の酸素運搬赤血球の数が不足することにより発症します。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_PTT</LocID>
-				<Text>Moschkowitz disease</Text>
+				<Text>血栓性血小板減少性紫斑病</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_PTT_DESCRIPTION</LocID>
-				<Text>Moschkowitz disease or Thrombotic thrombocytopenic purpura (TTP) is a blood disorder that results in blood clots forming in small blood vessels throughout the body.</Text>
+				<Text>血栓性血小板減少性紫斑病（TTP）またはモシュコビッツ病は、全身の細い血管に血栓ができる血液疾患です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_DREPA_A</LocID>
-				<Text>Acute sickle cell disease</Text>
+				<Text>鎌状赤血球症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_DREPA_C</LocID>
-				<Text>Chronic sickle cell disease</Text>
+				<Text>慢性鎌状赤血球症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_DREPA_DESCRIPTION</LocID>
-				<Text>La drépanocytose, aussi appelée anémie falciforme, est une maladie héréditaire touchant l'hémoglobine des globules rouges.</Text>
+				<Text>鎌状赤血球症は、鎌状赤血球貧血とも呼ばれ、赤血球中のヘモグロビンに影響を及ぼす遺伝性の疾患です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_WILLEBRAND</LocID>
-				<Text>Von Willebrand disease</Text>
+				<Text>フォン・ヴィレブランド病</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_WILLEBRAND_DESCRIPTION</LocID>
-				<Text>Von Willebrand disease (vWD) is the most common hereditary blood-clotting disorder in humans. It arises from a deficiency in the quality or quantity of von Willebrand factor (vWF), a multimeric protein that is required for platelet adhesion.</Text>
+				<Text>フォンウィルブランド病（vWD）は、ヒトで最も一般的な遺伝性の血液凝固異常症です。血小板の接着に必要な多量体タンパク質であるフォンウィルブランド因子（vWF）の質または量の欠乏により発症します。</Text>
 			</GameDBLocalizedString>
 			<!-- v0.03.2  -->
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_NIEMANN-PICK</LocID>
-				<Text>Niemann-Pick disease</Text>
+				<Text>ニーマン・ピック病</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_NIEMANN-PICK_DESCRIPTION</LocID>
-				<Text>Niemann-Pick disease type C (NP-C) is a lysosomal lipid storage disease.</Text>
+				<Text>ニーマン・ピック病C型（NP-C）は、肝臓や脾臓などの神経細胞にライソゾーム型脂質が蓄積する、NPC1遺伝子またはNPC2遺伝子の変異による遺伝病です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_KIMURA</LocID>
-				<Text>Kimura disease</Text>
+				<Text>木村病</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_KIMURA_DESCRIPTION</LocID>
-				<Text>Kimura disease is a benign and chronic inflammatory disorder of unknown etiology, occurring mainly in Asian countries (very rarely in Western countries) and predominantly affecting young men.</Text>
+				<Text>木村病は、主にアジア諸国（欧米諸国ではごく稀）に発生し、若い男性に多く見られる良性の慢性炎症性疾患で、発生原因はまだ解明されていません。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_FANCONI</LocID>
-				<Text>Fanconi anemia</Text>
+				<Text>ファンコニ貧血</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_FANCONI_DESCRIPTION</LocID>
-				<Text>Fanconi anemia (FA) is a hereditary DNA repair disorder. FA is due to mutations in genes involved in DNA repair and genomic stability. Fifteen genes representing 15 complementation groups have been identified.</Text>
+				<Text>ファンコニ貧血（FA）は、遺伝性のDNA修復障害です。FAは、DNA修復とゲノムの安定性に関わる遺伝子の変異が原因で発症します。19のファンコニ貧血責任遺伝子がこれまでに同定されています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_BERNARD-SOULIER</LocID>
-				<Text>Bernard-Soulier syndrome</Text>
+				<Text>ベルナール・スーリエ症候群</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_BERNARD-SOULIER_DESCRIPTION</LocID>
-				<Text>Bernard Soulier syndrome (BSS) is an inherited platelet disorder characterized by mild to severe bleeding tendency , macrothrombocytopenia and absent ristocetin-induced platelet agglutination.</Text>
+				<Text>Bernard Soulier症候群（BSS）は、軽度から重度の出血傾向、巨赤芽球減少症、リストセチンによる血小板凝集の欠如を特徴とする遺伝性の血小板障害です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_THROMBASTHENIE_GLANDZMANN</LocID>
-				<Text>Glanzmann thrombasthenia</Text>
+				<Text>血小板無力症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_THROMBASTHENIE_GLANDZMANN_DESCRIPTION</LocID>
-				<Text>Glanzmann thrombasthenia (GT) is a bleeding syndrome characterized by spontaneous mucocutaneous bleeding and an exaggerated response to trauma due to a constitutional thrombocytopenia.</Text>
+				<Text>グランツマン血小板無力症（GT）は、体質的な血小板減少による自然な粘膜皮膚出血と外傷に対する過度の反応を特徴とする出血性症候群です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_ANEMIE_BLACKFAN_DIAMOND</LocID>
-				<Text>Blackfan-Diamond anemia</Text>
+				<Text>ダイアモンド・ブラックファン貧血</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_ANEMIE_BLACKFAN_DIAMOND_DESCRIPTION</LocID>
-				<Text>Blackfan-Diamond anemia (DBA) is a congenital aregenerative and often macrocytic anemia with erythroblastopenia. At present, disease-causing mutations are identified in 40-45% of patients. All involved genes code for ribosomal proteins (RPs).</Text>
+				<Text>ブラックファンダイヤモンド貧血（DBA）は、赤芽球減少症を伴う先天性の造血不全症であり、しばしば大球性貧血を呈します。リボソームタンパク遺伝子の変異に起因するリボソームの機能障害が、貧血を引き起こす中心的なメカニズムであると考えられています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_MALADIE_GAUCHER</LocID>
-				<Text>Gaucher disease</Text>
+				<Text>ゴーシェ病</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_MALADIE_GAUCHER_DESCRIPTION</LocID>
-				<Text>Gaucher disease (GD) is a lysosomal storage disorder encompassing three main forms (types 1, 2 and 3), a fetal form and a variant with cardiac involvement (Gaucher disease - ophthalmoplegia - cardiovascular calcification or Gaucher-like disease). GD is due to mutations in the GBA gene (1q21) that codes for a lysosomal enzyme, glucocerebrosidase, or in very rare cases the PSAP gene that codes for its activator protein (saposin C). The deficiency in glucocerebrosidase leads to the accumulation of glucosylceramidase (or beta-glucocerebrosidase) deposits in the cells of the reticuloendothelial system of the liver, the spleen and the bone marrow (Gaucher cells).</Text>
+				<Text>ゴーシェ病（GD）はライソゾーム蓄積性疾患の一つで、1型、2型、3型、胎児型、心臓病変型（ゴーシェ病-眼筋麻痺-心臓血管石灰化症、ゴーシェ様疾患）の3つの型があります。GDは、ライソゾーム酵素であるグルコセレブロシダーゼをコードするGBA遺伝子（1q21）、あるいはごくまれにその活性化蛋白（サポシンC）をコードするPSAP遺伝子の変異に起因しています。グルコセレブロシダーゼの欠損により、肝臓、脾臓、骨髄の網状内皮系の細胞（ゴーシェ細胞）にグルコシルセラミダーゼ（またはβ-グルコセレブロシダーゼ）の沈着物が蓄積されます。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_MALADIE_DUNCAN</LocID>
-				<Text>Duncan disease</Text>
+				<Text>X連鎖性リンパ増殖性疾患</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_MALADIE_DUNCAN_DESCRIPTION</LocID>
-				<Text>Duncan disease or Purtilo syndrome or X-linked lymphoproliferative disease is a primary immune deficiency linked to cellular immune deficiencies.</Text>
+				<Text>ダンカン病またはプルティロ症候群またはX連鎖性リンパ増殖性疾患は、細胞性免疫不全に関連する原発性免疫不全症です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_ASIA</LocID>
-				<Text>Acquired idiopathic sideroblastic anemia</Text>
+				<Text>後天性鉄芽球性貧血</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_ASIA_DESCRIPTION</LocID>
-				<Text>Acquired idiopathic sideroblastic anemia (AISA) is a rare myelodysplastic syndrome (MDS) characterized by ineffective hemopoiesis affecting one or more blood cell lineages (myeloid, erythroid or megakaryocytic) leading to peripheral blood cytopenias and an increased risk of developing leukaemia.</Text>
+				<Text>後天性特発性鉄芽球性貧血（AISA）は、1つ以上の血球系（骨髄系、赤血球系、巨核球系）に影響を及ぼす造血不全を特徴とするまれな骨髄異形成症候群（MDS）で、末梢血細胞減少や白血病発症リスクの上昇を引き起こします。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_ERYTHROBLASTOPENIE_ISO</LocID>
-				<Text>Isolated erythroblastopenia</Text>
+				<Text>特発性赤芽球癆</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_ERYTHROBLASTOPENIE_ISO_DESCRIPTION</LocID>
-				<Text>It is an acute blood disorder characterized by the decrease or disappearance of erythroblasts (bone marrow cells specialized in the synthesis of hemoglobin) and resulting in anemia.</Text>
+				<Text>赤芽球癆は赤芽球（ヘモグロビンの合成に特化した骨髄細胞）が減少または消失し、貧血を起こす急性血液疾患です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOGLOBINOSE_C</LocID>
-				<Text>Hemoglobin C disease</Text>
+				<Text>ヘモグロビンC症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOGLOBINOSE_C_DESCRIPTION</LocID>
-				<Text>Hemoglobin C disease (HbC) is a hemoglobinopathy characterized by production of abnormal variant hemoglobin known as hemoglobin C.</Text>
+				<Text>ヘモグロビンC病（HbC）は、ヘモグロビンCと呼ばれる異常な変異型ヘモグロビンの産生を特徴とするヘモグロビン異常症です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOGLOBINOSE_D</LocID>
-				<Text>Hemoglobin D disease</Text>
+				<Text>ヘモグロビンD症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOGLOBINOSE_D_DESCRIPTION</LocID>
-				<Text>Hemoglobin D disease (HbD) is a hemoglobinopathy characterized by production of abnormal variant hemoglobin known as hemoglobin D.</Text>
+				<Text>ヘモグロビンD病（HbD）は、ヘモグロビンDと呼ばれる異常な変異型ヘモグロビンの産生を特徴とするヘモグロビン異常症です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOGLOBINOSE_E</LocID>
-				<Text>Hemoglobin E disease</Text>
+				<Text>ヘモグロビンE症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOGLOBINOSE_E_DESCRIPTION</LocID>
-				<Text>Hemoglobin E disease (HbE) is a hemoglobinopathy characterized by production of abnormal variant hemoglobin known as hemoglobin E.</Text>
+				<Text>ヘモグロビンE病（HbE）は、ヘモグロビンEと呼ばれる異常な変異型ヘモグロビンの産生を特徴とするヘモグロビン異常症です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOGLOBINOSE_M</LocID>
-				<Text>Hemoglobin M disease</Text>
+				<Text>ヘモグロビンM症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOGLOBINOSE_M_DESCRIPTION</LocID>
-				<Text>Hemoglobin M disease (HbM) is a hemoglobinopathy characterized by production of abnormal variant hemoglobin known as hemoglobin M.</Text>
+				<Text>ヘモグロビンM病（HbM）は、ヘモグロビンMと呼ばれる異常な変異型ヘモグロビンの産生を特徴とするヘモグロビン異常症です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_PLUMMER_VINSON</LocID>
-				<Text>Plummer-Vinson syndrome</Text>
+				<Text>プランマービンソン症候群</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_PLUMMER_VINSON_DESCRIPTION</LocID>
-				<Text>Plummer-Vinson or Paterson-Kelly syndrome presents as a classical triad of dysphagia, iron-deficiency anemia and esophageal webs. The etiopathogenesis of Plummer-Vinson syndrome is unknown. The most important possible etiological factor is iron deficiency. Other possible factors include malnutrition, genetic predisposition or autoimmune processes.</Text>
+				<Text>プランマービンソン症候群または鉄欠乏性嚥下困難/パターソン・ケリー症候群は、嚥下障害、鉄欠乏性貧血、食道ウェブの古典的な三徴候を呈します。最も重要な病因は鉄分の欠乏であると考えられています。その他の要因としては、栄養失調、遺伝的素因、自己免疫過程などが考えられます。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_RENDU_OSLER_WEBER</LocID>
-				<Text>Hereditary Hemorrhagic Telangiectasia</Text>
+				<Text>遺伝性出血性末梢血管拡張症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_RENDU_OSLER_WEBER_DESCRIPTION</LocID>
-				<Text>Rendu-Osler-Weber disease or Hereditary Hemorrhagic Telangiectasia (HHT) is an inherited disorder of angiogenesis characterized by mucocutaneous telangiectases and visceral arteriovenous malformations. This genetic disorder is due to pathogenic variants primarily in ENG or ACVRL1, encoding proteins involved in vascular development and angiogenic homeostasis of capillaries.</Text>
+				<Text>レンデュ・オスラー・ウェーバー病または遺伝性出血性毛細血管拡張症（HHT）は、粘膜毛細血管拡張や内臓動静脈奇形を特徴とする遺伝性の血管新生疾患です。この遺伝性疾患は、主に血管の発達と毛細血管の血管新生恒常性に関与するタンパク質をコードするENGまたはACVRL1の病原性変異に起因しています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_SD_EVANS</LocID>
-				<Text>Evans syndrome</Text>
+				<Text>エヴァンズ症候群</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_SD_EVANS_DESCRIPTION</LocID>
-				<Text>A rare chronic hematologic disorder characterized by the simultaneous or sequential association of autoimmune hemolytic anemia with immune thrombocytopenic purpura and occasionally autoimmune neutropenia, in the absence of a known underlying etiology.</Text>
+				<Text>自己免疫性溶血性貧血と免疫性血小板減少性紫斑病、および時に自己免疫性好中球減少症を同時に、あるいは連続して発症する、原因不明のまれな慢性血液疾患です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOCHROMATOSE_1</LocID>
-				<Text>Hemochromatosis type 1</Text>
+				<Text>ヘモクロマトーシス1型</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOCHROMATOSE_1_DESCRIPTION</LocID>
-				<Text>Symptomatic form of hemochromatosis type 1 is a rare, hereditary hemochromatosis characterized by inappropriately regulated intestinal iron absorption which leads to excessive iron storage in various organs and manifests with a wide range of signs and symptoms.</Text>
+				<Text>ヘモクロマトーシス1型は、HFE遺伝子の変異によって腸管での鉄吸収が不適切に調節されることにより、様々な臓器に過剰な鉄が貯蔵され、様々な徴候や症状を示す遺伝性ヘモクロマトーシスです。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOCHROMATOSE_2</LocID>
-				<Text>Hemochromatosis type 2</Text>
+				<Text>ヘモクロマトーシス2型</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOCHROMATOSE_2_DESCRIPTION</LocID>
-				<Text>Hemochromatosis type 2 (juvenile) is the early-onset and most severe form of rare hereditary hemochromatosis (HH), a group of diseases characterized by excessive tissue iron deposition of genetic origin.</Text>
+				<Text>2型ヘモクロマトーシス（若年性）は、ヘモジュベリン及びヘプシジン遺伝子の変異によって起こる、遺伝性ヘモクロマトーシス（HH）の早期発症型かつ最も重症な疾患であり、組織への過剰な鉄沈着を特徴とする疾患群です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOCHROMATOSE_3</LocID>
-				<Text>Hemochromatosis type 3</Text>
+				<Text>ヘモクロマトーシス3型</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOCHROMATOSE_3_DESCRIPTION</LocID>
-				<Text>Type 3 hemochromatosis is a form of rare hereditary hemochromatosis (HH), a group of diseases characterized by excessive tissue iron deposition of genetic origin.</Text>
+				<Text>3型ヘモクロマトーシスは、トランスフェリン受容体2遺伝子の変異によって起こる、過剰な組織鉄沈着を特徴とする疾患群である遺伝性ヘモクロマトーシス（HH）のまれな一形態です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOCHROMATOSE_4</LocID>
-				<Text>Hemochromatosis type 4</Text>
+				<Text>ヘモクロマトーシス4型</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HEMOCHROMATOSE_4_DESCRIPTION</LocID>
-				<Text>Hemochromatosis type 4 (also called ferroportin disease) is a form of rare hereditary hemochromatosis (HH), a group of diseases characterized by excessive tissue iron deposition of genetic origin.</Text>
+				<Text>ヘモクロマトーシス4型（フェロポルチン病とも呼ばれる）は、遺伝性ヘモクロマトーシス（HH）の一種で、SLC40A1遺伝子の突然変異によってフェロポルチンのヘプシジン結合能に影響を与え、過剰な組織鉄沈着を引き起こすまれな疾患です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_APLASIE_MÉDULLAIRE_IDIOPATHIQUE</LocID>
-				<Text>Idiopathic aplastic anemia</Text>
+				<Text>特発性再生不良性貧血</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_APLASIE_MÉDULLAIRE_IDIOPATHIQUE_DESCRIPTION</LocID>
-				<Text>Idiopathic bone marrow failure or Idiopathic aplastic anemia is an inability of the bone marrow to replace blood cells as they die naturally. It results in a deficit in the production of one or more types of cells normally found in the blood. The name "idiopathic" means that the cause is unknown.</Text>
+				<Text>特発性骨髄不全または特発性再生不良性貧血は、骨髄が自然に死滅することにより、血球を補充することができない状態を指します。通常、血液中に存在する1種類以上の細胞の産生が不足することになります。詳しい原因は不明ですが、多くの場合、自己免疫によって造血幹細胞が傷害される、または造血細胞自体の異常により発症すると考えられています。</Text>
 			</GameDBLocalizedString>
 
 
@@ -599,127 +599,127 @@
 
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_URGENCE_HTA</LocID>
-				<Text>Hypertensive emergency</Text>
+				<Text>高血圧緊急症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>
-				<Text>Hypertensive emergency is characterized by hypertension, most often severe (or quickly installed in a normotensive patient) and which is associated with acute damage to the target organs.</Text>
+				<Text>高血圧緊急症は、血圧の著しい上昇のため致命的破局が目前に迫り、救命のためには迅速な降圧処置を必要とする状態を指し、標的臓器への急性障害を伴います。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_ISCHEMIE_MS</LocID>
-				<Text>Acute ischemia of the upper limb</Text>
+				<Text>急性肢虚血症（上肢）</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_ISCHEMIE_MS_DESCRIPTION</LocID>
-				<Text>Acute limb ischaemia occurs when there is a sudden lack of blood flow to a limb.</Text>
+				<Text>急性上肢虚血は、上肢の血流が突然不足することで起こります。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_ISCHEMIE_MI</LocID>
-				<Text>Acute ischemia of the lower limb</Text>
+				<Text>急性肢虚血症（下肢）</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_ISCHEMIE_MI_DESCRIPTION</LocID>
-				<Text>Acute limb ischaemia occurs when there is a sudden lack of blood flow to a limb.</Text>
+				<Text>急性下肢虚血は、下肢の血流が突然不足することで起こります。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_ISCHEMIE_MESENTERIQUE</LocID>
-				<Text>Acute mesenteric ischemia</Text>
+				<Text>急性腸間膜虚血症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</LocID>
-				<Text>Mesenteric ischemia is a medical condition in which injury to the small intestine occurs due to not enough blood supply, it's associated with a high risk of death.</Text>
+				<Text>腸管虚血は、血液が十分に供給されないために小腸が傷害される病状で、死亡のリスクが高いとされています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_RUPTURE_AAA</LocID>
-				<Text>Abdominal Aortic Aneurysm Rupture</Text>
+				<Text>腹部大動脈瘤の破裂</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_RUPTURE_AAA_DESCRIPTION</LocID>
-				<Text>Rupture of the abdominal aortic aneurysm.</Text>
+				<Text>腹部大動脈瘤の破裂が起きています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_RUPTURE_AIC</LocID>
-				<Text>Rupture Common Iliac Aneurysm</Text>
+				<Text>総腸骨動脈瘤の破裂</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_RUPTURE_AIC_DESCRIPTION</LocID>
-				<Text>Rupture of the common iliac aneurysm.</Text>
+				<Text>総腸骨動脈瘤の破裂が起きています。</Text>
 			</GameDBLocalizedString>
 			<!-- v0.02  -->
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_ISRA</LocID>
-				<Text>Adrenal crisis</Text>
+				<Text>急性副腎不全</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_ISRA_DESCRIPTION</LocID>
-				<Text>Adrenal crisis is a potentially life-threatening medical condition requiring immediate emergency treatment. It is a constellation of symptoms that indicate severe adrenal insufficiency caused by insufficient levels of the hormone cortisol.</Text>
+				<Text>急性副腎不全（副腎クリーゼ）は、生命を脅かす可能性のある病態で、早急な緊急治療が必要です。コルチゾールというホルモンの量が不足し、重度の副腎機能不全を示す一連の症状です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_COMA_CETOACIDOSE</LocID>
-				<Text>Diabetic ketoacidosis</Text>
+				<Text>糖尿病ケトアシドーシス</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_COMA_CETOACIDOSE_DESCRIPTION</LocID>
-				<Text>Diabetic ketoacidosis (DKA) is a potentially life-threatening complication of diabetes.</Text>
+				<Text>糖尿病性ケトアシドーシス（DKA）は、極度のインスリンの欠乏とインスリン拮抗ホルモン増加によって起こる高血糖・高ケトン血症、血液の酸化の起きた状態で、糖尿病の合併症の中で生命を脅かす可能性のある疾患です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_COMA_HYPEROSMOLAIRE</LocID>
-				<Text>Hyperosmolar hyperglycemic state</Text>
+				<Text>高浸透圧性高血糖状態</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_COMA_HYPEROSMOLAIRE_DESCRIPTION</LocID>
-				<Text>Hyperosmolar hyperglycemic state (HHS) is a complication of diabetes.</Text>
+				<Text>高浸透圧性高血糖状態（HHS）は、糖尿病の合併症の一つで、極度の高血糖と極度の脱水によって引き起こされ、痙攣や昏睡を伴う場合もある重篤な状態です。</Text>
 			</GameDBLocalizedString>
 			<!-- ++ v0.03 ++ -->
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_PURPURA_FULMINANS</LocID>
-				<Text>Purpura fulminans</Text>
+				<Text>電撃性紫斑病</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_PURPURA_FULMINANS_DESCRIPTION</LocID>
-				<Text>Purpura fulminans is an acute, often fatal, thrombotic disorder which manifests as blood spots, bruising and discolouration of the skin resulting from coagulation in small blood vessels within the skin and rapidly leads to skin necrosis. Purpura fulminans is a presenting feature of severe acute sepsis.</Text>
+				<Text>急性かつ致死的な血栓性疾患であり、皮膚内の小血管の凝固により、皮膚の血斑、あざ、変色として現れ、急速に皮膚壊死を起こすことがあります。また、重症急性敗血症の症状として現れることもあります。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_CIVD</LocID>
-				<Text>Disseminated intravascular coagulation</Text>
+				<Text>播種性血管内凝固症候群</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_CIVD_DESCRIPTION</LocID>
-				<Text>Disseminated intravascular coagulation (DIC) is a condition in which blood clots form throughout the body, blocking small blood vessels.</Text>
+				<Text>播種性血管内凝固症候群（DIC）とは、全身に血栓ができ、細い血管を塞いでしまう病気です。</Text>
 			</GameDBLocalizedString>
 			<!-- ++ v0.03.2 ++ -->
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_PURPURA_THROMBOPENIQUE</LocID>
-				<Text>Severe thrombocytopenic purpura</Text>
+				<Text>重度の血小板減少症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_PURPURA_THROMBOPENIQUE_DESCRIPTION</LocID>
-				<Text>Severe thrombocytopenia causes purpura: it is petechial, non-infiltrated, isolated or ecchymotic, sometimes associated with large hematomas. The discovery of a purpura requires the prescription of a blood count. The platelet count is usually less than 20 giga/L.</Text>
+				<Text>重度の血小板減少症は、点状、非浸潤性、孤立性または斑点状の紫斑を生じ、時に大きな血腫を伴います。紫斑病が発見された場合、血球計算の処方が必要となります。血小板数は通常20Giga/L以下です。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_DRESS_SD</LocID>
-				<Text>DRESS Syndrome</Text>
+				<Text>薬剤性過敏症症候群</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_DRESS_SD_DESCRIPTION</LocID>
-				<Text>Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome, initially recognized as a serious form of cutaneous drug adverse reaction, is now viewed as a drug-related syndrome that can cause life-threatening organ dysfunctions.</Text>
+				<Text>DRESS（Drug reaction with eosinophilia and systemic symptoms）症候群は、当初は重篤な皮膚薬物副作用として認識されていましたが、現在では生命を脅かす臓器機能障害を引き起こす薬物関連症候群と見なされています。</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_THROMBOPENIE_HEPARINE</LocID>
-				<Text>Heparin-induced thrombocytopenia</Text>
+				<Text>ヘパリン起因性血小板減少症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_THROMBOPENIE_HEPARINE_DESCRIPTION</LocID>
-				<Text>Heparin-induced thrombocytopenia (HIT) is a rare drug-induced, immune-mediated prothrombotic disorder associated with thrombocytopenia and venous and/or arterial thrombosis. HIT results from a humoral immune reaction directed against a complex involving endogenous platelet factor 4 (PF4) and exogenous heparin: auto-antibodies recognize PF4 only when it is complexed with heparin. This immune complex activates the circulating platelets via their FcγRIIA surface receptors, leading to consumptive thrombocytopenia and hypercoagulability. The source of heparin (bovine >porcine), its formulation (unfractionated >low molecular weight >fondaparinux), the dose (prophylactic >therapeutic >heparin flushes), route of administration (subcutaneous >intravenous) and duration of administration (over 4 days >4 days or less) are determining factors.</Text>
+				<Text>ヘパリン起因性血小板減少症（HIT）は、血小板減少や静脈・動脈血栓症を伴う、薬剤を介した稀な血栓症促進疾患です。HITは、内因性血小板第4因子（PF4）と外因性ヘパリンとの複合体に対する体液性免疫反応に起因します：自己抗体は、PF4がヘパリンと複合化された場合にのみ認識します。この免疫複合体は、FcγRIIA表面受容体を介して循環血小板を活性化し、消費性血小板減少症や血液凝固能亢進症を引き起こします。ヘパリンの供給源（ウシ＞ポルシン）、製剤（未分画＞低分子＞フォンダパリヌクス）、投与量（予防＞治療＞ヘパリンフラッシュ）、投与経路（皮下＞静脈内）、投与期間（4日以上＞4日以下）が決定要因です。</Text>
 			</GameDBLocalizedString>
 			<!-- ++ v0.03.3 ++ -->
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_TRANSPLANTATION_COEUR</LocID>
-				<Text>Heart transplant</Text>
+				<Text>心臓移植</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>TRM_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID>
-				<Text>A heart transplant, or a cardiac transplant, is a surgical transplant procedure performed on patients with end-stage heart failure or severe coronary artery disease when other medical or surgical treatments have failed.</Text>
+				<Text>心臓移植は、末期心不全や重度の冠動脈疾患の患者に対し、他の内科的・外科的治療が奏功しなかった場合に行われる外科的移植術です。</Text>
 			</GameDBLocalizedString>
 
 		</LocalizedStrings>

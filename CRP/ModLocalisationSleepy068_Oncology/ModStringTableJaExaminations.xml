@@ -1,0 +1,365 @@
+<Database>
+	<!-- Community Resource Pack -->
+	<GameDBStringTable ID="LOC_EN_ADDON_CRP_SLEEPY_EXAMINATIONS">
+
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
+
+		<Contributors>
+			<Name>Sleepy068</Name>
+			<Name>MacNaab</Name>
+			<Name>James</Name>
+			<Name>Erzen</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_CCBT</LocID>
+				<Text>カテコールアミン血液検査 - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_CCBT_DESC</LocID>
+				<Text>カテコールアミン血液検査は、体内のカテコラミンの量を測定する検査です。「カテコールアミン」とは、ドーパミン、ノルエピネフリン、エピネフリンというホルモンの総称です。 \n\n必要な検査室: 血液検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_CCBT_TEST</LocID>
+				<Text>カテコールアミン血液検査 - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_CCBT_TEST_DESC</LocID>
+				<Text>カテコールアミン血液検査は、体内のカテコラミンの量を測定する検査です。「カテコールアミン」とは、ドーパミン、ノルエピネフリン、エピネフリンというホルモンの総称です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_CA</LocID>
+				<Text>がん抗原（CA）検査 - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_CA_DESC</LocID>
+				<Text>がん抗原（CA）検査は、ある種のがんの診断と管理に用いられる血液検査です。腫瘍マーカーとは、がんの増殖に反応して、あるいはがん組織そのものによって体内で生成される物質で、通常はタンパク質のことです。腫瘍マーカーには、ある種のがんに特異的なものもあれば、複数の種類のがんに認められるものもあります。よく知られたマーカーの多くは、がんだけでなく、がんでない状態でも見られます。そのため、この検査のみをがんの特定に使用することはできません。 \n\n必要な検査室: 血液検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_CA_TEST</LocID>
+				<Text>がん抗原（CA）検査 - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_CA_TEST_DESC</LocID>
+				<Text>がん抗原（CA）検査は、ある種のがんの診断と管理に用いられる血液検査です。腫瘍マーカーとは、がんの増殖に反応して、あるいはがん組織そのものによって体内で生成される物質で、通常はタンパク質のことです。腫瘍マーカーには、ある種のがんに特異的なものもあれば、複数の種類のがんに認められるものもあります。よく知られたマーカーの多くは、がんだけでなく、がんでない状態でも見られます。そのため、この検査のみをがんの特定に使用することはできません。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_COLONOSCOPY</LocID>
+				<Text>大腸内視鏡検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_COLONOSCOPY_DESC</LocID>
+				<Text>大腸内視鏡検査は、がんや大腸ポリープなど、腸の中の異常を調べるために行われる医療行為です。大腸内視鏡検査は、大腸内視鏡（内視鏡の一種）と呼ばれる器具、すなわちカメラと照明の入った細長く柔軟なチューブを用いて行われます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_UAS</LocID>
+				<Text>尿中抗原検査 - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_UAS_DESC</LocID>
+				<Text>尿中に含まれるがん由来の抗原の量を調べる尿検査です。さまざまな病原体から排出された抗原が腎臓で濃縮されて尿中に排泄されることを利用し、尿中抗原検査を行うことで、迅速に検査結果を得ることができます。 \n\n必要な検査室: 組織検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_UAS_TEST</LocID>
+				<Text>尿中抗原検査 - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_UAS_TEST_DESC</LocID>
+				<Text>尿中に含まれるがん由来の抗原の量を調べる尿検査です。さまざまな病原体から排出された抗原が腎臓で濃縮されて尿中に排泄されることを利用し、尿中抗原検査を行うことで、迅速に検査結果を得ることができます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_BONEBIOPSY_SAMPLE</LocID>
+				<Text>骨髄生検 - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_BONEBIOPSY_SAMPLE_DESC</LocID>
+				<Text>骨髄生検では、骨髄の構造を保存した円柱状のコア試料を採取します。生検試料は専門医によって評価され、細胞の量、骨髄の他の成分の量との比較、異なる細胞系列が十分な数で存在するかどうか、骨髄に異常な浸潤があるかどうかが判断されます。 \n\n必要な検査室: 組織検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_BONEBIOPSY_TEST</LocID>
+				<Text>骨髄生検 - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_BONEBIOPSY_TEST_DESC</LocID>
+				<Text>骨髄生検では、骨髄の構造を保存した円柱状のコア試料を採取します。生検試料は専門医によって評価され、細胞の量、骨髄の他の成分の量との比較、異なる細胞系列が十分な数で存在するかどうか、骨髄に異常な浸潤があるかどうかが判断されます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_FLOWCYT</LocID>
+				<Text>フローサイトメトリー - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_FLOWCYT_DESC</LocID>
+				<Text>フローサイトメトリーとは、細胞や粒子の集団の物理的・化学的特性を検出・測定するための計測技術です。細胞や粒子を含む試料を液体に分散させ、フローサイトメーターの装置に注入し、光学的に観察します。\n\n必要な検査室: 血液検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_FLOWCYT_TEST</LocID>
+				<Text>フローサイトメトリー - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_FLOWCYT_TEST_DESC</LocID>
+				<Text>フローサイトメトリーとは、細胞や粒子の集団の物理的・化学的特性を検出・測定するための計測技術です。細胞や粒子を含む試料を液体に分散させ、フローサイトメーターの装置に注入し、光学的に観察します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_CBC_SAMPLING</LocID>
+				<Text>(腫瘍学）CBCサンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE</LocID>
+				<Text>末梢血塗抹標本 - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_BLOOD_SMEAR_SAMPLE_DESC</LocID>
+				<Text>血液フィルム（末梢血塗抹標本）は、スライドガラスに薄く塗った血液を染色し、さまざまな血球を顕微鏡で観察できるようにしたものです。 \n\n必要な検査室: 血液検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_BLOOD_SMEAR_TEST</LocID>
+				<Text>末梢血塗抹標本 - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_BLOOD_SMEAR_TEST_DESC</LocID>
+				<Text>血液フィルム（末梢血塗抹標本）は、スライドガラスに薄く塗った血液を染色し、さまざまな血球を顕微鏡で観察できるようにしたものです。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_LIVER_FT_SAMPLING</LocID>
+				<Text>>肝機能検査（LFT） - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_LIVER_FT_SAMPLING_DESC</LocID>
+				<Text>肝機能検査（LFT）は、肝臓の働きに関する情報を得ることができる血液検査です。この検査では、肝細胞で作られるタンパク質や酵素、あるいは肝細胞が損傷を受けた際に血液中に放出されるタンパク質や酵素の濃度が調べられます。 \n\n必要な検査室: 血液検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_LIVER_FT_TEST</LocID>
+				<Text>肝機能検査（LFT） - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_LIVER_FT_TEST_DESC</LocID>
+				<Text>肝機能検査（LFT）は、肝臓の働きに関する情報を得ることができる血液検査です。この検査では、肝細胞で作られるタンパク質や酵素、あるいは肝細胞が損傷を受けた際に血液中に放出されるタンパク質や酵素の濃度が調べられます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_FISH_SAMPLE</LocID>
+				<Text>FISH法 - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_FISH_SAMPLE_DESC</LocID>
+				<Text>蛍光in situハイブリダイゼーション法（FISH）は、核酸配列のうち配列相補性の高い部分のみに結合する蛍光プローブを用いた分子細胞遺伝学的手法の一つです。1980年代初頭に生物医学研究者によって開発され、染色体上の特定のDNA配列の有無の検出と局在化を目的としています。蛍光顕微鏡を用いることで、蛍光プローブが染色体のどこに結合しているかを調べることができます。FISHは、遺伝カウンセリング、医学、種の同定に用いるために、DNAの特定の特徴を見つけるためにしばしば使用されます。また、細胞、循環腫瘍細胞、組織サンプル中の特定のRNA標的（mRNA、lncRNA、miRNA）を検出し、局在させるためにも使用されることがあります。 \n\n必要な検査室: 血液検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_FISH_TEST</LocID>
+				<Text>FISH法 - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_FISH_TEST_DESC</LocID>
+				<Text>蛍光in situハイブリダイゼーション法（FISH）は、核酸配列のうち配列相補性の高い部分のみに結合する蛍光プローブを用いた分子細胞遺伝学的手法の一つです。1980年代初頭に生物医学研究者によって開発され、染色体上の特定のDNA配列の有無の検出と局在化を目的としています。蛍光顕微鏡を用いることで、蛍光プローブが染色体のどこに結合しているかを調べることができます。FISHは、遺伝カウンセリング、医学、種の同定に用いるために、DNAの特定の特徴を見つけるためにしばしば使用されます。また、細胞、循環腫瘍細胞、組織サンプル中の特定のRNA標的（mRNA、lncRNA、miRNA）を検出し、局在させるためにも使用されることがあります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_IV_STAINING_SAMPLE</LocID>
+				<Text>In vitro染色 - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_IV_STAINING_SAMPLE_DESC</LocID>
+				<Text>染色とは、一般的に顕微鏡で試料のコントラストを強調するために用いられる技術です。染色は、組織学（顕微鏡による組織の研究）や病理組織学、血液学、細胞病理学など、顕微鏡レベルでの研究・診断に重点を置く医学の分野で頻繁に使用されています。染色は、生体組織（例えば筋繊維や結合組織など）、細胞集団（異なる血液細胞の分類）、個々の細胞内の小器官を定義するために使用されます。 \n\n必要な検査室: 血液検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_IV_STAINING_TEST</LocID>
+				<Text>In vitro染色 - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_IV_STAINING_TEST_DESC</LocID>
+				<Text>染色とは、一般的に顕微鏡で試料のコントラストを強調するために用いられる技術です。染色は、組織学（顕微鏡による組織の研究）や病理組織学、血液学、細胞病理学など、顕微鏡レベルでの研究・診断に重点を置く医学の分野で頻繁に使用されています。染色は、生体組織（例えば筋繊維や結合組織など）、細胞集団（異なる血液細胞の分類）、個々の細胞内の小器官を定義するために使用されます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_X_RAY_MAMMOGRAM</LocID>
+				<Text>マンモグラム</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_X_RAY_MAMMOGRAM_DESC</LocID>
+				<Text>マンモグラムは、乳房組織のX線検査で、健康診断では感じられないほどの小さな変化を見つけることができます。 \n\n必要な検査室: X線検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_FNA_SAMPLE</LocID>
+				<Text>微細針吸引生検 - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_FNA_SAMPLE_DESC</LocID>
+				<Text>細針吸引法は、組織、細胞、液体のサンプルを採取する、より迅速で痛みの少ない生検方法です。細針吸引法では、細い針を異常のある組織や体液の領域に挿入します。他の生検と同様に、細針吸引で採取されたサンプルは、診断に役立ったり、癌などの疾患を除外したりすることができます。 \n\n必要な検査室: 血液検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_FNA_TEST</LocID>
+				<Text>微細針吸引生検 - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_FNA_TEST_DESC</LocID>
+				<Text>細針吸引法は、組織、細胞、液体のサンプルを採取する、より迅速で痛みの少ない生検方法です。細針吸引法では、細い針を異常のある組織や体液の領域に挿入します。他の生検と同様に、細針吸引で採取されたサンプルは、診断に役立ったり、癌などの疾患を除外したりすることができます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_EMICRO_SAMPLE</LocID>
+				<Text>診断用電子顕微鏡 - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_EMICRO_SAMPLE_DESC</LocID>
+				<Text>診断用電子顕微鏡は、人体組織を高倍率（超微細構造レベル）でスクリーニングする重要な診断ツールとして使用されています。 診断用の固体組織は、他の生体組織と同様にグルタルアルデヒドと四酸化オスミウムで固定し、脱水後エポキシ樹脂に包埋されます。 \n\n必要な検査室: 血液検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_EMICRO_TEST</LocID>
+				<Text>診断用電子顕微鏡 - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_EMICRO_TEST_DESC</LocID>
+				<Text>診断用電子顕微鏡は、人体組織を高倍率（超微細構造レベル）でスクリーニングする重要な診断ツールとして使用されています。 診断用の固体組織は、他の生体組織と同様にグルタルアルデヒドと四酸化オスミウムで固定し、脱水後エポキシ樹脂に包埋されます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_PELVIC_EXAM</LocID>
+				<Text>骨盤内診察</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_PELVIC_EXAM_DESC</LocID>
+				<Text>骨盤内診察とは、医師が女性の生殖器官を視覚的、物理的に検査することです。検査では、医師は膣、子宮頸部、卵管、外陰部、卵巣および子宮を検査します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_DRE_EXAM</LocID>
+				<Text>直腸指診（DRE）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_DRE_EXAM_DESC</LocID>
+				<Text>直腸指診（DRE）は、男性・女性ともに受けることができる検査です。これにより、医師は直腸下部、骨盤、下腹部にがんや前立腺がんなどの健康障害がないかどうかを確認することができます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_MINERALT_SAMPLE</LocID>
+				<Text>包括的ミネラル検査 - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_MINERALT_SAMPLE_DESC</LocID>
+				<Text>包括的ミネラル検査とは、血液中の5種類のミネラルを検査するもので、ミネラル全般の欠乏や過剰摂取（毒性）を検出するために使用されます。この検査では、カルシウム、銅、マグネシウム、マンガン、亜鉛の5種類のミネラルの量をテストします。 \n\n必要な検査室: 血液検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_MINERALT_TEST</LocID>
+				<Text>包括的ミネラル検査 - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_MINERALT_TEST_DESC</LocID>
+				<Text>包括的ミネラル検査とは、血液中の5種類のミネラルを検査するもので、ミネラル全般の欠乏や過剰摂取（毒性）を検出するために使用されます。この検査では、カルシウム、銅、マグネシウム、マンガン、亜鉛の5種類のミネラルの量をテストします。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE</LocID>
+				<Text>リンパ節生検 - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_LYMPHBIOPSY_SAMPLE_DESC</LocID>
+				<Text>リンパ節生検は、リンパ節またはリンパ節の一部を採取し、顕微鏡で調べる検査です。リンパ節生検は、患者さんが感染症、免疫疾患、または癌に罹患しているかどうかを判断するのに役立ちます。 \n\n必要な検査室: 組織検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_LYMPHBIOPSY_TEST</LocID>
+				<Text>リンパ節生検 - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_LYMPHBIOPSY_TEST_DESC</LocID>
+				<Text>リンパ節生検は、リンパ節またはリンパ節の一部を採取し、顕微鏡で調べる検査です。リンパ節生検は、患者さんが感染症、免疫疾患、または癌に罹患しているかどうかを判断するのに役立ちます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE</LocID>
+				<Text>大腸内視鏡検査 - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_SAMPLE_DESC</LocID>
+				<Text>大腸内視鏡検査は、がんや大腸ポリープなど、腸の中の異常を調べるために行われる医療行為です。大腸内視鏡検査は、大腸内視鏡（内視鏡の一種）と呼ばれる器具、すなわちカメラと照明の入った細長く柔軟なチューブを用いて行われます。大腸内視鏡検査では、医師が大腸内視鏡に器具を通して生検（大腸の粘膜の小さな標本のサンプリング）を行い、さらに詳しく分析します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST</LocID>
+				<Text>大腸内視鏡検査 - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_COLONOSCOPY_BIOPSY_TEST_DESC</LocID>
+				<Text>大腸内視鏡検査は、がんや大腸ポリープなど、腸の中の異常を調べるために行われる医療行為です。大腸内視鏡検査は、大腸内視鏡（内視鏡の一種）と呼ばれる器具、すなわちカメラと照明の入った細長く柔軟なチューブを用いて行われます。大腸内視鏡検査では、医師が大腸内視鏡に器具を通して生検（大腸の粘膜の小さな標本のサンプリング）を行い、さらに詳しく分析します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE</LocID>
+				<Text>肝生検 - サンプリング</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_LIVER_BIOPSY_SAMPLE_DESC</LocID>
+				<Text>肝生検とは、肝臓に小さな針を刺し、組織を採取する方法です。この組織は、医師が肝臓の様々な障害や病気を診断するために、実験室で分析されます。 \n\n必要な検査室: 組織検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_LIVER_BIOPSY_TEST</LocID>
+				<Text>肝生検 - 検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_CRP_LIVER_BIOPSY_TEST_DESC</LocID>
+				<Text>肝生検とは、肝臓に小さな針を刺し、組織を採取する方法です。この組織は、医師が肝臓の様々な障害や病気を診断するために、実験室で分析されます。</Text>
+			</GameDBLocalizedString>
+
+			<!-- Community Resource Pack v0.0.9.1 Above (New Content Below) -->
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
