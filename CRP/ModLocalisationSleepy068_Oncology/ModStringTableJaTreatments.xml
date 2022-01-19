@@ -1,10 +1,11 @@
 <Database>
 	<!-- CRP Mod with Sleepy068 -->
 	<GameDBStringTable ID="LOC_EN_ADDON_CRP_SLEEPY_TREATMENTS">
-		<LanguageCode>en</LanguageCode>
-		<LanguageNameLocalized>English</LanguageNameLocalized>
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
 		<Contributors>
 			<Name>Sleepy068</Name>
+			<Name>Erzen</Name>
 		</Contributors>
 
 		<LocalizedStrings>
