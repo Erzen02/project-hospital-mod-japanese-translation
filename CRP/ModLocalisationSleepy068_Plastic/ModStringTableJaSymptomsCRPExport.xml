@@ -168,7 +168,7 @@
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_H_BENT_DIGIT_DESC</LocID>
-				<Text>この患者さんは、手の指が内側に曲がっていて、指の運動制御はできるものの、真っ直ぐにすることができない状態です。</Text>
+				<Text>この患者は、手の指が内側に曲がっていて、指の運動制御はできるものの、真っ直ぐにすることができない状態です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
@@ -178,7 +178,7 @@
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_H_THICKCORD_DESC</LocID>
-				<Text>患者さんの手には、硬く厚い筋肉・組織の索があります。</Text>
+				<Text>患者の手には、硬く厚い筋肉・組織の索があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
@@ -188,7 +188,7 @@
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_DIMPLES_DESC</LocID>
-				<Text>患者さんの皮膚には、オレンジの皮やゴルフボールの表面構造のようなくぼみが見られます。</Text>
+				<Text>患者の皮膚には、オレンジの皮やゴルフボールの表面構造のようなくぼみが見られます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
