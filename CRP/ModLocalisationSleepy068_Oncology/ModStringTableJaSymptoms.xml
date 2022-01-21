@@ -13,62 +13,62 @@
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ACTINIC_KERATOSIS</LocID>
-				<Text>Actinic Keratosis</Text>
+				<Text>光線角化症</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ACTINIC_KERATOSIS_DESC</LocID>
-				<Text>Actinic keratosis is a rough, scaly patch on the skin that develops from years of exposure to the sun.</Text>
+				<Text>光線角化症は、長年日光にさらされることによって発症する、皮膚のざらざらした鱗状の斑点です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_NODULE_SKIN</LocID>
-				<Text>Nodule on the skin</Text>
+				<Text>皮膚上の結節</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_NODULE_SKIN_DESC</LocID>
-				<Text>A small, shiny bump or nodule on the skin</Text>
+				<Text>皮膚に小さな光沢のある隆起や結節ができています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_PERINEURAL_INVASION</LocID>
-				<Text>Perineural Invasion</Text>
+				<Text>傍神経浸潤</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_PERINEURAL_INVASION_DESC</LocID>
-				<Text>Perineural invasion, abbreviated PNI, refers to the invasion of cancer to the space surrounding a nerve.</Text>
+				<Text>傍神経浸潤（PNI）とは、神経の周囲にがんが浸潤している状態を指します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_METASTASIZED_CANCER</LocID>
-				<Text>Metastatic Cancer</Text>
+				<Text>転移性がん</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_METASTASIZED_CANCER_DESC</LocID>
-				<Text>Metastatic cancer is cancer that spreads from its site of origin to another part of the body.</Text>
+				<Text>転移性がんとは、発生した部位から体の他の部位に転移するがんです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CHRONIC_WOUND</LocID>
-				<Text>Chronic Wound</Text>
+				<Text>慢性創傷</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CHRONIC_WOUND_DESC</LocID>
-				<Text>Chronic wounds are sores that don’t heal within about three months. They can start small and might scab over again and again, but they don’t get better.</Text>
+				<Text>慢性創傷とは、3ヶ月程度で治らない傷のことです。最初は小さく、何度もかさぶたになることもありますが、自然に治癒しない状態を指します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ABNORMAL_MOLE</LocID>
-				<Text>Abnormal Mole</Text>
+				<Text>異常なほくろ</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ABNORMAL_MOLE_DESC</LocID>
-				<Text>A mole with an uneven border, unusual color, or change in growth.</Text>
+				<Text>ほくろの境目が不均一で、色が変わっていたり、生え方が変化しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
@@ -78,57 +78,57 @@
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HIGH_EPLVL_DESC</LocID>
-				<Text>The patient has elevated blood levels of epinephrine (adrenaline). Adrenaline is normally produced by both the adrenal glands and a small number of neurons in the medulla oblongata. </Text>
+				<Text>患者のエピネフリン（アドレナリン）の血中濃度が上昇しています。アドレナリンは通常、副腎と延髄にある少数の神経細胞の両方によって産生されます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HIGH_NEPLVL</LocID>
-				<Text>High Norepinephrine Levels</Text>
+				<Text>ノルエピネフリン血中濃度の上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HIGH_NEPLVL_DESC</LocID>
-				<Text>The patient has elevated blood levels of norepinephrine (noradrenaline). Norepinephrine is a naturally occurring chemical in the body that acts as both a stress hormone and neurotransmitter. It's released into the blood as a stress hormone when the brain perceives that a stressful event has occurred. </Text>
+				<Text>患者のノルエピネフリン（ノルアドレナリン）の血中濃度が上昇しています。ノルエピネフリンは体内で自然に発生する化学物質で、ストレスホルモンと神経伝達物質の両方の働きをします。脳がストレスとなる出来事が起こったと認識すると、ストレスホルモンとして血中に放出されます。 </Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SEIZURES</LocID>
-				<Text>Seizures</Text>
+				<Text>発作</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SEIZURES_DESC</LocID>
-				<Text>A seizure is a sudden, uncontrolled electrical disturbance in the brain. It can cause changes in your behaviour, movements or feelings, and in levels of consciousness.</Text>
+				<Text>発作とは、突然、脳の中で制御不能な電気的障害が起こることです。発作が起きると、行動、動作、感情、意識レベルが変化することがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HEMOPTYSIS1</LocID>
-				<Text>Mild Hemoptysis</Text>
+				<Text>軽度の喀血</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HEMOPTYSIS1_DESC</LocID>
-				<Text>Hemoptysis is the coughing up of blood or blood-stained mucus from the bronchi, larynx, trachea, or lungs. In other words, it is the airway bleeding. This can occur with lung cancer, infections such as tuberculosis, bronchitis, or pneumonia, and certain cardiovascular conditions.</Text>
+				<Text>喀血とは、気管支、喉頭、気管、肺から血液や血液の混じった粘液が咳き込むこと、つまり、気道から出血することです。肺がん、結核、気管支炎、肺炎などの感染症、ある種の心疾患などで起こることがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_NERVE_DAMAGE</LocID>
-				<Text>Postoperative Neuropathic Pain</Text>
+				<Text>術後神経障害性疼痛</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_NERVE_DAMAGE_DESC</LocID>
-				<Text>Postoperative neuropathic pain (PONP) can develop if nerves were damaged during a surgery. Damaged nerves cannot correctly transmit signals from various parts of the body to the brain. Instead, these signals become exaggerated, causing chronic pain that may persist for months or even years.</Text>
+				<Text>手術中に神経を損傷した場合、術後神経障害性疼痛（PONP）を発症することがあります。損傷した神経は、体の各部位から脳へ信号を正しく伝えることができません。その代わりに、これらの信号が誇張され、数ヶ月から数年にわたり慢性的な痛みが続くことがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HIGH_CEALVL</LocID>
-				<Text>High Carcinoembryonic Antigen Levels</Text>
+				<Text>癌胎児性抗原(CEA)血中濃度の上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HIGH_CEALVL_DESC</LocID>
-				<Text>The patient has elevated blood levels of carcinoembryonic antigen. A high level of CEA can be a sign of certain types of cancers. These include cancers of the colon and rectum, prostate, ovary, lung, thyroid, or liver. High CEA levels may also be a sign of some noncancerous conditions, such as cirrhosis, noncancerous breast disease, and emphysema.</Text>
+				<Text>癌胎児性抗原(CEA)の血中濃度が上昇している患者さんです。CEAの高値は、ある種の癌の徴候である可能性があります。これには、結腸および直腸、前立腺、卵巣、肺、甲状腺、または肝臓のがんなどが含まれます。また、肝硬変、非がん性乳房疾患、肺気腫など、がん以外の疾患の徴候として認められる場合もあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
@@ -138,177 +138,177 @@
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_POLYPS_DESC</LocID>
-				<Text>A polyp is a growth of tissue on the lining of the colon and rectum that projects into the intestines. People with colon polyps usually have no symptoms. Most colon polyps are harmless, though some types can become cancerous.</Text>
+				<Text>ポリープとは、結腸や直腸の粘膜にできた組織の増殖で、腸の中に突出しているものをいいます。大腸ポリープのある人には、通常は自覚症状が全くありません。ほとんどの大腸ポリープは無害ですが、中には癌化するものもあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPONATREMIA</LocID>
-				<Text>Hyponatremia</Text>
+				<Text>低ナトリウム血症</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPONATREMIA_DESC</LocID>
-				<Text>Hyponatremia occurs when the concentration of sodium in your blood is abnormally low. Sodium is an electrolyte, and it helps regulate the amount of water that's in and around your cells.</Text>
+				<Text>低ナトリウム血症は、血液中のナトリウムの濃度が異常に低くなった場合に起こります。ナトリウムは電解質の一種で、細胞の中や周りにある水の量を調節する働きがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPERGLYCEMIA</LocID>
-				<Text>Hyperglycemia</Text>
+				<Text>高血糖</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPERGLYCEMIA_DESC</LocID>
-				<Text>Hyperglycemia is the technical term for high blood glucose (blood sugar). High blood sugar happens when the body has too little insulin or when the body can't use insulin properly.</Text>
+				<Text>高血糖とは、専門用語で「血糖値が高い」ことを意味します。高血糖は、体内のインスリンの量が少なすぎるか、インスリンをうまく使えない場合に起こります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPERCORTISOL</LocID>
-				<Text>Hypercortisolism</Text>
+				<Text>高コルチゾール症</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPERCORTISOL_DESC</LocID>
-				<Text>Cushing's syndrome, also called hypercortisolism, is a rare endocrine disorder caused by chronic exposure of the body's tissues to excess levels of cortisol - a hormone naturally produced by the adrenal gland.</Text>
+				<Text>高コルチゾール症はクッシング症候群とも呼ばれ、副腎から自然に分泌されるホルモンであるコルチゾールが体内の組織で慢性的に過剰なレベルに晒されることによって起こるまれな内分泌疾患です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPERALDOSTERONISM</LocID>
-				<Text>Hyperaldosteronism</Text>
+				<Text>アルドステロン症</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPERALDOSTERONISM_DESC</LocID>
-				<Text>Hyperaldosteronism is a disease in which the adrenal gland(s) make too much aldosterone which leads to hypertension (high blood pressure) and low blood potassium levels. Primary hyperaldosteronism can be caused by either hyperactivity in one adrenal gland (unilateral disease) or both (bilateral disease).</Text>
+				<Text>アルドステロン症は、副腎で作られるアルドステロンが過剰になり、高血圧や血中カリウム濃度の低下を引き起こす病気です。原発性アルドステロン症は、片方の副腎の機能亢進（片側性疾患）と両方の副腎（両側性疾患）のいずれかが原因となって発症することがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_LARGE_LYMPHNODE</LocID>
-				<Text>Lymphadenitis</Text>
+				<Text>リンパ節炎</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_LARGE_LYMPHNODE_DESC</LocID>
-				<Text>Lymphadenitis (Swollen Lymph Nodes) is when Lymph nodes become swollen in response to illness, infection, or stress. Swollen lymph nodes are one sign that your lymphatic system is working to rid your body of the responsible agents. Immune system glands usually enlarge in response to a bacterial or viral infection, but sudden swelling of many lymph nodes may indicate cancer.</Text>
+				<Text>リンパ節炎（腫脹性リンパ節）とは、病気や感染症、ストレスなどに反応して、リンパ節が腫れることをいいます。リンパ節の腫れは、リンパ系が原因物質を体外に排出しようとする働きがあることを示す一つのサインです。通常、免疫系腺は細菌やウイルス感染に反応して拡大しますが、多くのリンパ節が突然腫れることは、がんを示唆している可能性があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ELAVATED_5HIAA</LocID>
-				<Text>5-HIAA High Urine Levels</Text>
+				<Text>尿中の5-HIAA濃度の上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ELAVATED_5HIAA_DESC</LocID>
-				<Text>The patient has elevated levels of 5-HIAA (5-hydroxyindoleacetic acid) in their urine. Serotonin, measured in urine as 5 hydroxyindoleacetic acid (5HIAA). Elevated levels of 5HIAA is correlated with carcinoid syndrome and carcinoid crises. Prolonged exposure of the heart valves to high levels of serotonin is associated with complications of the disease.</Text>
+				<Text>患者の尿中の5-HIAA（5-hydroxyindoleacetic acid）濃度が上昇しています。5ヒドロキシインドール酢酸（5HIAA）は、尿中のセロトニンの代謝産物として測定されます。5HIAAの上昇は、カルチノイド症候群と相関があります。心臓弁が高濃度のセロトニンに長時間さらされることは、本疾患の合併症と関連します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CGA_BL_DETECTED</LocID>
-				<Text>Chromogranin-A High Blood Levels</Text>
+				<Text>クロモグラニンA血中濃度が上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CGA_BL_DETECTED_DESC</LocID>
-				<Text>The patient has elevated levels of the tumour marker Chromogranin-A in their blood. Chromogranin A (CgA) is a general marker associated with all carcinoid tumours. It is a protein produced by tumour cells and released. Chromogranin A is associated with other hormones and may be involved in their regulation. There is a normal level of Chromogranin A in the blood, and the range currently is roughly less than 39ng/L.</Text>
+				<Text>患者さんの血液中の腫瘍マーカーであるクロモグラニンAの濃度が上昇しています。クロモグラニンA（CgA）は、すべてのカルチノイド腫瘍に関連する一般的なマーカーであり、腫瘍細胞によって産生され、放出されるタンパク質です。クロモグラニンAは他のホルモンと関連し、その調節に関与している可能性があります。血中のクロモグラニンAには正常値があり、現在のところ、おおよそ39ng/L以下の範囲となっています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CARCINOID_CRISIS</LocID>
-				<Text>Carcinoid Crisis</Text>
+				<Text>カルチノイドクリーゼ</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CARCINOID_CRISIS_DESC</LocID>
-				<Text>Carcinoid crisis is a life-threatening form of carcinoid syndrome that results from the release of an overwhelming amount of biologically active compounds from the tumour that may be triggered by extreme stress, tumour manipulation (biopsy or surgery) or by anesthesia.</Text>
+				<Text>カルチノイドクリーゼとは、生命を脅かすカルチノイド症候群の一種で、極度のストレス、腫瘍の操作（生検または手術）、麻酔によって誘発される腫瘍からの圧倒的な量の生物学的活性化合物の放出に起因するものです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ANAPHYLACTIC_SHOCK</LocID>
-				<Text>Anaphylactic Shock</Text>
+				<Text>アナフィラキシーショック</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ANAPHYLACTIC_SHOCK_DESC</LocID>
-				<Text>Anaphylactic shock is a rare but severe allergic reaction that can be deadly if you don't treat it right away. It's most often caused by an allergy to food, insect bites, or certain medications. A shot of a drug called epinephrine is needed immediately.</Text>
+				<Text>アナフィラキシーショックは、稀にしか起こらないが、すぐに治療しないと命にかかわるような重篤なアレルギー反応です。多くの場合、食物、虫刺され、特定の薬物に対するアレルギーが原因です。エピネフリンと呼ばれる薬剤の注射が早急に必要です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_UNUSUAL_INFECT</LocID>
-				<Text>Unusual Infection</Text>
+				<Text>異常な感染症</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_UNUSUAL_INFECT_DESC</LocID>
-				<Text>An infection that has an unknown cause or exhibits properties that are unusual.</Text>
+				<Text>原因不明または特異な性質を示す感染症。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_FREQUENT_INFECT</LocID>
-				<Text>Frequent Infections</Text>
+				<Text>感染症の頻発</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_FREQUENT_INFECT_DESC</LocID>
-				<Text>Frequent infections are infections that are too great in number, too severe, or too long lasting. Frequent or recurrent infections can occur because the body isn’t producing enough white blood cells to keep the immune system working properly.</Text>
+				<Text>感染症の頻発とは、感染症の感染数が多すぎたり、重症化したり、長く続いたりすることを指します。頻繁な感染症や再発性の感染症は、体が免疫システムを正常に働かせるために十分な白血球を生産していないために起こる可能性があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_LYMPHOCYTOSIS</LocID>
-				<Text>Lymphocytosis</Text>
+				<Text>リンパ球増加</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_LYMPHOCYTOSIS_DESC</LocID>
-				<Text>Lymphocytosis is a higher-than-normal amount of lymphocytes, a subtype of white blood cells, in the body. Lymphocytes are part of your immune system and work to fight off infections.</Text>
+				<Text>リンパ球増加は、白血球の一種であるリンパ球が体内で通常より多く見受けられることをいいます。リンパ球は免疫システムの一部であり、感染症を撃退するために働きます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BLEEDING_GUM</LocID>
-				<Text>Bleeding Gums</Text>
+				<Text>歯肉出血</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BLEEDING_GUM_DESC</LocID>
-				<Text>Bleeding gums are the most common symptom of gum disease. But it can also point to other health problems. Occasional bleeding of the gums can be caused by brushing your teeth too vigorously or wearing dentures that don’t fit correctly. Frequent gum bleeding may also indicate more serious problems.</Text>
+				<Text>歯肉出血は、歯周病で最もよく見られる症状です。しかし、それは他の健康問題を指し示すこともあります。歯肉から時々出血するのは、歯を強く磨きすぎていたり、入れ歯が正しく装着されていなかったりすることが原因である可能性があります。また、頻繁に起こる歯茎の出血は、より深刻な問題を示している場合もあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HIGH_TCOUNT</LocID>
-				<Text>High T-Cell Count</Text>
+				<Text>T細胞数の増加</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HIGH_TCOUNT_DESC</LocID>
-				<Text>A high T cell count can be due to: infectious mononucleosis, also known as mono or “the kissing disease” acute lymphocytic leukemia (ALL), a type of cancer that affects the WBCs. multiple myeloma, a type of cancer that affects the plasma cells in bone marrow.</Text>
+				<Text>T細胞数が多い場合、以下の原因が考えられます：伝染性単核球症（または「キス病」として知られています）、急性リンパ性白血病（ALL）、白血球を侵す癌の一種多発性骨髄腫、骨髄の形質細胞を侵す癌の一種。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_RC_APLASIA</LocID>
-				<Text>Red Cell Aplasia</Text>
+				<Text>赤芽球癆</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_RC_APLASIA_DESC</LocID>
-				<Text>Pure red cell aplasia (PRCA) or erythroblastopenia refers to a type of anemia affecting the precursors to red blood cells but not to white blood cells. In PRCA, the bone marrow ceases to produce red blood cells. There are multiple etiologies that can cause PRCA.</Text>
+				<Text>赤芽球癆（PRCA）または赤芽球減少症は、赤血球の前駆体が影響を受け、白血球が影響を受けないタイプの貧血を指します。PRCAでは、骨髄での赤血球の産生が停止します。PRCAを引き起こす病因は複数存在します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CHRONIC_NEUT</LocID>
-				<Text>Neutropenia</Text>
+				<Text>好中球減少</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CHRONIC_NEUT_DESC</LocID>
-				<Text>Neutropenia is when a person has a low level of neutrophils. Neutrophils are a type of white blood cell. All white blood cells help the body fight infection. Neutrophils fight infection by destroying harmful bacteria and fungi (yeast) that invade the body. Neutrophils are made in the bone marrow.</Text>
+				<Text>好中球減少症とは、好中球が少ない状態のことをいいます。好中球は白血球の一種です。すべての白血球は、感染症への抵抗を助けます。好中球は、体内に侵入した有害な細菌や真菌（酵母）を破壊することによって、感染と戦います。好中球は骨髄で作られます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SPLENOMEGALY</LocID>
-				<Text>Splenomegaly</Text>
+				<Text>脾腫</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SPLENOMEGALY_DESC</LocID>
-				<Text>Splenomegaly is a condition that occurs when your spleen becomes enlarged. It’s also commonly referred to as enlarged spleen or spleen enlargement.</Text>
+				<Text>脾腫は、脾臓が肥大することで起こる病気です。一般的には、脾臓肥大、脾臓腫大とも呼ばれます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
