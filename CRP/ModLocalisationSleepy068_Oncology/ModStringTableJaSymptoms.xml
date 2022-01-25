@@ -318,157 +318,157 @@
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_RUP_SPLENOMEGALY_DESC</LocID>
-				<Text>A ruptured spleen is an emergency medical condition that occurs when the capsule-like covering of the spleen breaks open, pouring blood into your abdominal area. Depending on the size of the rupture, a large amount of internal bleeding can occur.</Text>
+				<Text>脾臓破裂は、脾臓を覆っているカプセル状のものが破れ、血液がお腹の中に流れ込むことで起こる救急疾患です。破裂の大きさによっては、大量の内出血を起こすことがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HEPATOMEGALY</LocID>
-				<Text>Hepatomegaly</Text>
+				<Text>肝腫脹</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HEPATOMEGALY_DESC</LocID>
-				<Text>Hepatomegaly is when the patient has an abnormally large liver. It's often a sign of a serious health concern.</Text>
+				<Text>肝腫脹とは、患者さんの肝臓が異常に大きいことをいいます。健康上の重大な問題の兆候であることが多いです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_THROMBOCYTOPENIA</LocID>
-				<Text>Thrombocytopenia</Text>
+				<Text>血小板減少症</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_THROMBOCYTOPENIA_DESC</LocID>
-				<Text>Thrombocytopenia is a condition in which you have a low blood platelet count. Platelets (thrombocytes) are colourless blood cells that help blood clot. Platelets stop bleeding by clumping and forming plugs in blood vessel injuries.</Text>
+				<Text>血小板減少症は、血小板の数が少ない状態です。血小板（血球細胞）は無色の血液細胞で、血液を凝固させる働きがあります。血小板は、血管の傷の中で固まり栓を形成することで出血を止めます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_02</LocID>
-				<Text>PML-RARA Defect Detected</Text>
+				<Text>PML-RARA 融合遺伝子の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_02_DESC</LocID>
-				<Text>APL cells have a very specific abnormality called a “balanced translocation,” in which parts of the chromosomes 15 and 17 are swapped over. This results in the formation of an abnormal fusion gene known as “PML/RARα.” This mutated gene causes many of the features of the disease.</Text>
+				<Text>APL（急性前骨髄球性白血病）細胞は、15番と17番の染色体の一部が入れ替わる「染色体転座」という非常に特殊な異常があります。その結果、"PML/RARα "として知られる異常な融合遺伝子が形成されます。この変異した遺伝子が、この病気の多くの特徴を引き起こすのです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_FISH_POSLESION</LocID>
-				<Text>FISH-Positive Lesion</Text>
+				<Text>FISH検査陽性</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_FISH_POSLESION_DESC</LocID>
-				<Text>The patient's lesion has been tested and FISH examinations have confirmed it is malignant.</Text>
+				<Text>患者の病巣を検査し、FISH検査で悪性であることが確認されました。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_01</LocID>
-				<Text>Philadelphia Defect Detected</Text>
+				<Text>フィラデルフィア染色体異常の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_01_DESC</LocID>
-				<Text>The Philadelphia chromosome or Philadelphia translocation (Ph) is a specific genetic abnormality in chromosome 22 of leukemia cancer cells (particularly chronic myeloid leukemia (CML) cells). The chromosomal defect in the Philadelphia chromosome is a reciprocal translocation, in which parts of two chromosomes, 9 and 22, swap places. The presence of this translocation is a highly sensitive test for CML, since most cases of CML are positive.</Text>
+				<Text>フィラデルフィア染色体またはフィラデルフィア転座（Ph）は、白血病がん細胞（特に慢性骨髄性白血病（CML）細胞）の22番染色体における特定の遺伝子異常です。フィラデルフィア染色体の染色体異常は、9番と22番という2つの染色体の一部が入れ替わる相互転座です。この転座の存在はCMLのほとんどの症例で確認できるため、CMLの高感度検査として用いられます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_001</LocID>
-				<Text>Myeloperoxidase (MPO) Positive</Text>
+				<Text>ミエロペルオキシダーゼ（MPO）陽性</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_001_DESC</LocID>
-				<Text>Myeloperoxidase is a lysosomal enzyme, located in the azurophilic granules of the neutrophils and its precursors, eosinophils and monocytes. This staining is mainly used to differentiate acute myeloid leukaemia from acute lymphoblastic leukaemia.</Text>
+				<Text>ミエロペルオキシダーゼは、好中球およびその前駆体である好酸球、単球のアズール顆粒に存在するリソゾーム酵素です。この染色は、主に急性骨髄性白血病と急性リンパ性白血病の鑑別に用いられます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_002</LocID>
-				<Text>Sudan Black B Positive</Text>
+				<Text>ズダン染色検査陽性</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_002_DESC</LocID>
-				<Text>Solvent Black 3 is an azo dye. It is non-fluorescent, relatively thermostable lysochrome (fat-soluble dye) diazo dye used for staining of neutral triglycerides and lipids on frozen sections and some lipoproteins on paraffin sections. In the laboratory, Solvent Black 3 is used for Sudan staining. In differentiating haematological disorders it will stain myeloblasts but not lymphoblasts.</Text>
+				<Text>ソルベントブラック3は、アゾ系色素です。無蛍光で比較的熱に強いリゾクローム（脂溶性染料）ジアゾ染料で、凍結切片の中性トリグリセリドや脂質、パラフィン切片の一部のリポ蛋白の染色に使用されています。実験室では、ズダン染料にソルベントブラック3が使用されます。血液疾患の鑑別には、骨髄芽細胞は染まりますが、リンパ芽細胞は染まりません。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_03</LocID>
-				<Text>IDH1/IDH2 Mutation Detected</Text>
+				<Text>イソクエン酸デヒドロゲナーゼ(IDH1/2)変異の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_03_DESC</LocID>
-				<Text>Isocitrate dehydrogenase (IDH) is a key enzyme involved in the conversion of isocitrate to α-ketoglutarate (α-KG) in the tricarboxylic acid (TCA) cycle. IDH mutation produces a neomorphic enzyme, which can lead to the abnormal accumulation of R-2-HG and promotes leukemogenesis. IDH mutation occurs in 20% of acute myeloid leukemia (AML) patients, mainly including IDH1 R132, IDH2 R140, and IDH2 R172.</Text>
+				<Text>イソクエン酸デヒドロゲナーゼ（IDH）は、トリカルボン酸サイクルにおいてイソクエン酸からα-ケトグルタル酸（α-KG）への変換に関与する重要な酵素であり、この酵素を阻害することにより、TCAサイクルが阻害される。IDHの変異により新型酵素が生成され、R-2-HGの異常蓄積を引き起こし、白血病の発症を促進することがあります。IDH変異は急性骨髄性白血病（AML）患者の20％に認められ、主にIDH1 R132、IDH2 R140、IDH2 R172が含まれています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_04</LocID>
-				<Text>BCR-ABL Fusion Gene Detected</Text>
+				<Text>BCR-ABL融合遺伝子の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_04_DESC</LocID>
-				<Text>BCR-ABL is a mutation that is formed by the combination of two genes, known as BCR and ABL. It's sometimes called a fusion gene. The BCR gene is normally on chromosome number 22. The ABL gene is normally on chromosome number 9. The BCR-ABL mutation happens when pieces of BCR and ABL genes break off and switch places.</Text>
+				<Text>BCR-ABLは、BCRとABLと呼ばれる2つの遺伝子が組み合わさってできる変異です。融合遺伝子と呼ばれることもあります。BCR遺伝子は通常22番染色体上にあります。ABL遺伝子は通常9番染色体上にあります。BCR-ABL変異は、BCR遺伝子とABL遺伝子の断片が途切れて場所が入れ替わることで起こります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_05</LocID>
-				<Text>Trisomy 8 Gene Detected</Text>
+				<Text>トリソミー8遺伝子の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_05_DESC</LocID>
-				<Text>Trisomy 8, also known as Warkany syndrome 2, is a human chromosomal disorder caused by having three copies (trisomy) of chromosome 8. It can appear with or without mosaicism. The term "mosaic" indicates that some cells contain the extra chromosome while others do not.</Text>
+				<Text>トリソミー8は、ワルカニー症候群2としても知られており、8番染色体を3本持つことによって起こるヒトの染色体異常です（トリソミー）。この疾患は、モザイクを伴う場合と伴わない場合があります。モザイク」とは、ある細胞には余分な染色体が存在するが、他の細胞には存在しないことを意味します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_06</LocID>
-				<Text>Trisomy 9 Gene Detected</Text>
+				<Text>トリソミー9遺伝子の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_06_DESC</LocID>
-				<Text>Mosaic trisomy 9 is a rare chromosomal disorder in which the entire 9th chromosome appears three times (trisomy) rather than twice in some cells of the body. The term "mosaic" indicates that some cells contain the extra chromosome 9, while others have the typical chromosomal pair.</Text>
+				<Text>モザイク型トリソミー9は、第9染色体全体が体の一部の細胞で2回ではなく3回出現する（トリソミー）まれな染色体異常です。モザイク」とは、ある細胞には余分な9番染色体が存在し、他の細胞には通常の染色体対が存在することを意味します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_07</LocID>
-				<Text>Philadelphia Chromosome Duplication</Text>
+				<Text>フィラデルフィア染色体重複</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_07_DESC</LocID>
-				<Text>Duplication of the defective chromosome, Philadelphia Chromosome, has been detected. This can occur in more advanced stages of Chronic Myeloid Leukaemia.</Text>
+				<Text>欠陥染色体であるフィラデルフィア染色体の重複が検出されました。これは慢性骨髄性白血病のより進行した段階で発生する可能性があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BLA_HIGH1</LocID>
-				<Text>Elevated Blast Cell Count</Text>
+				<Text>軽度な血中芽細胞数の上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BLA_HIGH1_DESC</LocID>
-				<Text>Blasts are precursors to the mature, circulating blood cells such as neutrophils, monocytes, lymphocytes and erythrocytes.  Blasts are usually found in low numbers in the bone marrow.  They are not usually found in significant numbers in the blood. Testing has detected an elevated level of blasts in the patients blood (between 5 to 19%).</Text>
+				<Text>検査により、患者さんの血液中に高いレベルの芽細胞が検出されました（5～19％）。芽細胞は、好中球、単球、リンパ球、赤血球など、成熟した循環血液細胞の前駆体です。 通常、芽細胞は骨髄に少ない数で存在し、血液中にはそれほど多くは見られません。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BLA_HIGH2</LocID>
-				<Text>High Blast Cell Count</Text>
+				<Text>血中芽細胞数の上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BLA_HIGH2_DESC</LocID>
-				<Text>Blasts are precursors to the mature, circulating blood cells such as neutrophils, monocytes, lymphocytes and erythrocytes.  Blasts are usually found in low numbers in the bone marrow.  They are not usually found in significant numbers in the blood. Testing has detected a high level of blasts in the patients blood (above 20%).</Text>
+				<Text>検査により、患者さんの血液中に高濃度の芽細胞が検出されました（20％以上）。芽細胞は、好中球、単球、リンパ球、赤血球など、成熟した循環血液細胞の前駆体です。 通常、芽細胞は骨髄に少ない数で存在し、 血液中にはそれほど多くは見られません。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BLA_HIGH3</LocID>
-				<Text>Very High Blast Cell Count</Text>
+				<Text>大幅な血中芽細胞数の上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BLA_HIGH3_DESC</LocID>
-				<Text>Blasts are precursors to the mature, circulating blood cells such as neutrophils, monocytes, lymphocytes and erythrocytes.  Blasts are usually found in low numbers in the bone marrow.  They are not usually found in significant numbers in the blood. Testing has detected a very high level of blasts in the patients blood (above 30%). At this level, the blast cells crowd out normal white blood cells making them far less effective.</Text>
+				<Text>検査により、患者さんの血液中に非常に高いレベルの芽細胞が検出されました（30％以上）。このレベルでは、芽細胞が正常な白血球を押しのけてしまうため、白血球の働きが悪くなってしまいます。芽細胞は、好中球、単球、リンパ球、赤血球など、成熟した循環血液細胞の前駆体です。 通常、芽細胞は骨髄に少ない数で存在し、 血液中にはそれほど多くは見られません。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
