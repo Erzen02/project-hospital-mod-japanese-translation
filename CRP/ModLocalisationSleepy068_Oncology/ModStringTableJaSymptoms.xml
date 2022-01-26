@@ -473,582 +473,582 @@
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD10_BRIGHT</LocID>
-				<Text>Neprilysin (CD10) Bright Expression</Text>
+				<Text>ネプリライシン (CD10) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD10_BRIGHT_DESC</LocID>
-				<Text>Neprilysin, also known as membrane metallo-endopeptidase, neutral endopeptidase, cluster of differentiation 10, and common acute lymphoblastic leukemia antigen is an enzyme that in humans is encoded by the MME gene. Identified in common acute lymphoblastic leukemia as a cancer specific antigen, CD10 is a cell surface ectoenzyme widely expressed on different types of cells.</Text>
+				<Text>ネプリライシンは、MME、NEP、CD10、CALLAとしても知られている酵素で、ヒトではMME遺伝子にコードされています。CD10は、癌特異的抗原としてcommon acute lymphoblastic leukemiaに同定され、様々な種類の細胞に広く発現している細胞表面外酵素です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD10_NEG</LocID>
-				<Text>Neprilysin (CD10) Negative Expression</Text>
+				<Text>ネプリライシン (CD10) 陰性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD10_NEG_DESC</LocID>
-				<Text>Neprilysin, also known as membrane metallo-endopeptidase, neutral endopeptidase, cluster of differentiation 10, and common acute lymphoblastic leukemia antigen is an enzyme that in humans is encoded by the MME gene. Identified in common acute lymphoblastic leukemia as a cancer specific antigen, CD10 is a cell surface ectoenzyme widely expressed on different types of cells.</Text>
+				<Text>ネプリライシンは、MME、NEP、CD10、CALLAとしても知られている酵素で、ヒトではMME遺伝子にコードされています。CD10は、癌特異的抗原としてcommon acute lymphoblastic leukemiaに同定され、様々な種類の細胞に広く発現している細胞表面外酵素です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD19_BRIGHT</LocID>
-				<Text>CD19 Antigen Bright Expression</Text>
+				<Text>CD19抗原 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD19_BRIGHT_DESC</LocID>
-				<Text>B-lymphocyte antigen CD19, also known as CD19 molecule, B-Lymphocyte Surface Antigen B4, T-Cell Surface Antigen Leu-12 and CVID3 is a transmembrane protein that in humans is encoded by the gene CD19. In humans, CD19 is expressed in all B lineage cells, except for plasma cells, and in follicular dendritic cells.</Text>
+				<Text>Bリンパ球抗原CD19は、CD19分子、Bリンパ球表面抗原B4、T細胞表面抗原Leu-12およびCVID3としても知られている膜貫通タンパク質で、ヒトではCD19遺伝子によってコードされています。ヒトでは、CD19は、形質細胞を除く全てのB細胞系と濾胞樹状細胞に発現しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD19_NEG</LocID>
-				<Text>CD19 Antigen Negative Expression</Text>
+				<Text>CD19抗原 陰性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD19_NEG_DESC</LocID>
-				<Text>B-lymphocyte antigen CD19, also known as CD19 molecule, B-Lymphocyte Surface Antigen B4, T-Cell Surface Antigen Leu-12 and CVID3 is a transmembrane protein that in humans is encoded by the gene CD19. In humans, CD19 is expressed in all B lineage cells, except for plasma cells, and in follicular dendritic cells.</Text>
+				<Text>Bリンパ球抗原CD19は、CD19分子、Bリンパ球表面抗原B4、T細胞表面抗原Leu-12およびCVID3としても知られている膜貫通タンパク質で、ヒトではCD19遺伝子によってコードされています。ヒトでは、CD19は、形質細胞を除く全てのB細胞系と濾胞樹状細胞に発現しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD20_DIM</LocID>
-				<Text>CD20 Antigen Dim Expression</Text>
+				<Text>CD20抗原 曖昧な発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD20_DIM_DESC</LocID>
-				<Text>B-lymphocyte antigen CD20 or CD20 is expressed on the surface of all B-cells beginning at the pro-B phase and progressively increasing in concentration until maturity. CD20 is a membrane-embedded surface molecule which plays a role in the development and differentiation of B-cells into plasma cells.</Text>
+				<Text>Bリンパ球抗原CD20またはCD20は、すべてのB細胞の表面にプロB期に始まり、成熟するまで徐々に濃度を増して発現します。CD20は膜に埋め込まれた表面分子であり、B細胞の発生と形質細胞への分化に関与しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD20_BRIGHT</LocID>
-				<Text>CD20 Antigen Bright Expression</Text>
+				<Text>CD20抗原 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD20_BRIGHT_DESC</LocID>
-				<Text>B-lymphocyte antigen CD20 or CD20 is expressed on the surface of all B-cells beginning at the pro-B phase and progressively increasing in concentration until maturity. CD20 is a membrane-embedded surface molecule which plays a role in the development and differentiation of B-cells into plasma cells.</Text>
+				<Text>Bリンパ球抗原CD20またはCD20は、すべてのB細胞の表面にプロB期に始まり、成熟するまで徐々に濃度を増して発現します。CD20は膜に埋め込まれた表面分子であり、B細胞の発生と形質細胞への分化に関与しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_TDT_BRIGHT</LocID>
-				<Text>TdT Antigen Bright Expression</Text>
+				<Text>TdT抗原 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_TDT_BRIGHT_DESC</LocID>
-				<Text>Terminal deoxynucleotidyl transferase (TdT), also known as DNA nucleotidylexotransferase (DNTT) or terminal transferase, is a specialized DNA polymerase expressed in immature, pre-B, pre-T lymphoid cells, and acute lymphoblastic leukemia/lymphoma cells.</Text>
+				<Text>末端デオキシヌクレオチジルトランスフェラーゼ（TdT）は、DNAヌクレオチジルレキソトランスフェラーゼ（DNTT）または末端転移酵素とも呼ばれ、未熟な、プレB、プレTリンパ球および急性リンパ性白血病/リンパ腫細胞に発現する特殊なDNAポリメラーゼです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_TDT_NEG</LocID>
-				<Text>TdT Antigen Negative Expression</Text>
+				<Text>TdT抗原 陰性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_TDT_NEG_DESC</LocID>
-				<Text>Terminal deoxynucleotidyl transferase (TdT), also known as DNA nucleotidylexotransferase (DNTT) or terminal transferase, is a specialized DNA polymerase expressed in immature, pre-B, pre-T lymphoid cells, and acute lymphoblastic leukemia/lymphoma cells.</Text>
+				<Text>末端デオキシヌクレオチジルトランスフェラーゼ（TdT）は、DNAヌクレオチジルレキソトランスフェラーゼ（DNTT）または末端転移酵素とも呼ばれ、未熟な、プレB、プレTリンパ球および急性リンパ性白血病/リンパ腫細胞に発現する特殊なDNAポリメラーゼです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD22_DIM</LocID>
-				<Text>CD22 Antigen Dim Expression</Text>
+				<Text>CD22抗原 曖昧な発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD22_DIM_DESC</LocID>
-				<Text>CD22, or cluster of differentiation-22, is a molecule belonging to the SIGLEC family of lectins. It is found on the surface of mature B cells and to a lesser extent on some immature B cells. CD22 is a sugar binding transmembrane protein, which specifically binds sialic acid with an immunoglobulin (Ig) domain located at its N-terminus. The presence of Ig domains makes CD22 a member of the immunoglobulin superfamily. CD22 functions as an inhibitory receptor for B cell receptor (BCR) signaling.</Text>
+				<Text>CD22（Cluster of Differentiation-22）は、SIGLECファミリーのレクチンに属する分子です。成熟B細胞の表面に存在し、一部の未熟B細胞にはあまり存在しません。CD22は糖結合性膜貫通タンパク質であり、N末端に位置する免疫グロブリン（Ig）ドメインでシアル酸を特異的に結合します。Igドメインが存在することから、CD22は免疫グロブリンスーパーファミリーの一員である。CD22は、B細胞受容体（BCR）シグナル伝達の抑制性受容体として機能しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD22_BRIGHT</LocID>
-				<Text>CD22 Antigen Bright Expression</Text>
+				<Text>CD22抗原 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD22_BRIGHT_DESC</LocID>
-				<Text>CD22, or cluster of differentiation-22, is a molecule belonging to the SIGLEC family of lectins. It is found on the surface of mature B cells and to a lesser extent on some immature B cells. CD22 is a sugar binding transmembrane protein, which specifically binds sialic acid with an immunoglobulin (Ig) domain located at its N-terminus. The presence of Ig domains makes CD22 a member of the immunoglobulin superfamily. CD22 functions as an inhibitory receptor for B cell receptor (BCR) signaling.</Text>
+				<Text>CD22（Cluster of Differentiation-22）は、SIGLECファミリーのレクチンに属する分子です。成熟B細胞の表面に存在し、一部の未熟B細胞にはあまり存在しません。CD22は糖結合性膜貫通タンパク質であり、N末端に位置する免疫グロブリン（Ig）ドメインでシアル酸を特異的に結合します。Igドメインが存在することから、CD22は免疫グロブリンスーパーファミリーの一員である。CD22は、B細胞受容体（BCR）シグナル伝達の抑制性受容体として機能しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD23_BRIGHT</LocID>
-				<Text>Fc epsilon RII (CD23) Bright Expression</Text>
+				<Text>CD23抗原 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD23_BRIGHT_DESC</LocID>
-				<Text>CD23, also known as Fc epsilon RII, or FcεRII, is the "low-affinity" receptor for IgE, an antibody isotype involved in allergy and resistance to parasites, and is important in regulation of IgE levels. Unlike many of the antibody receptors, CD23 is a C-type lectin. CD23 antigen is a cell surface protein considered important in the differentiation of chronic lymphocytic leukemia.</Text>
+				<Text>CD23は、またはFcεRIIとも呼ばれ、アレルギーや寄生虫に対する抵抗性に関与する抗体アイソタイプであるIgEの「低親和性」受容体で、IgEレベルの調節に重要です。多くの抗体受容体とは異なり、CD23はC型レクチンです。CD23抗原は、慢性リンパ性白血病の分化に重要であると考えられている細胞表面タンパク質です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD34_BRIGHT</LocID>
-				<Text>CD34 Antigen Bright Expression</Text>
+				<Text>CD34抗原 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD34_BRIGHT_DESC</LocID>
-				<Text>The CD34 protein is a member of a family of single-pass transmembrane sialomucin proteins that show expression on early hematopoietic and vascular-associated tissue. CD34 is also an important adhesion molecule and is required for T cells to enter lymph nodes. It is expressed on lymph node endothelia, whereas the L-selectin to which it binds is on the T cell.</Text>
+				<Text>CD34タンパク質は、初期の造血組織や血管関連組織に発現を示す一回膜貫通型のシアロムシンタンパク質ファミリーの一員です。CD34は重要な接着分子でもあり、T細胞がリンパ節に入る際に必要とされます。リンパ節内皮に発現し、一方、結合するL-セレクチンはT細胞上にあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD79a_BRIGHT</LocID>
-				<Text>CD79a Antigen Bright Expression</Text>
+				<Text>CD79A抗原 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD79a_BRIGHT_DESC</LocID>
-				<Text>Cluster of differentiation CD79A also known as B-cell antigen receptor complex-associated protein alpha chain and MB-1 membrane glycoprotein, is a protein that in humans is encoded by the CD79A gene. CD79a plays multiple and diverse roles in B cell development and function. The CD79a/b heterodimer associates non-covalently with the immunoglobulin heavy chain through its transmembrane region, thus forming the BCR along with the immunoglobulin light chain and the pre-BCR when associated with the surrogate light chain in developing B cells.</Text>
+				<Text>CD79Aは、B細胞抗原受容体複合体関連タンパク質のα鎖及びMB-1膜糖タンパク質としても知られており、ヒトではCD79A遺伝子によってコードされているタンパク質です。CD79Aは、B細胞の発生と機能において多様な役割を担っています。CD79a/bヘテロダイマーは、膜貫通領域を介して免疫グロブリン重鎖と非共有結合し、その結果、免疫グロブリン軽鎖とともにBCRを形成し、発達中のB細胞において代用軽鎖と結合するとプレBCRとなります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD79b_NEG</LocID>
-				<Text>CD79b Antigen Negative Expression</Text>
+				<Text>CD79B抗原 陰性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD79b_NEG_DESC</LocID>
-				<Text>CD79b molecule, immunoglobulin-associated beta, also known as CD79B (Cluster of Differentiation 79B), is a human gene. The CD79a/b heterodimer associates non-covalently with the immunoglobulin heavy chain through its transmembrane region, thus forming the BCR along with the immunoglobulin light chain and the pre-BCR when associated with the surrogate light chain in developing B cells.</Text>
+				<Text>免疫グロブリン関連ベータであるCD79b分子は、CD79B（Cluster of Differentiation 79B）とも呼ばれるヒトの遺伝子です。CD79a/bヘテロダイマーは、膜貫通領域を介して免疫グロブリン重鎖と非共有結合するため、免疫グロブリン軽鎖とともにBCRを形成し、発達中のB細胞では代用軽鎖と結合するとプレBCRを形成します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD11c_BRIGHT</LocID>
-				<Text>Integrin alpha X (CD11c) Bright Expression</Text>
+				<Text>インテグリンαX鎖 (CD11c) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD11c_BRIGHT_DESC</LocID>
-				<Text>CD11c, also known as Integrin, alpha X (complement component 3 receptor 4 subunit) (ITGAX), is a gene that encodes for CD11c. CD11c is a type I transmembrane protein that is expressed on monocytes, granulocytes, a subset of B cells, dendritic cells, and macrophages and may be demonstrated on B-cell chronic lymphocytic leukemia, marginal zone lymphomas, and hairy cell leukemia.</Text>
+				<Text>CD11cは、インテグリンαX鎖 (ITGAX)とも呼ばれ、CD11cをコードする遺伝子です。CD11cは、単球、顆粒球、B細胞のサブセット、樹状細胞、マクロファージに発現するI型膜貫通タンパク質で、B細胞性慢性リンパ性白血病、辺縁帯リンパ腫、毛状細胞白血病で発現されることがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD25_BRIGHT</LocID>
-				<Text>IL2RA (CD25) Bright Expression</Text>
+				<Text>インターロイキン2受容体α鎖 (CD25) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD25_BRIGHT_DESC</LocID>
-				<Text>Interleukin-2 receptor alpha chain (also called CD25) is a protein that in humans is encoded by the IL2RA gene. The interleukin 2 (IL2) receptor alpha (IL2RA) and beta (IL2RB) chains, together with the common gamma chain (IL2RG), constitute the high-affinity IL2 receptor. IL2RA is expressed in most B-cell neoplasms, some acute nonlymphocytic leukemias, neuroblastomas, mastocytosis and tumour infiltrating lymphocytes. It functions as the receptor for HTLV-1 and is consequently expressed on neoplastic cells in adult T cell lymphoma/leukemia.</Text>
+				<Text>インターロイキン2受容体α鎖（CD25とも呼ばれる）は、ヒトではIL2RA遺伝子にコードされるタンパク質です。インターロイキン2（IL2）受容体α鎖（IL2RA）およびβ鎖（IL2RB）は、共通のγ鎖（IL2RG）とともに、高親和性IL2受容体を構成しています。IL2RAは、ほとんどのB細胞性新生物、いくつかの急性非リンパ性白血病、神経芽腫、肥満細胞症、腫瘍浸潤リンパ球に発現しています。また、HTLV-1の受容体として機能し、その結果、成人T細胞リンパ腫/白血病の腫瘍細胞上に発現しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD25_NEG</LocID>
-				<Text>IL2RA (CD25) Negative Expression</Text>
+				<Text>インターロイキン2受容体α鎖 (CD25) 陰性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD25_NEG_DESC</LocID>
-				<Text>Interleukin-2 receptor alpha chain (also called CD25) is a protein that in humans is encoded by the IL2RA gene. The interleukin 2 (IL2) receptor alpha (IL2RA) and beta (IL2RB) chains, together with the common gamma chain (IL2RG), constitute the high-affinity IL2 receptor. IL2RA is expressed in most B-cell neoplasms, some acute nonlymphocytic leukemias, neuroblastomas, mastocytosis and tumour infiltrating lymphocytes. It functions as the receptor for HTLV-1 and is consequently expressed on neoplastic cells in adult T cell lymphoma/leukemia.</Text>
+				<Text>インターロイキン2受容体α鎖（CD25とも呼ばれる）は、ヒトではIL2RA遺伝子にコードされるタンパク質です。インターロイキン2（IL2）受容体α鎖（IL2RA）およびβ鎖（IL2RB）は、共通のγ鎖（IL2RG）とともに、高親和性IL2受容体を構成しています。IL2RAは、ほとんどのB細胞性新生物、いくつかの急性非リンパ性白血病、神経芽腫、肥満細胞症、腫瘍浸潤リンパ球に発現しています。また、HTLV-1の受容体として機能し、その結果、成人T細胞リンパ腫/白血病の腫瘍細胞上に発現しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD103_BRIGHT</LocID>
-				<Text>ITGAE (CD103) Bright Expression</Text>
+				<Text>インテグリンαE (CD103) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD103_BRIGHT_DESC</LocID>
-				<Text>Integrin, alpha E also known as CD103 is an integrin protein that in human is encoded by the ITGAE gene. CD103 is expressed widely on intraepithelial lymphocyte (IEL) T cells (both αβ T cells and γδ T cells) and on some peripheral regulatory T cells (Tregs). It is useful in identifying hairy cell leukemia which is positive for this marker in contrast to most other hematologic malignancies which are negative for CD103 except enteropathy-associated T cell lymphoma.</Text>
+				<Text>インテグリンαEは、CD103とも呼ばれ、ヒトではITGAE遺伝子にコードされるインテグリンタンパク質です。CD103は、上皮内リンパ球（IEL）T細胞（αβT細胞およびγδT細胞の両方）および一部の末梢制御性T細胞（Tregs）に広く発現しています。腸管関連T細胞リンパ腫を除く他のほとんどの血液腫瘍がCD103に陰性であるのとは対照的に、このマーカーに陽性の毛状細胞白血病の同定に有用です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD123_DIM</LocID>
-				<Text>Interleukin-3 Receptor (CD123) Dim Expression</Text>
+				<Text>インターロイキン3受容体 (CD123) 曖昧な発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD123_DIM_DESC</LocID>
-				<Text>The interleukin-3 receptor (CD123) is a molecule found on cells which helps transmit the signal of interleukin-3, a soluble cytokine important in the immune system. The receptor, found on pluripotent progenitor cells, induces tyrosine phosphorylation within the cell and promotes proliferation and differentiation within the hematopoietic cell lines. CD123 is expressed across acute myeloid leukemia (AML) subtypes, including leukemic stem cells.</Text>
+				<Text>インターロイキン3受容体（CD123）は、細胞上に存在する分子で、免疫系で重要な可溶性サイトカインであるインターロイキン3のシグナルを伝達するのに役立ちます。この受容体は、多能性前駆細胞上に存在し、細胞内でチロシンリン酸化を誘導し、造血細胞系内の増殖と分化を促進します。CD123は、白血病幹細胞を含む急性骨髄性白血病（AML）のサブタイプに共通して発現しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD123_BRIGHT</LocID>
-				<Text>Interleukin-3 Receptor (CD123) Bright Expression</Text>
+				<Text>インターロイキン3受容体 (CD123) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD123_BRIGHT_DESC</LocID>
-				<Text>The interleukin-3 receptor (CD123) is a molecule found on cells which helps transmit the signal of interleukin-3, a soluble cytokine important in the immune system. The receptor, found on pluripotent progenitor cells, induces tyrosine phosphorylation within the cell and promotes proliferation and differentiation within the hematopoietic cell lines. CD123 is expressed across acute myeloid leukemia (AML) subtypes, including leukemic stem cells.</Text>
+				<Text>インターロイキン3受容体（CD123）は、細胞上に存在する分子で、免疫系で重要な可溶性サイトカインであるインターロイキン3のシグナルを伝達するのに役立ちます。この受容体は、多能性前駆細胞上に存在し、細胞内でチロシンリン酸化を誘導し、造血細胞系内の増殖と分化を促進します。CD123は、白血病幹細胞を含む急性骨髄性白血病（AML）のサブタイプに共通して発現しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD123_NEG</LocID>
-				<Text>Interleukin-3 Receptor (CD123) Negative Expression</Text>
+				<Text>インターロイキン3受容体 (CD123) 陰性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD123_NEG_DESC</LocID>
-				<Text>The interleukin-3 receptor (CD123) is a molecule found on cells which helps transmit the signal of interleukin-3, a soluble cytokine important in the immune system. The receptor, found on pluripotent progenitor cells, induces tyrosine phosphorylation within the cell and promotes proliferation and differentiation within the hematopoietic cell lines. CD123 is expressed across acute myeloid leukemia (AML) subtypes, including leukemic stem cells.</Text>
+				<Text>インターロイキン3受容体（CD123）は、細胞上に存在する分子で、免疫系で重要な可溶性サイトカインであるインターロイキン3のシグナルを伝達するのに役立ちます。この受容体は、多能性前駆細胞上に存在し、細胞内でチロシンリン酸化を誘導し、造血細胞系内の増殖と分化を促進します。CD123は、白血病幹細胞を含む急性骨髄性白血病（AML）のサブタイプに共通して発現しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD1a_BRIGHT</LocID>
-				<Text>CD1a Antigen Bright Expression</Text>
+				<Text>CD1a 抗原 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD1a_BRIGHT_DESC</LocID>
-				<Text>CD1a (Cluster of Differentiation 1a) is a human protein encoded by the CD1A gene. This gene encodes a member of the CD1 family of transmembrane glycoproteins, which are structurally related to the major histocompatibility complex (MHC) proteins and form heterodimers with beta-2-microglobulin. The CD1 proteins mediate the presentation of primarily lipid and glycolipid antigens of self or microbial origin to T cells.</Text>
+				<Text>CD1a (Cluster of Differentiation 1a) は、CD1A 遺伝子によってコードされるヒトタンパク質です。この遺伝子は、膜貫通型糖タンパク質であるCD1ファミリーのメンバーをコードしており、主要組織適合性複合体（MHC）タンパク質と構造的に関連し、β2ミクログロブリンとヘテロ二量体を形成しています。CD1タンパク質は、主に自己または微生物由来の脂質および糖脂質抗原のT細胞への提示を媒介します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD1a_NEG</LocID>
-				<Text>CD1a Antigen Negative Expression</Text>
+				<Text>CD1a抗原 陰性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD1a_NEG_DESC</LocID>
-				<Text>CD1a (Cluster of Differentiation 1a) is a human protein encoded by the CD1A gene. This gene encodes a member of the CD1 family of transmembrane glycoproteins, which are structurally related to the major histocompatibility complex (MHC) proteins and form heterodimers with beta-2-microglobulin. The CD1 proteins mediate the presentation of primarily lipid and glycolipid antigens of self or microbial origin to T cells.</Text>
+				<Text>CD1a (Cluster of Differentiation 1a) は、CD1A 遺伝子によってコードされるヒトタンパク質です。この遺伝子は、膜貫通型糖タンパク質であるCD1ファミリーのメンバーをコードしており、主要組織適合性複合体（MHC）タンパク質と構造的に関連し、β2ミクログロブリンとヘテロ二量体を形成しています。CD1タンパク質は、主に自己または微生物由来の脂質および糖脂質抗原のT細胞への提示を媒介します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD5_BRIGHT</LocID>
-				<Text>CD5 Antigen Bright Expression</Text>
+				<Text>CD5抗原 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD5_BRIGHT_DESC</LocID>
-				<Text>CD5 is a cluster of differentiation expressed on the surface of T cells (various species) and in a subset of murine B cells known as B-1a. The expression of this receptor in human B cells has been a controversial topic and up to date there is no consensus regarding the role of this receptor as a marker of human B cells. CD5 is a good immunohistochemical marker for T-cells, although not as sensitive as CD3. About 76% of T-cell neoplasms are reported to express CD5, and it is also found in chronic lymphocytic leukemia and mantle cell lymphoma (both being B cell malignancies), that do not express CD3. It is commonly lost in cutaneous T-cell lymphoma, and its absence can be used as an indicator of malignancy in this condition.</Text>
+				<Text>CD5は、T細胞（様々な種）の表面や、B-1aと呼ばれるマウスB細胞のサブセットに発現する細胞表面糖タンパク質です。ヒトB細胞におけるこの受容体の発現については議論があり、現在に至るまで、ヒトB細胞のマーカーとしての役割については合意が得られていません。CD5は、CD3ほどではないが、T細胞の免疫組織化学的マーカーとして優れています。T細胞新生物の約76％がCD5を発現していると報告されており、CD3を発現しない慢性リンパ性白血病やマントル細胞リンパ腫（いずれもB細胞悪性腫瘍）にも見出されています。皮膚T細胞リンパ腫では一般的に消失しており、この疾患では消失が悪性度の指標となり得ます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD7_BRIGHT</LocID>
-				<Text>CD7 Antigen Bright Expression</Text>
+				<Text>CD7抗原 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD7_BRIGHT_DESC</LocID>
-				<Text>CD7 (Cluster of Differentiation 7) is a protein that in humans is encoded by the CD7 gene. This gene encodes a transmembrane protein which is a member of the immunoglobulin superfamily. This protein is found on thymocytes and mature T cells. It plays an essential role in T-cell interactions and also in T-cell/B-cell interaction during early lymphoid development. This gene encodes a transmembrane protein which is a member of the immunoglobulin superfamily. This protein is found on thymocytes and mature T cells. It plays an essential role in T-cell interactions and also in T-cell/B-cell interaction during early lymphoid development.</Text>
+				<Text>CD7 (Cluster of Differentiation 7) は、ヒトでは CD7 遺伝子によってコードされるタンパク質です。この遺伝子は、免疫グロブリンスーパーファミリーのメンバーである膜貫通型タンパク質をコードしています。このタンパク質は胸腺細胞および成熟T細胞に存在します。リンパ球の初期発生におけるT細胞間の相互作用やT細胞/B細胞間の相互作用に重要な役割を担っています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD13_BRIGHT</LocID>
-				<Text>Aminopeptidase N (CD13) Bright Expression</Text>
+				<Text>アミノペプチダーゼN (CD13) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD13_BRIGHT_DESC</LocID>
-				<Text>Membrane alanyl aminopeptidase (EC 3.4.11.2) also known as alanyl aminopeptidase (AAP) or aminopeptidase N (AP-N) is an enzyme that in humans is encoded by the ANPEP gene. Aminopeptidase N is located in the small-intestinal and renal microvillar membrane, and also in other plasma membranes. In the small intestine aminopeptidase N plays a role in the final digestion of peptides generated from hydrolysis of proteins by gastric and pancreatic proteases. Its function in proximal tubular epithelial cells and other cell types is less clear. Defects in this gene appear to be a cause of various types of leukemia or lymphoma.</Text>
+				<Text>膜型アラニルアミノペプチダーゼ (EC 3.4.11.2) は、アラニルアミノペプチダーゼ (AAP) またはアミノペプチダーゼ N (AP-N) とも呼ばれ、ヒトでは ANPEP 遺伝子によりコードされている酵素です。アミノペプチダーゼNは、小腸や腎臓の微絨毛膜に存在し、他の細胞膜にも存在します。小腸では、アミノペプチダーゼNは、胃や膵臓のプロテアーゼによるタンパク質の加水分解で生じたペプチドの最終消化に関与しています。近位尿細管上皮細胞や他の細胞種におけるその機能は、あまり明らかではありません。この遺伝子の欠陥は、様々なタイプの白血病やリンパ腫の原因となるようです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD15_BRIGHT</LocID>
-				<Text>Sialyl-Lewis X (CD15) Bright Expression</Text>
+				<Text>Sialyl-Lewis X (CD15) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD15_BRIGHT_DESC</LocID>
-				<Text>Sialyl LewisX (sLeX) also known as cluster of differentiation 15s (CD15s) or stage-specific embryonic antigen 1 (SSEA-1), is a tetrasaccharide carbohydrate which is usually attached to O-glycans on the surface of cells. It is known to play a vital role in cell-to-cell recognition processes. It is also the means by which an egg attracts sperm; first, to stick to it, then bond with it and eventually form a zygote. Sialyl-Lewisx mediates phagocytosis and chemotaxis, found on neutrophils; expressed in patients with Hodgkin disease, some B-cell chronic lymphocytic leukemias, acute lymphoblastic leukemias, and most acute nonlymphocytic leukemias. CD15 is present on almost all Reed–Sternberg cells, including their rare mononuclear variants, and, as such, can be used in immunohistochemistry to identify the presence of such cells in biopsies.</Text>
+				<Text>シアリルLewisX（sLeX）は、Cluster of Differentiation 15s (CD15s) または stage-specific embryonic antigen 1 (SSEA-1) とも呼ばれ、通常、細胞表面のO-グリカンに結合する4糖の炭水化物の一種です。この糖鎖は、細胞間の認識プロセスに重要な役割を担っていることが知られています。また、卵子が精子を引き寄せる手段でもあり、まず卵子に付着し、次に精子と結合して、最終的に接合体を形成します。シアリルLewisxは食作用と走化性を仲介し、好中球に見られます。ホジキン病、いくつかのB細胞性慢性リンパ性白血病、急性リンパ芽球性白血病、およびほとんどの急性非リンパ球性白血病の患者に発現しています。CD15は、希少な単核球を含むほぼ全てのリード-スタンバーグ細胞上に存在し、生検においてその存在を確認するために免疫組織化学的に用いることができます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD33_BRIGHT</LocID>
-				<Text>Siglec-3 (CD33) Bright Expression</Text>
+				<Text>シグレック-3 (CD33) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD33_BRIGHT_DESC</LocID>
-				<Text>CD33 or Siglec-3 (sialic acid binding Ig-like lectin 3, SIGLEC3, SIGLEC-3, gp67, p67) is a transmembrane receptor expressed on cells of myeloid lineage. It is usually considered myeloid-specific, but it can also be found on some lymphoid cells. CD33 can be stimulated by any molecule with sialic acid residues such as glycoproteins or glycolipids. Upon binding, the immunoreceptor tyrosine-based inhibition motif (ITIM) of CD33, present on the cytosolic portion of the protein, is phosphorylated and acts as a docking site for Src homology 2 (SH2) domain-containing proteins like SHP phosphatases. This results in a cascade that inhibits phagocytosis in the cell.</Text>
+				<Text>CD33またはシグレック-3（sialic acid binding Ig-like lectin 3, SIGLEC3, SIGLEC-3, gp67, p67）は、骨髄系の細胞に発現する膜貫通型受容体です。通常、骨髄系細胞に特異的であると考えられていますが、一部のリンパ系細胞にも存在することがあります。CD33は、糖タンパク質や糖脂質など、シアル酸残基を持つあらゆる分子によって刺激されることが可能です。結合すると、CD33の細胞質部分に存在する免疫受容体チロシン抑制モチーフ（ITIM）がリン酸化され、SHPホスファターゼなどのSrc homology 2（SH2）ドメインを含むタンパク質とのドッキング部位として機能します。この結果、細胞内の貪食を阻害するカスケードが形成されます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD117_BRIGHT</LocID>
-				<Text>Proto-O c-KIT (CD117) Bright Expression</Text>
+				<Text>プロトオンコジーンc-KIT (CD117) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD117_BRIGHT_DESC</LocID>
-				<Text>Proto-oncogene c-KIT, also known as tyrosine-protein kinase KIT, CD117 or mast/stem cell growth factor receptor, is a receptor tyrosine kinase protein that in humans is encoded by the KIT gene. KIT is an important cell surface marker used to identify certain types of hematopoietic (blood) progenitors in the bone marrow. To be specific, hematopoietic stem cells (HSC), multipotent progenitors (MPP), and common myeloid progenitors (CMP) express high levels of KIT. Common lymphoid progenitors (CLP) express low surface levels of KIT. Antibodies to KIT are widely used in immunohistochemistry to help distinguish particular types of tumour in histological tissue sections. It is used primarily in the diagnosis of GISTs, which are positive for KIT, but negative for markers such as desmin and S-100, which are positive in smooth muscle and neural tumours, which have a similar appearance.</Text>
+				<Text>プロトオンコジーンc-KITは、チロシンプロテインキナーゼKIT、CD117、肥満/幹細胞成長因子受容体としても知られており、ヒトではKIT遺伝子によってコードされている受容体チロシンキナーゼタンパク質です。KITは、骨髄中のある種の造血前駆細胞の同定に用いられる重要な細胞表面マーカーです。具体的には、造血幹細胞（HSC）、多能性前駆細胞（MPP）、共通骨髄系前駆細胞（CMP）はKITを高レベルで発現しています。一般的なリンパ球前駆細胞（CLP）は、表面レベルの低いKITを発現しています。KITに対する抗体は、組織切片中の特定の種類の腫瘍を識別するための免疫組織化学に広く使用されています。主にGISTの診断に用いられ、KITは陽性ですが、平滑筋や神経腫瘍で陽性となるデスミンやS-100などのマーカーは陰性で、似たような外観を持ちます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD117_NEG</LocID>
-				<Text>Proto-O c-KIT (CD117) Negative Expression</Text>
+				<Text>プロトオンコジーンc-KIT (CD117) 陰性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD117_NEG_DESC</LocID>
-				<Text>Proto-oncogene c-KIT, also known as tyrosine-protein kinase KIT, CD117 or mast/stem cell growth factor receptor, is a receptor tyrosine kinase protein that in humans is encoded by the KIT gene. KIT is an important cell surface marker used to identify certain types of hematopoietic (blood) progenitors in the bone marrow. To be specific, hematopoietic stem cells (HSC), multipotent progenitors (MPP), and common myeloid progenitors (CMP) express high levels of KIT. Common lymphoid progenitors (CLP) express low surface levels of KIT. Antibodies to KIT are widely used in immunohistochemistry to help distinguish particular types of tumour in histological tissue sections. It is used primarily in the diagnosis of GISTs, which are positive for KIT, but negative for markers such as desmin and S-100, which are positive in smooth muscle and neural tumours, which have a similar appearance.</Text>
+				<Text>プロトオンコジーンc-KITは、チロシンプロテインキナーゼKIT、CD117、肥満/幹細胞成長因子受容体としても知られており、ヒトではKIT遺伝子によってコードされている受容体チロシンキナーゼタンパク質です。KITは、骨髄中のある種の造血前駆細胞の同定に用いられる重要な細胞表面マーカーです。具体的には、造血幹細胞（HSC）、多能性前駆細胞（MPP）、共通骨髄系前駆細胞（CMP）はKITを高レベルで発現しています。一般的なリンパ球前駆細胞（CLP）は、表面レベルの低いKITを発現しています。KITに対する抗体は、組織切片中の特定の種類の腫瘍を識別するための免疫組織化学に広く使用されています。主にGISTの診断に用いられ、KITは陽性ですが、平滑筋や神経腫瘍で陽性となるデスミンやS-100などのマーカーは陰性で、似たような外観を持ちます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD38_BRIGHT</LocID>
-				<Text>Cyclic ADP RH (CD38) Bright Expression</Text>
+				<Text>サイクリックADPリボースヒドロラーゼ (CD38) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD38_BRIGHT_DESC</LocID>
-				<Text>CD38, also known as cyclic ADP ribose hydrolase is a glycoprotein found on the surface of many immune cells, including CD4⁺, CD8⁺, B lymphocytes and natural killer cells. CD38 also functions in cell adhesion, signal transduction and calcium signaling. The loss of CD38 function is associated with impaired immune responses, metabolic disturbances, and behavioral modifications including social amnesia. The CD38 protein is a marker of cell activation. It has been connected to HIV infection, leukemias, myelomas, solid tumours, type II diabetes mellitus and bone metabolism, as well as some genetically determined conditions.</Text>
+				<Text>CD38は、サイクリックADPリボースヒドロラーゼとしても知られ、CD4⁺、CD8⁺、Bリンパ球、ナチュラルキラー細胞など多くの免疫細胞の表面に存在する糖タンパク質です。CD38はまた、細胞接着、シグナル伝達、カルシウムシグナル伝達にも機能しています。CD38の機能喪失は、免疫応答の障害、代謝障害、社会的健忘を含む行動変容と関連しています。CD38タンパク質は、細胞活性化のマーカーです。HIV感染、白血病、骨髄腫、固形腫瘍、II型糖尿病、骨代謝、また、いくつかの遺伝的疾患と関連しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD38_DIM</LocID>
-				<Text>Cyclic ADP RH (CD38) Dim Expression</Text>
+				<Text>サイクリックADPリボースヒドロラーゼ (CD38) 曖昧な発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD38_DIM_DESC</LocID>
-				<Text>CD38, also known as cyclic ADP ribose hydrolase is a glycoprotein found on the surface of many immune cells, including CD4⁺, CD8⁺, B lymphocytes and natural killer cells. CD38 also functions in cell adhesion, signal transduction and calcium signaling. The loss of CD38 function is associated with impaired immune responses, metabolic disturbances, and behavioral modifications including social amnesia. The CD38 protein is a marker of cell activation. It has been connected to HIV infection, leukemias, myelomas, solid tumours, type II diabetes mellitus and bone metabolism, as well as some genetically determined conditions.</Text>
+				<Text>CD38は、サイクリックADPリボースヒドロラーゼとしても知られ、CD4⁺、CD8⁺、Bリンパ球、ナチュラルキラー細胞など多くの免疫細胞の表面に存在する糖タンパク質です。CD38はまた、細胞接着、シグナル伝達、カルシウムシグナル伝達にも機能しています。CD38の機能喪失は、免疫応答の障害、代謝障害、社会的健忘を含む行動変容と関連しています。CD38タンパク質は、細胞活性化のマーカーです。HIV感染、白血病、骨髄腫、固形腫瘍、II型糖尿病、骨代謝、また、いくつかの遺伝的疾患と関連しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD43_BRIGHT</LocID>
-				<Text>Leukosialin (CD43) Bright Expression</Text>
+				<Text>ロイコシアリン (CD43) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD43_BRIGHT_DESC</LocID>
-				<Text>Leukosialin also known as sialophorin or CD43 (cluster of differentiation 43) is a transmembrane cell surface protein that in humans is encoded by the SPN (sialophorin) gene. Defects in the CD43 molecule are associated with the development of Wiskott-Aldrich syndrome. Using immunohistochemistry, CD43 can be demonstrated in the paracortical T-cells of healthy lymph nodes and tonsils; it is also positive in a range of lymphoid and myeloid tumours. Although it is present in over 90% of T-cell lymphomas, it is generally less effective at demonstrating this condition than is CD3 antigen. However, it may be useful as part of a panel to demonstrate B-cell lymphoblastic lymphoma, since the malignant cells in this condition are often CD43 positive, and may be difficult to stain with other antibodies.</Text>
+				<Text>ロイコシアリンは、シアロフォリンまたはCD43（Cluster of Differentiation 43）としても知られている膜貫通型の細胞表面タンパク質で、ヒトではSPN（シアロフォリン）遺伝子によってコードされています。CD43分子の欠陥はウィスコット・アルドリッチ症候群の発症に関連しています。免疫組織化学的手法により、CD43は健康なリンパ節や扁桃腺の傍皮質T細胞に認められ、様々なリンパ系および骨髄系腫瘍にも陽性です。T細胞リンパ腫の90％以上に存在するが、一般にCD3抗原に比べ、この病態を示すのに有効ではありません。しかし、B細胞性リンパ腫の悪性細胞はCD43陽性であることが多く、他の抗体で染色することが困難な場合があるため、B細胞性リンパ腫を示すパネルの一部として有用である場合があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD8_BRIGHT</LocID>
-				<Text>CD8 Antigen Bright Expression</Text>
+				<Text>CD8抗原 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD8_BRIGHT_DESC</LocID>
-				<Text>CD8 (cluster of differentiation 8) is a transmembrane glycoprotein that serves as a co-receptor for the T cell receptor (TCR). Like the TCR, CD8 binds to a major histocompatibility complex (MHC) molecule, but is specific for the class I MHC protein. The CD8 co-receptor is predominantly expressed on the surface of cytotoxic T cells, but can also be found on natural killer cells, cortical thymocytes, and dendritic cells. The CD8 molecule is a marker for cytotoxic T cell population. It is expressed in T cell lymphoblastic lymphoma and hypo-pigmented mycosis fungoides.</Text>
+				<Text>CD8（Cluster of Differentiation 8）は、T細胞受容体（TCR）の共受容体として機能する膜貫通型糖タンパク質です。TCRと同様に、CD8は主要組織適合性複合体（MHC）分子に結合するが、クラスI MHCタンパク質に特異的です。CD8共受容体は、細胞傷害性T細胞の表面に主に発現していますが、ナチュラルキラー細胞、皮質胸腺細胞および樹状細胞にも見出すことができます。CD8分子は、細胞傷害性T細胞集団のマーカーです。T細胞リンパ芽球性リンパ腫や低色素性菌状息肉症で発現しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD3_BRIGHT</LocID>
-				<Text>CD3 Antigen Bright Expression</Text>
+				<Text>CD3抗原 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD3_BRIGHT_DESC</LocID>
-				<Text>In immunology, the CD3 (cluster of differentiation 3) T cell co-receptor helps to activate both the cytotoxic T cell (CD8+ naive T cells) and also T helper cells (CD4+ naive T cells). CD3 is initially expressed in the cytoplasm of pro-thymocytes, the stem cells from which T-cells arise in the thymus. The pro-thymocytes differentiate into common thymocytes, and then into medullary thymocytes, and it is at this latter stage that CD3 antigen begins to migrate to the cell membrane. The antigen is found bound to the membranes of all mature T-cells, and in virtually no other cell type, although it does appear to be present in small amounts in Purkinje cells. This high specificity, combined with the presence of CD3 at all stages of T-cell development, makes it a useful immunohistochemical marker for T-cells in tissue sections. The antigen remains present in almost all T-cell lymphomas and leukaemias, and can therefore be used to distinguish them from superficially similar B-cell and myeloid neoplasms.</Text>
+				<Text>免疫学では、CD3 (cluster of differentiation 3) T細胞共受容体は、細胞傷害性T細胞（CD8+ナイーブT細胞）と、Tヘルパー細胞（CD4+ナイーブT細胞）の両方の活性化に役立つと考えられています。CD3は、胸腺でT細胞が発生する幹細胞であるプロ胸腺細胞の細胞質で最初に発現しています。プロ胸腺細胞は、普通胸腺細胞、髄質胸腺細胞へと分化し、この後者の段階でCD3抗原が細胞膜に移動し始めます。この抗原は、すべての成熟T細胞の膜に結合しており、他のタイプの細胞にはほとんど存在しませんが、プルキンエ細胞には少量存在するようです。この高い特異性と、T細胞のすべての発生段階におけるCD3の存在により、組織切片におけるT細胞の免疫組織化学的マーカーとして有用です。この抗原は、ほとんど全てのT細胞リンパ腫および白血病に存在し続けるので、表面的に類似したB細胞および骨髄性新生物との区別に用いることができます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD3_NEG</LocID>
-				<Text>CD3 Antigen Negative Expression</Text>
+				<Text>CD3抗原 陰性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD3_NEG_DESC</LocID>
-				<Text>In immunology, the CD3 (cluster of differentiation 3) T cell co-receptor helps to activate both the cytotoxic T cell (CD8+ naive T cells) and also T helper cells (CD4+ naive T cells). CD3 is initially expressed in the cytoplasm of pro-thymocytes, the stem cells from which T-cells arise in the thymus. The pro-thymocytes differentiate into common thymocytes, and then into medullary thymocytes, and it is at this latter stage that CD3 antigen begins to migrate to the cell membrane. The antigen is found bound to the membranes of all mature T-cells, and in virtually no other cell type, although it does appear to be present in small amounts in Purkinje cells. This high specificity, combined with the presence of CD3 at all stages of T-cell development, makes it a useful immunohistochemical marker for T-cells in tissue sections. The antigen remains present in almost all T-cell lymphomas and leukaemias, and can therefore be used to distinguish them from superficially similar B-cell and myeloid neoplasms.</Text>
+				<Text>免疫学では、CD3 (cluster of differentiation 3) T細胞共受容体は、細胞傷害性T細胞（CD8+ナイーブT細胞）と、Tヘルパー細胞（CD4+ナイーブT細胞）の両方の活性化に役立つと考えられています。CD3は、胸腺でT細胞が発生する幹細胞であるプロ胸腺細胞の細胞質で最初に発現しています。プロ胸腺細胞は、普通胸腺細胞、髄質胸腺細胞へと分化し、この後者の段階でCD3抗原が細胞膜に移動し始めます。この抗原は、すべての成熟T細胞の膜に結合しており、他のタイプの細胞にはほとんど存在しませんが、プルキンエ細胞には少量存在するようです。この高い特異性と、T細胞のすべての発生段階におけるCD3の存在により、組織切片におけるT細胞の免疫組織化学的マーカーとして有用です。この抗原は、ほとんど全てのT細胞リンパ腫および白血病に存在し続けるので、表面的に類似したB細胞および骨髄性新生物との区別に用いることができます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD16_BRIGHT</LocID>
-				<Text>FcγRIII (CD16) Bright Expression</Text>
+				<Text>FcγレセプターIII (CD16) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD16_BRIGHT_DESC</LocID>
-				<Text>CD16, also known as FcγRIII, is a cluster of differentiation molecule found on the surface of natural killer cells, neutrophils, monocytes, and macrophages. CD16 has been identified as Fc receptors FcγRIIIa and FcγRIIIb, which participate in signal transduction. These receptors bind to the Fc portion of IgG antibodies, which then activates antibody-dependent cell-mediated cytotoxicity (ADCC) in human NK cells. CD16 is required for ADCC processes carried out by human monocytes. In humans, monocytes expressing CD16 have a variety of ADCC capabilities in the presence of specific antibodies, and can kill primary leukemic cells, cancer cell lines, and cells infected with hepatitis B virus. In addition, CD16 is able to mediate the direct killing of some virally infected and cancer cells without antibodies.</Text>
+				<Text>CD16は、FcγレセプターIIIとも呼ばれ、ナチュラルキラー細胞、好中球、単球、マクロファージの表面に存在する分化促進分子です。CD16は、シグナル伝達に関与するFc受容体FcγRIIIaおよびFcγRIIIbとして同定されています。これらの受容体はIgG抗体のFc部分と結合し、ヒトNK細胞において抗体依存性細胞傷害（ADCC）を活性化させます。CD16は、ヒト単球が行うADCCプロセスに必要です。ヒトでは、CD16を発現する単球は、特定の抗体の存在下で様々なADCC能力を持ち、初代白血病細胞、癌細胞株、B型肝炎ウイルスに感染した細胞などを殺傷することができます。さらに、CD16は抗体なしで、一部のウイルス感染細胞や癌細胞の直接殺傷を仲介することができます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD56_BRIGHT</LocID>
-				<Text>NC Adhesion Molecule (CD56) Bright Expression</Text>
+				<Text>神経細胞接着分子 (CD56) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD56_BRIGHT_DESC</LocID>
-				<Text>Neural cell adhesion molecule (NCAM), also called CD56, is a homophilic binding glycoprotein expressed on the surface of neurons, glia and skeletal muscle. Although CD56 is often considered a marker of neural lineage commitment due to its discovery site, CD56 expression is also found in, among others, the hematopoietic system. Here, the expression of CD56 is most stringently associated with, but certainly not limited to, natural killer cells. In anatomic pathology, pathologists make use of CD56 immunohistochemistry to recognize certain tumours. tumours that are CD56-positive are myeloma, myeloid leukemia, neuroendocrine tumours, Wilms' tumour, neuroblastoma, extranodal NK/T-cell lymphoma, nasal type, pancreatic acinar cell carcinoma, pheochromocytoma, paraganglioma, small cell lung carcinoma, and the Ewing's sarcoma family of tumours.</Text>
+				<Text>神経細胞接着分子（NCAM）は、CD56とも呼ばれ、神経細胞、グリア、骨格筋の表面に発現する親和性の高い結合糖タンパク質です。CD56は、その発見部位から神経系へのコミットメントのマーカーとされることが多いですが、CD56の発現は、とりわけ造血系でも見られます。CD56の発現は、ナチュラルキラー細胞に最も強く関連していますが、これに限定されるものではありません。解剖病理学では、病理学者は特定の腫瘍を認識するためにCD56免疫組織化学を利用します。CD56陽性の腫瘍は、骨髄腫、骨髄性白血病、神経内分泌腫瘍、ウィルムス腫瘍、神経芽腫、節外NK/T細胞リンパ腫、鼻タイプ、膵アシナー細胞癌、褐色細胞腫、傍神経節腫、小細胞肺癌、ユーイング肉腫などがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_HLADR_BRIGHT</LocID>
-				<Text>HLA-DR Bright Expression</Text>
+				<Text>HLA-DR 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_HLADR_BRIGHT_DESC</LocID>
-				<Text>HLA-DR is an MHC class II cell surface receptor encoded by the human leukocyte antigen complex on chromosome 6 region 6p21.31. The complex of HLA-DR and peptide, generally between 9 and 30 amino acids in length, constitutes a ligand for the T-cell receptor.</Text>
+				<Text>HLA-DRは、第6染色体領域6p21.31にあるヒト白血球抗原複合体にコードされるMHCクラスII細胞表面受容体です。HLA-DRと一般に9〜30アミノ酸長のペプチドとの複合体は、T細胞受容体のリガンドを構成しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_PANCYTOPENIA</LocID>
-				<Text>Pancytopenia</Text>
+				<Text>汎血球減少症</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_PANCYTOPENIA_DESC</LocID>
-				<Text>Pancytopenia is a condition that occurs when a person has low counts for all three types of blood cells: red blood cells, white blood cells, and platelets. Pancytopenia is usually due to a problem with the bone marrow that produces the blood cells. However, there can be several different underlying causes.</Text>
+				<Text>汎血球減少症とは、赤血球、白血球、血小板の3種類の血球の数がすべて少なくなった状態のことです。汎血球減少症は通常、血球を生成する骨髄に問題があることが多いですが、しかし、いくつかの異なる原因が潜んでいることもあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HAIRYCELL</LocID>
-				<Text>Hairy Looking Cell</Text>
+				<Text>有毛細胞</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HAIRYCELL_DESC</LocID>
-				<Text>Hairy cells are abnormal white blood cells with hair-like projections of cytoplasm. They are a staple sign of Hairy cell leukemia.</Text>
+				<Text>有毛細胞は、細胞質に毛のような突起がある異常な白血球です。有毛細胞白血病の典型的な兆候です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_003</LocID>
-				<Text>TRAP Enzyme Detected</Text>
+				<Text>TRAP酵素の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_003_DESC</LocID>
-				<Text>Tartrate-resistant acid phosphatase (TRAP or TRAPase), also called acid phosphatase 5, tartrate resistant (ACP5), is a glycosylated monomeric metalloprotein enzyme expressed in mammals. It has a molecular weight of approximately 35kDa, a basic isoelectric point (7.6–9.5), and optimal activity in acidic conditions.</Text>
+				<Text>酒石酸耐性酸性フォスファターゼ（TRAPまたはTRAPase）は、酸性フォスファターゼ5、酒石酸耐性（ACP5）とも呼ばれ、哺乳類に発現する糖鎖単量体金属タンパク質酵素です。分子量約35kDa、塩基性等電点（7.6-9.5）を有し、酸性条件下で最適な活性を示します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_08</LocID>
-				<Text>BRAF V600E Mutation Detected</Text>
+				<Text>B-Raf癌遺伝子の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_08_DESC</LocID>
-				<Text>The B-Raf proto-oncogene (BRAF) encodes a cytoplasmic serine/threonine kinase with a key role in regulating the mitogen-activated protein kinase signal transduction pathway. An activating missense mutation in codon 600 of exon 15 (V600E) of BRAF gene has been identified in multiple neoplasms including melanoma, colorectal carcinoma, papillary thyroid carcinoma, hairy cell leukemia, and Langerhans cell histiocytosis.</Text>
+				<Text>B-Raf癌遺伝子（BRAF）は、細胞質セリン・スレオニンキナーゼをコードし、マイトジェン活性化プロテインキナーゼのシグナル伝達経路を制御する重要な役割を担っています。BRAF遺伝子のエキソン15のコドン600に活性化ミスセンス変異（V600E）が確認されており、メラノーマ、大腸がん、甲状腺乳頭がん、有毛細胞白血病、ランゲルハンス細胞組織球症など多くの新生物が存在することがわかっています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_09</LocID>
-				<Text>IGHV Hypermutation Detected</Text>
+				<Text>IGHV超変異を発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_09_DESC</LocID>
-				<Text>Ig heavy chain V-III region VH26 is a protein that in humans is encoded by the IGHV@ gene. IGHV is the immunoglobulin heavy chain variable region genes; in B-cell neoplasms like chronic lymphocytic leukemia, mutations of IGHV are associated with better responses to some treatments and with prolonged survival. Approximately 80 to 90 percent of HCL patients have a hypermutation in immunoglobulin heavy chain variable gene. </Text>
+				<Text>免疫グロブリン重鎖V-III領域VH26は、ヒトではIGHV@遺伝子にコードされるタンパク質です。IGHVは免疫グロブリン重鎖可変領域遺伝子です。慢性リンパ性白血病などのB細胞性新生物では、IGHVの変異はいくつかの治療に対するより良い反応と生存期間の延長と関連しています。HCL患者の約80～90％は、免疫グロブリン重鎖可変領域遺伝子に超変異を有しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_10</LocID>
-				<Text>Deletion Chromosome 17p13 Detected</Text>
+				<Text>染色体17p13の欠損を発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_10_DESC</LocID>
-				<Text>Testing has detected Chromosome 17p13 is deleted from the patient's tested cells.</Text>
+				<Text>検査により、患者の検査対象細胞から染色体17p13が欠損していることが検出されました。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_NECROSIS</LocID>
-				<Text>Necrosis</Text>
+				<Text>壊死の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_NECROSIS_DESC</LocID>
-				<Text>Necrosis is a form of cell injury which results in the premature death of cells in living tissue by autolysis.</Text>
+				<Text>壊死は細胞傷害の一種で、自己分解により生体組織の細胞が早期に死滅することです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_LPT1</LocID>
-				<Text>Large Primary Tumour Detected</Text>
+				<Text>大きな原発性腫瘍の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_LPT1_DESC</LocID>
-				<Text>Testing has detected a Large Primary Tumour within the patient, this can sometimes be sign that the cancer is in a more advanced state.</Text>
+				<Text>検査で大きな原発性腫瘍が検出された場合、癌がより進行した状態であることを示すことがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BREAST_LUMP</LocID>
-				<Text>Breast Lump</Text>
+				<Text>乳房のしこり</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BREAST_LUMP_DESC</LocID>
-				<Text>A breast lump is a localized swelling, protuberance, bulge, or bump in the breast that feels different from the breast tissue around it.</Text>
+				<Text>乳房のしこりは、乳房の局所的な腫れ、隆起、膨隆、隆起で、周囲の乳房組織とは異なる感触のものです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BREAST_DISCH</LocID>
-				<Text>Breast Discharge</Text>
+				<Text>乳頭分泌物</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BREAST_DISCH_DESC</LocID>
-				<Text>Nipple discharge is the release of fluid from the nipple. It is a very common breast symptom and in most cases is part of the normal function of the breast rather than being caused by a problem.</Text>
+				<Text>乳頭分泌物とは、乳頭から液体が放出されることです。乳房の症状としては非常に一般的なもので、ほとんどの場合、問題によって引き起こされるというよりも、乳房の正常な機能の一部であると言えます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SORE_NIPPLE</LocID>
-				<Text>Sore Nipple</Text>
+				<Text>乳頭痛</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SORE_NIPPLE_DESC</LocID>
-				<Text>Nipple pain is pain that occurs in the breast tissue around the area of the nipple. Nipple pain can be associated with other symptoms and signs that may include breast pain, nipple discharge, breast lump or mass, itching, or skin changes. Breast cancer typically does not cause nipple pain or breast pain.</Text>
+				<Text>乳頭痛とは、乳頭周辺の乳房組織に生じる痛みのことです。乳頭痛は、乳房痛、乳頭分泌物、乳房のしこりや腫瘤、かゆみ、皮膚の変化など、他の症状や徴候と関連していることがあります。乳がんは通常、乳頭痛や乳房痛を引き起こしません。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BREAST_SCHANGE</LocID>
-				<Text>Breast Shape Changes</Text>
+				<Text>乳房の形状変化</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BREAST_SCHANGE_DESC</LocID>
-				<Text>The patient has experienced a change in the shape or size of their breasts.</Text>
+				<Text>患者は乳房の形や大きさに変化を経験しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BREAST_DIMP</LocID>
-				<Text>Breast Dimpling</Text>
+				<Text>乳房のくぼみ</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BREAST_DIMP_DESC</LocID>
-				<Text>Also known as peau d'orange, dimpling of the breast causes the skin to look like the pitting and uneven skin of an orange. Sometimes, the skin can also be red and inflamed.</Text>
+				<Text>橙皮状皮膚とも呼ばれる乳房のくぼみにより、皮膚がオレンジのようにポツポツと凹凸があるように見え、また、皮膚が赤く炎症を起こしている場合もあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BREAST_PAIN</LocID>
-				<Text>Breast Pain</Text>
+				<Text>乳房痛</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BREAST_PAIN_DESC</LocID>
-				<Text>Tightness, tenderness or sharp pain in one or both breasts that occurs commonly and usually doesn't mean anything is seriously wrong.</Text>
+				<Text>片側または両側の乳房の張力、圧痛、鋭い痛みがよく起こりますが、通常、深刻な異常を意味しません。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SUS_CALC</LocID>
-				<Text>Suspicious Calcifications</Text>
+				<Text>乳房石灰沈着</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SUS_CALC_DESC</LocID>
-				<Text>Breast calcifications are small calcium deposits that develop in a woman's breast tissue. They are very common and are usually benign (noncancerous). Breast calcifications are more common in women, but can also be found in men. In some instances, certain types of breast calcifications may suggest early breast cancer.</Text>
+				<Text>乳房石灰沈着とは、女性の乳房組織にできる小さなカルシウムの沈着です。非常によく見られるもので、通常は良性（非がん性）です。乳房石灰沈着は女性に多くみられますが、男性にもみられることがあります。場合によっては、ある種の乳房石灰化は早期乳癌を示唆することがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_IRR_BMASS</LocID>
-				<Text>Irregular Breast Density</Text>
+				<Text>乳房密度の異常</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_IRR_BMASS_DESC</LocID>
-				<Text>A potential abnormality on a mammogram might be called a nodule, mass, lump, density, or distortion. A mass (lump) that has an irregular border or a starburst appearance (spiculated) might be cancerous.</Text>
+				<Text>超音波検査での潜在的な異常は、結節、腫瘤、塊、密度、または歪みと呼ばれるかもしれません。不規則な境界線や星形のような外観（棘状）を持つ腫瘤（しこり）は、癌である可能性があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CMA_CA153</LocID>
-				<Text>Cancer Antigen 15-3 High Blood Levels</Text>
+				<Text>がん抗原15-3の血中濃度の上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CMA_CA153_DESC</LocID>
-				<Text>Cancer antigen 15-3 (CA15-3) is a protein made by a variety of cells, particularly breast cancer cells. The protein moves into the blood, where it can be measured. CA15-3 levels are higher than normal in most women with breast cancer that has spread to other parts of the body (called metastatic breast cancer). Not all types of breast cancer will cause CA 15-3 levels to rise, as some types of cancer cells don’t over-produce the antigen.</Text>
+				<Text>がん抗原15-3（CA15-3）は、様々な細胞、特に乳がん細胞で作られるタンパク質です。このタンパク質は血液中に移動し、そこで測定することができます。CA15-3の値は、体の他の部分に転移した乳がん（転移性乳がんと呼ばれます）のほとんどの女性で、通常よりも高くなります。乳がんの種類によっては、この抗原を過剰に産生しないタイプのがん細胞もあるため、すべての乳がんでCA15-3値が上昇するわけではありません。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CMA_CA2729</LocID>
-				<Text>Cancer Antigen 27-29 High Blood Levels</Text>
+				<Text>がん抗原27-29の血中濃度の上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CMA_CA2729_DESC</LocID>
-				<Text>Cancer Antigen 27-29 is one of several antigens that doctors use as tumour markers for breast cancer. These markers tend to increase whenever cancer is present. The CA 27.29 test is primarily used to monitor metastatic breast cancer and less commonly to detect recurrence in people previously treated for early-stage breast cancer.</Text>
+				<Text>がん抗原27-29は、医師が乳がんの腫瘍マーカーとして使用しているいくつかの抗原のうちの一つです。これらのマーカーは、癌が存在する場合は常に増加する傾向があります。CA 27.29検査は、主に転移性乳癌のモニタリングに使用され、早期乳癌の治療を受けた人の再発を検出することはあまり一般的ではありません。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_11</LocID>
-				<Text>BRCA1 Faulty Gene Findings</Text>
+				<Text>BRCA1遺伝子損傷の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_11_DESC</LocID>
-				<Text>BRCA1/2 is a human tumour suppressor gene (also known as a caretaker gene) and is responsible for repairing DNA. BRCA1 and BRCA2 are unrelated proteins, but both are normally expressed in the cells of breast and other tissue, where they help repair damaged DNA, or destroy cells if DNA cannot be repaired. Women who carry a fault in BRCA1 or BRCA2 have a high lifetime risk of breast cancer, estimated to be in the range of 30-60%, and a lifetime ovarian cancer risk of about 20%. They can benefit from measures for prevention and early detection of cancers. Men who carry a fault in BRCA1 or BRCA2 may be at some increased risk of prostate cancer and male breast cancer.</Text>
+				<Text>BRCA1/2は、ヒトの腫瘍抑制遺伝子（世話焼き遺伝子とも呼ばれる）で、DNAの修復を担っています。BRCA1とBRCA2は無関係のタンパク質ですが、どちらも通常、乳房やその他の組織の細胞で発現し、損傷したDNAの修復を助け、DNAが修復されない場合は細胞を破壊します。BRCA1またはBRCA2に欠陥がある女性は、生涯乳がんのリスクが高く、30～60％の範囲と推定され、生涯卵巣がんのリスクは約20％と推定されます。これらの方は、がんの予防や早期発見のための対策が有効です。BRCA1またはBRCA2に欠陥がある男性は、前立腺癌と男性乳癌のリスクがある程度高くなる可能性があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
