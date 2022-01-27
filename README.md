@@ -16,11 +16,11 @@ Anyone can use them, as long as they follow the license below.
 
 |  Mod name  |  translation progress  |
 | ---------- | ---------------------- |
-|  CRP       |                  W.I.P |
+|  CRP       |              Completed |
 |  ENT       |              Completed |
-|  MORE_DG   |                  W.I.P |
+|  MORE_DG   |              Completed |
 
-Date of last check: October, 2021
+Date of last check: Jan 28, 2022
 
 ## How to use
 
