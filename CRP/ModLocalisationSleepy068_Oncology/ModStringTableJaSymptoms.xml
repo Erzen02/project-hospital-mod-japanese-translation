@@ -1693,344 +1693,344 @@
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_007</LocID>
-				<Text>Thyroid Transcription Factor 1 Positive</Text>
+				<Text>甲状腺転写因子1陽性</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_007_DESC</LocID>
-				<Text>NK2 homeobox 1 (NKX2-1), also known as thyroid transcription factor 1 (TTF-1), is a protein which in humans is encoded by the NKX2-1 gene. TTF-1 positive cells are found in the lung as type II pneumocytes and club cells. In the thyroid, follicular and parafollicular cells are also positive for TTF-1. For lung cancers, adenocarcinomas are usually positive, while squamous cell carcinomas and large cell carcinomas are rarely positive. Small cell carcinomas (of any primary site) are usually positive. TTF1 is more than merely a clinical marker of lung adenocarcinoma. It plays an active role in sustaining lung cancer cells in view of the experimental observation that it is mutated in lung cancer.</Text>
+				<Text>NK2ホメオボックス1（NKX2-1）は、甲状腺転写因子1（TTF-1）とも呼ばれ、ヒトではNKX2-1遺伝子にコードされるタンパク質です。TTF-1陽性細胞は、肺ではII型肺細胞およびクララ細胞として見出されます。甲状腺では、濾胞細胞および傍濾胞細胞もTTF-1に陽性です。肺癌では、通常、腺癌が陽性で、扁平上皮癌と大細胞癌がまれに陽性となります。小細胞癌は（どの原発部位であっても）通常陽性です。TTF1は、単に肺腺癌の臨床マーカーにとどまりません。肺癌で変異しているという実験的観察から、肺癌細胞の維持に積極的な役割を担っています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_IS_001</LocID>
-				<Text>Tumour Protein P63 Bright Expression</Text>
+				<Text>腫瘍タンパク質P63の陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_IS_001_DESC</LocID>
-				<Text>Tumour protein p63, typically referred to as p63, also known as transformation-related protein 63 is a protein that in humans is encoded by the TP63 (also known as the p63) gene. P63 immunostaining has utility for head and neck squamous cell carcinomas, differentiating prostatic adenocarcinoma (the most common type of prostate cancer) and benign prostatic tissue. </Text>
+				<Text>腫瘍タンパク質p63（一般的にはp63と呼ばれ、形質転換関連タンパク質63としても知られている）は、ヒトではTP63（別名p63）遺伝子によってコードされているタンパク質です。P63免疫染色は、頭頸部扁平上皮癌、前立腺腺癌（最も一般的な前立腺癌のタイプ）および良性前立腺組織の鑑別に有用です。 </Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPERTROPHIC_PO</LocID>
-				<Text>Hypertrophic Pulmonary Osteoarthropathy</Text>
+				<Text>肥大性肺骨関節症</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPERTROPHIC_PO_DESC</LocID>
-				<Text>Hypertrophic pulmonary osteoarthropathy (HPO) is a rare paraneoplastic syndrome that is frequently associated with lung cancer. Hypertrophic osteoarthropathy (HOA) is a clinical syndrome of clubbing of the fingers and toes, enlargement of the extremities, and painful, swollen joints. This condition is characterized by symmetric periostitis involving the radius and fibula and, to a lesser extent, the femur, humerus, metacarpals, and metatarsals.</Text>
+				<Text>肥大性肺骨関節症（HPO）は、肺癌に合併することが多い稀な腫瘍随伴症候群です。肥大性骨関節症（HOA）は、手足の腫れ、四肢の肥大、関節の痛みと腫脹を伴う臨床症候群です。この疾患は、橈骨と腓骨、および程度は低いものの大腿骨、上腕骨、中手骨、中足骨に及ぶ対称的な骨膜炎によって特徴付けられます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD44_BRIGHT</LocID>
-				<Text>CD44 Antigen Bright Expression</Text>
+				<Text>CD44抗原の陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD44_BRIGHT_DESC</LocID>
-				<Text>The CD44 antigen is a cell-surface glycoprotein involved in cell–cell interactions, cell adhesion and migration. In humans, the CD44 antigen is encoded by the CD44 gene on Chromosome 11. CD44 is a cell surface adhesion receptor that is highly expressed in many cancers and regulates metastasis via recruitment of CD44 to the cell surface. Its interaction with appropriate extracellular matrix ligands promotes the migration and invasion processes involved in metastases.</Text>
+				<Text>CD44抗原は、細胞間相互作用、細胞接着、移動に関与する細胞表面の糖タンパク質です。ヒトでは、CD44抗原は染色体11上のCD44遺伝子によってコードされています。CD44は、多くの癌で高発現している細胞表面接着受容体で、CD44の細胞表面への動員を介して転移を制御しています。適切な細胞外マトリックスリガンドとの相互作用により、転移に関与する移動と浸潤のプロセスが促進されます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_22</LocID>
-				<Text>EGFR Mutation Over-Expression</Text>
+				<Text>EGFR変異の過剰な発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_22_DESC</LocID>
-				<Text>The epidermal growth factor receptor (EGFR; ErbB-1; HER1 in humans) is a transmembrane protein that is a receptor for members of the epidermal growth factor family (EGF family) of extracellular protein ligands. Mutations that lead to EGFR overexpression (known as upregulation or amplification) have been associated with a number of cancers, including adenocarcinoma of the lung (40% of cases), anal cancers, glioblastoma (50%) and epithelian tumours of the head and neck (80-100%). These somatic mutations involving EGFR lead to its constant activation, which produces uncontrolled cell division.</Text>
+				<Text>上皮成長因子受容体（EGFR; ErbB-1; ヒトでは HER1）は、細胞外タンパク質リガンドの上皮成長因子ファミリー（EGFファミリー）のメンバーに対する受容体である膜貫通型タンパク質です。EGFRの過剰発現をもたらす変異（アップレギュレーションまたは増幅として知られています）は、肺腺がん（症例の40%）、肛門がん、神経膠芽腫（50%）、頭頸部上皮性腫瘍（80-100%）など多くのがんと関連しています。EGFRが関与するこれらの体細胞変異は、その常時活性化をもたらし、無制限の細胞分裂を生じさせます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD274_BRIGHT</LocID>
-				<Text>PD-L1 (CD274) Bright Expression</Text>
+				<Text>PD-L1 (CD274) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD274_BRIGHT_DESC</LocID>
-				<Text>Programmed death-ligand 1 (PD-L1) also known as cluster of differentiation 274 (CD274) or B7 homolog 1 (B7-H1) is a protein that in humans is encoded by the CD274 gene. Programmed death-ligand 1 (PD-L1) is a 40kDa type 1 transmembrane protein that has been speculated to play a major role in suppressing the adaptive arm of immune system during particular events such as pregnancy, tissue allografts, autoimmune disease and other disease states such as hepatitis.</Text>
+				<Text>プログラム細胞死リガンド 1（PD-L1）は、Cluster of Differentiation 274（CD274）またはB7 homolog 1（B7-H1）とも呼ばれ、ヒトではCD274遺伝子によってコードされているタンパク質です。プログラムデスリーガンド1（PD-L1）は、40kDaの1型膜貫通タンパク質で、妊娠、組織移植、自己免疫疾患、肝炎などの特定のイベント時に免疫系の適応的アームを抑制する上で主要な役割を果たすと推測されています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_IS_002</LocID>
-				<Text>Tumour Protein P53 Abnormal Expression</Text>
+				<Text>腫瘍タンパク質P53の異常な発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_IS_002_DESC</LocID>
-				<Text>Tumour protein p53, also known as p53, cellular tumour antigen p53 (UniProt name), tumour suppressor p53 is any isoform of a protein encoded by homologous genes in various organisms, such as TP53 (humans) and Trp53 (mice). This homolog (originally thought to be, and often spoken of as, a single protein) is crucial in multicellular organisms, where it prevents cancer formation, and thus functions as a tumour suppressor. The TP53 gene can also be modified by mutagens (chemicals, radiation, or viruses), increasing the likelihood for uncontrolled cell division.</Text>
+				<Text>腫瘍タンパク質p53は、p53、細胞腫瘍抗原p53（UniProt名）、腫瘍抑制因子p53とも呼ばれ、TP53（ヒト）、Trp53（マウス）など、様々な生物の相同遺伝子がコードするタンパク質のいずれかのアイソフォームです。このホモログ（元々は単一のタンパク質と考えられており、しばしばそのように語られます）は、多細胞生物において重要であり、癌の形成を防ぐため、腫瘍抑制因子として機能します。TP53遺伝子は変異原（化学物質、放射線、ウイルス）によっても変化し、無秩序な細胞分裂を引き起こす可能性が高くなります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BL_HISRC</LocID>
-				<Text>Signet Ring Cell Morphology</Text>
+				<Text>印環細胞形態</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BL_HISRC_DESC</LocID>
-				<Text>In histology, a signet ring cell is a cell with a large vacuole, the malignant type is seen predominantly in carcinomas. Signet ring cells are most frequently associated with various forms of cancer. By definition, a 50% or greater (High) signet-ring-cell component is required for a colorectal carcinoma to be designated as a signet-ring-cell colorectal carcinoma.</Text>
+				<Text>組織学上、大きな液胞を持つ細胞を印環細胞といい、悪性型は主にがんに見られます。印環細胞は、様々な形態のがんと最も頻繁に関連しています。大腸癌の定義では、印環細胞大腸癌と指定されるためには50％以上（High）の印環細胞成分が必要です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_23</LocID>
-				<Text>High-Degree Microsatellite Instability</Text>
+				<Text>高いマイクロサテライト不安定性</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_23_DESC</LocID>
-				<Text>Microsatellite instability (MSI) is the condition of genetic hypermutability (predisposition to mutation) that results from impaired DNA mismatch repair (MMR). The presence of MSI represents phenotypic evidence that MMR is not functioning normally. MMR corrects errors that spontaneously occur during DNA replication, such as single base mismatches or short insertions and deletions. The proteins involved in MMR correct polymerase errors by forming a complex that binds to the mismatched section of DNA, excises the error, and inserts the correct sequence in its place. Cells with abnormally functioning MMR are unable to correct errors that occur during DNA replication and consequently accumulate errors. Microsatellite instability is associated with many forms of cancer but is most prevalent in associations with colon cancers.</Text>
+				<Text>マイクロサテライト不安定性（MSI）は、DNAのミスマッチ修復（MMR）の障害に起因する遺伝的変異亢進（変異しやすい状態）のことです。MSIの存在は、MMRが正常に機能していないことを示す表現上の証拠となります。MMRは、一塩基のミスマッチや短い挿入・欠失など、DNA複製の際に自然に発生するエラーを修正します。MMRに関与するタンパク質は、DNAのミスマッチ部分に結合し、エラーを除去し、正しい配列をその場所に挿入する複合体を形成することによって、ポリメラーゼエラーを修正します。MMRの機能に異常がある細胞は、DNA複製の際に生じたエラーを修正することができず、結果としてエラーが蓄積されます。マイクロサテライト不安定性は多くの癌と関連しているが、結腸癌との関連で最も多く見られます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_008</LocID>
-				<Text>Mucin 4 Highly Expressed</Text>
+				<Text>ムチン4の高い発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_008_DESC</LocID>
-				<Text>Mucin 4 (MUC 4) is a mucin protein that in humans is encoded by the MUC4 gene. Like other mucins, MUC-4 is a high-molecular weight glycoprotein. The major constituents of mucus, the viscous secretion that covers epithelial surfaces such as those in the trachea, colon, and cervix, are highly glycosylated proteins called mucins. These glycoproteins play important roles in the protection of the epithelial cells and have been implicated in epithelial renewal and differentiation. MUC-4 has been found to play various roles in the progression of cancer, particularly due to its signaling and anti-adhesive properties which contribute to tumour development and metastasis.</Text>
+				<Text>ムチン4（MUC 4）は、ヒトではMUC4遺伝子にコードされるムチンタンパク質です。他のムチンと同様、MUC-4は高分子の糖タンパク質です。気管、結腸、子宮頸部などの上皮表面を覆う粘液の主成分は、ムチンと呼ばれる糖鎖の多いタンパク質です。これらの糖タンパク質は、上皮細胞の保護に重要な役割を果たすとともに、上皮の再生や分化に関与していることが知られています。MUC-4は、特に腫瘍の発生や転移に寄与するシグナル伝達や抗接着特性により、がんの進行に様々な役割を果たすことが分かっています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_24</LocID>
-				<Text>CDH1 (CD324) Mutation Findings</Text>
+				<Text>CDH1 (CD324) 変異の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_24_DESC</LocID>
-				<Text>Cadherin-1 also known as CAM 120/80 or epithelial cadherin (E-cadherin) or uvomorulin is a protein that in humans is encoded by the CDH1 gene. CDH1 has also been designated as CD324 (cluster of differentiation 324). It is a tumour suppressor gene. Loss of E-cadherin function or expression has been implicated in cancer progression and metastasis. E-cadherin downregulation decreases the strength of cellular adhesion within a tissue, resulting in an increase in cellular motility. This in turn may allow cancer cells to cross the basement membrane and invade surrounding tissues.</Text>
+				<Text>カドヘリン-1は、CAM 120/80、上皮カドヘリン（E-cadherin）、ウボモルリンとも呼ばれ、ヒトではCDH1遺伝子によってコードされているタンパク質です。CDH1は、CD324 (cluster of differentiation 324)とも呼ばれています。腫瘍抑制遺伝子である。E-カドヘリンの機能または発現の喪失は、がんの進行および転移に関与していると考えられています。E-カドヘリンのダウンレギュレーションは、組織内の細胞接着の強さを低下させ、結果として細胞の運動性を増加させます。その結果、がん細胞が基底膜を越えて周囲の組織に侵入することが可能になると考えられています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_COLONOFIND</LocID>
-				<Text>Colonoscopic Findings</Text>
+				<Text>大腸内視鏡の所見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_COLONOFIND_DESC</LocID>
-				<Text>Testing has reported unusual colon findings. Further tests or results from the biopsy will help determine if the findings are cause for concern.</Text>
+				<Text>検査で大腸の異常所見が報告されています。さらなる検査や生検の結果によって、その所見が心配の種であるかどうかが判断されます。</Text>
 			</GameDBLocalizedString>
 
 			<!-- MISSING -->
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_010</LocID>
-				<Text>Mucin 2 Highly Expressed</Text>
+				<Text>ムチン2 高い発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_010_DESC</LocID>
-				<Text>Mucins are a family of high molecular weight, heavily glycosylated proteins (glycoconjugates) produced by epithelial tissues in most animals. Mucin 2, oligomeric mucus gel-forming, also known as MUC2, is a protein that in humans is encoded by the MUC2 gene. Mucin 2 is particularly prominent in the gut where it is secreted from goblet cells in the epithelial lining into the lumen of the large intestine. In Oncology, overexpression of MUC-2 might protect against antitumour immune effectors by forming a mucous layer, thus promoting tumour development.</Text>
+				<Text>ムチンは、ほとんどの動物の上皮組織で作られる高分子量の重グリコシル化タンパク質（糖鎖）のファミリーです。ムチン2（オリゴマー粘液ゲル形成性）は、MUC2として知られ、ヒトではMUC2遺伝子によってコードされているタンパク質です。ムチン2は、上皮内層の杯細胞から大腸の内腔に分泌され、特に腸で顕著です。オンコロジーでは、MUC-2の過剰発現が、粘液層を形成することで抗腫瘍免疫エフェクターを防御し、腫瘍の発生を促進する可能性があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_011</LocID>
-				<Text>Mucin 5AC Highly Expressed</Text>
+				<Text>ムチン5AC 高い発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_011_DESC</LocID>
-				<Text>Heavily glycosylated secreted mucin MUC5AC, by the virtue of its cysteine-rich repeats, can form inter- and intramolecular disulfide linkages resulting in complex polymers, which in turn craft the framework of the polymeric mucus gel on epithelial cell surfaces. MUC5AC is a molecule with versatile functional implications including barrier functions to epithelial cells, host–pathogen interaction, immune cell attraction to sites of premalignant or malignant lesions and tumor progression in a context-dependent manner. Differential expression, glycosylation and localization of MUC5AC have been associated with a plethora of benign and malignant pathologies.</Text>
+				<Text>高グリコシル化分泌ムチンMUC5ACは、システインリッチリピートのおかげで分子間および分子内ジスルフィド結合を形成し、複雑なポリマーを形成し、それが上皮細胞表面の高分子粘液ゲルの骨格を形成しています。MUC5ACは、上皮細胞のバリア機能、宿主と病原体の相互作用、免疫細胞の前がん病変部位への誘引、文脈依存的な腫瘍の進行など、多彩な機能的意味を持つ分子です。MUC5ACの発現、グリコシル化、局在の違いは、多くの良性および悪性の病態と関連しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_012</LocID>
-				<Text>Mucin 1 Highly Expressed</Text>
+				<Text>ムチン 1 高い発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_012_DESC</LocID>
-				<Text>Mucin 1, cell surface associated (MUC1), also called polymorphic epithelial mucin (PEM) or epithelial membrane antigen or EMA, is a mucin encoded by the MUC1 gene in humans. MUC1 is a glycoprotein with extensive O-linked glycosylation of its extracellular domain. Mucins protect the body from infection by pathogen binding to oligosaccharides in the extracellular domain, preventing the pathogen from reaching the cell surface. Overexpression of MUC1 is often associated with colon, breast, ovarian, lung and pancreatic cancers.</Text>
+				<Text>ムチン1, 細胞表面結合 (MUC1) は、多形上皮ムチン (PEM) または上皮膜抗原 (EMA) とも呼ばれ、ヒトでは MUC1 遺伝子によってコードされるムチンです。MUC1は、細胞外ドメインに広範なO-結合型グリコシル化を有する糖タンパク質です。ムチンは、細胞外ドメインのオリゴ糖に病原体が結合し、病原体が細胞表面に到達するのを防ぐことで、感染から体を守っています。MUC1の過剰発現は、しばしば結腸癌、乳癌、卵巣癌、肺癌、膵臓癌と関連しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_009</LocID>
-				<Text>Mucin 6 Highly Expressed</Text>
+				<Text>ムチン6 高い発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_009_DESC</LocID>
-				<Text>Mucin 6, oligomeric mucus/gel-forming, also known as MUC6, is a human gene. In extrahepatic bile duct lesions (biliary IPMNs), MUC2 expression parallels the degree of columnar-cell change and intestinal differentiation, whereas MUC6 is characteristically positive in tumors with a cuboidal-cell pattern and in cases with pyloric or biliary differentiation. Pyloric gland adenomas (of the gallbladder) are consistently positive for MUC6, as well as other pyloric gland markers, such as M-GGMC-1.</Text>
+				<Text>ムチン6, オリゴマー粘液/ゲル形成, 別名 MUC6 は、ヒトの遺伝子です。肝外胆管病変（胆道IPMN）では、MUC2の発現は柱状細胞の変化や腸管分化の程度と平行しているが、MUC6は立方体細胞パターンの腫瘍や幽門あるいは胆道分化を伴う症例で特徴的に陽性となります。幽門腺腺腫（胆嚢）は、M-GGMC-1などの他の幽門腺マーカーと同様に、MUC6に一貫して陽性です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BL_PMCC</LocID>
-				<Text>Pure Mucinous Cells</Text>
+				<Text>純粋なムチン質細胞</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BL_PMCC_DESC</LocID>
-				<Text>Mucinous carcinoma can form along side of other types cancer cells but when it doesn't the cancer is considered 'pure'. Pure mucinous carcinoma is composed of 90–100% mucinous cells.</Text>
+				<Text>ムチン質癌は他の種類の癌細胞と一緒にできることもありますが、そうでない場合は「純粋」な癌とみなされます。純粋な粘液癌は、90-100%の粘液細胞で構成されています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BL_MMCC</LocID>
-				<Text>Mixed Mucinous Cells</Text>
+				<Text>混合粘液癌</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BL_MMCC_DESC</LocID>
-				<Text>Mucinous carcinoma can form along side of other types cancer cells, when this happens, the cancer is referred to as mixed mucinous carcinoma.</Text>
+				<Text>粘液癌は他の種類の癌細胞と一緒にできることがあり、そのような癌を混合粘液癌と呼びます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_013</LocID>
-				<Text>Napsin A Highly Expressed</Text>
+				<Text>ナプシンA 高い発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_013_DESC</LocID>
-				<Text>Napsin A is a functional aspartic proteinase, expressed in the cytoplasm of healthy lung parenchyma. It is homologous with the polypeptide TAO2 and involved in maturation of the biologically active surfactant protein B. It also consists of a 38-kDa protein, a single-chain protein expressed in type II pneumocytes, alveolar macrophages, renal tubules, and exocrine glands and ducts in the pancreas. Napsin A may be an alternative marker for primary lung cancer.</Text>
+				<Text>ナプシンAは機能性アスパラギン酸プロテアーゼで、健康な肺実質の細胞質で発現しています。また、II型肺細胞、肺胞マクロファージ、腎尿細管、膵臓の外分泌腺や管に発現する一本鎖の38kDaタンパク質で構成されています。ナプシンAは、原発性肺癌の代替マーカーとなる可能性があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_WHITE_STOOLS</LocID>
-				<Text>White Stools</Text>
+				<Text>白色の便</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_WHITE_STOOLS_DESC</LocID>
-				<Text>A white or clay-like stool is caused by a lack of bile, which may indicate a serious underlying problem. Bile is a digestive fluid produced by the liver and stored in the gallbladder. A stool gets its normal brownish color from bile, which is excreted into the small intestine during the digestive process.</Text>
+				<Text>白い便や粘土のような便は、胆汁の不足が原因ですが、これは重大な基礎疾患を示している可能性があります。胆汁は肝臓で作られる消化液で、胆嚢に貯蔵されています。胆汁は消化の過程で小腸に排泄され、便は胆汁によって正常な茶色がかった色になります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_LIV_PRECONDITION</LocID>
-				<Text>Pre-existing Liver Condition</Text>
+				<Text>肝疾患の既往</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_LIV_PRECONDITION_DESC</LocID>
-				<Text>The patient's medical record, or the patient themself, has let the doctor know they have or had a pre-existing liver condition.</Text>
+				<Text>患者さんのカルテ、または患者さん自身が、肝臓に持病がある、または持病があったことを医師に知らせました。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HEPATIC_ENCE</LocID>
-				<Text>Hepatic Encephalopathy</Text>
+				<Text>肝性脳症</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HEPATIC_ENCE_DESC</LocID>
-				<Text>Hepatic encephalopathy is a decline in brain function that occurs as a result of severe liver disease. In this condition, the liver can't adequately remove toxins. This causes a buildup of toxins in the bloodstream, which can lead to brain damage.</Text>
+				<Text>肝性脳症は、重度の肝疾患によって起こる脳機能の低下です。この状態では、肝臓は毒素を十分に除去することができません。そのため、血液中に毒素が蓄積され、脳障害につながる可能性があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPERAMMONEMIA</LocID>
-				<Text>Hyperammonemia</Text>
+				<Text>高アンモニア血症</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPERAMMONEMIA_DESC</LocID>
-				<Text>Hyperammonemia is a metabolic disturbance characterised by an excess of ammonia in the blood. It is a dangerous condition that may lead to brain injury and death. </Text>
+				<Text>高アンモニア血症は血液中のアンモニアが過剰になることで起こる代謝異常です。脳障害や死に至ることもある危険な状態です。 </Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_IS_003</LocID>
-				<Text>Alpha-Fetoprotein Elevated Levels</Text>
+				<Text>α-フェトプロテインの濃度上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_IS_003_DESC</LocID>
-				<Text>Alpha-fetoprotein is a protein that in humans is encoded by the AFP gene. The AFP gene is located on the q arm of chromosome 4. AFP is a major plasma protein produced by the yolk sac and the fetal liver during fetal development. AFP is found mainly in liver cancer and nonseminomatous germ cell tumors, which are rare. These are found in the pineal gland in the brain. Some people with cirrhosis or chronic active hepatitis also have higher blood levels of AFP. Like any elevated tumor marker, elevated AFP by itself is not diagnostic, only suggestive.</Text>
+				<Text>α-フェトプロテインは、ヒトではAFP遺伝子によってコードされているタンパク質です。AFP遺伝子は第4染色体のq腕に位置しています。AFPは胎児の発育中に卵黄嚢と胎児肝臓で産生される主要な血漿タンパク質です。AFPは主に肝臓癌と非好中球性生殖細胞腫瘍で発見されますが、これは稀です。これらは脳の松果体に存在します。また、肝硬変や慢性活動性肝炎の人の中には、AFPの血中濃度が高い人がいます。他の腫瘍マーカーの上昇と同様に、AFPの上昇自体は診断にはならず、あくまで示唆に過ぎません。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CMA_CAHP1</LocID>
-				<Text>Hepatocyte Paraffin 1 Antigen Detected</Text>
+				<Text>肝細胞パラフィン1抗原の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CMA_CAHP1_DESC</LocID>
-				<Text>Hepatocyte paraffin 1 is a monoclonal antibody that has been developed specifically to react with hepatocytes in routine formalin-fixed and paraffin-embedded surgical pathology tissues. It results in a distinct, granular cytoplasmic staining of hepatocytes but fails to react with bile ducts and nonparenchymal liver cells. The antibody decorates a majority of hepatocellular carcinomas, including fibrolamellar variants. It fails to react with a wide variety of other adult malignancies, with the exception of focal staining in a few gastrointestinal malignancies, including a subpopulation of gastric carcinomas.</Text>
+				<Text>肝細胞パラフィン1は、通常のホルマリン固定およびパラフィン包埋外科病理組織中の肝細胞と反応するように特別に開発されたモノクローナル抗体です。肝細胞を顆粒状に染色し、胆管や非実質肝細胞には反応しません。本抗体は、肝細胞腺腫を含む大部分の肝細胞癌を染めることができます。その他の成人悪性腫瘍には反応しませんが、胃癌の亜集団を含む少数の消化器系悪性腫瘍には局所的な染色が認められます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_AB_LFT</LocID>
-				<Text>Abnormal LFT Results</Text>
+				<Text>異常な肝機能検査の結果</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_AB_LFT_DESC</LocID>
-				<Text>The patient's Liver Function Test have returned abnormal results, further testing is needed to help determine the possible cause. Abnormal liver function test results don't always indicate liver disease and may instead be a result of a number of circumstances.</Text>
+				<Text>肝機能検査で異常値が出た場合、原因を特定するためにさらなる検査が必要です。肝機能検査の結果は、必ずしも肝臓の病気を示しているわけではなく、様々な状況の結果である可能性があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ACUTE_LIVER_FAILURE</LocID>
-				<Text>Acute Liver Failure</Text>
+				<Text>急性肝不全</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ACUTE_LIVER_FAILURE_DESC</LocID>
-				<Text>Acute liver failure (ALF) is a rare syndrome defined by a rapid decline in hepatic function.</Text>
+				<Text>急性肝不全（ALF）は、急激な肝機能の低下によって定義されるまれな症候群です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CELL_REJECTION</LocID>
-				<Text>Cellular Rejection</Text>
+				<Text>細胞性拒絶反応</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CELL_REJECTION_DESC</LocID>
-				<Text>Cellular Rejection occurs when the body's blood cells identify a transplanted organ as foreign object and begin mounting an army of cells to attack it. Having rejection does not mean that the patient will lose their transplanted organ, but it is extremely important that rejection is diagnosed and treated as soon as possible.</Text>
+				<Text>細胞性拒絶反応は、移植された臓器を体内の血液細胞が異物と認識し、それを攻撃するために細胞の軍隊を編成し始めることで起こります。拒絶反応が起きたからといって、移植された臓器を失うわけではありませんが、できるだけ早く拒絶反応を診断して治療することが非常に重要です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_INTERNAL_BLEEDING</LocID>
-				<Text>Internal Bleeding</Text>
+				<Text>体内出血</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_INTERNAL_BLEEDING_DESC</LocID>
-				<Text>Bleeding inside the body, particularly in the chest cavity, stomach cavity or muscles, that may be caused by major trauma, surgery or some unknown complication.</Text>
+				<Text>体内、特に胸腔、胃腔、筋肉などの出血で、大きな外傷や手術、または未知の合併症によって起こる可能性があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HEMO_INSTA</LocID>
-				<Text>Hemodynamic Instability</Text>
+				<Text>不安定な血行動態</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HEMO_INSTA_DESC</LocID>
-				<Text>Hemodynamic instability occurs when there's abnormal or unstable blood pressure, which can cause inadequate blood flow. This symptom can be life-threatening and may require ICU intervention.</Text>
+				<Text>血行動態の不安定は、血圧の異常や不安定により、血流が十分でない場合に起こります。この症状は生命を脅かす可能性があり、ICUでの治療が必要となる場合があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_LES_RUPTURE</LocID>
-				<Text>Rupture of a Lesion</Text>
+				<Text>病巣の破裂</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_LES_RUPTURE_DESC</LocID>
-				<Text>A lesion or tumour inside the patient has ruptured. This is associated with life-threatening internal bleeding.</Text>
+				<Text>患者体内の病変や腫瘍が破裂しました。この場合、生命を脅かす内出血を伴います。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_FACIAL_NERVE_PARA</LocID>
-				<Text>Facial Nerve Paralysis</Text>
+				<Text>顔面神経麻痺</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_FACIAL_NERVE_PARA_DESC</LocID>
-				<Text>Facial nerve paralysis is characterised by facial weakness, usually only in one side of the face, with other symptoms possibly including loss of taste, hyperacusis and decreased salivation and tear secretion.</Text>
+				<Text>顔面神経麻痺は、通常、顔の片側だけの顔面脱力を特徴とし、その他の症状として、味覚障害、聴覚過敏、唾液分泌や涙液分泌の減少が考えられます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_DYSPLASIA</LocID>
-				<Text>Dysplasia</Text>
+				<Text>異形成</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_DYSPLASIA_DESC</LocID>
-				<Text>Dysplasia (Cytologic Atypia) the presence of cells of an abnormal type within a tissue, which may signify a stage preceding the development of cancer.</Text>
+				<Text>異形成（細胞異型） 組織内に異常なタイプの細胞が存在することで、癌の発生に先立つ段階を意味する場合があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_EPI_HIGH1</LocID>
-				<Text>Elevated Epidermoid Cell Count</Text>
+				<Text>表皮細胞数の上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_EPI_HIGH1_DESC</LocID>
-				<Text>Testing has detected an abnormally high level of epidermoid cells. This can indicate a worse prognosis or more developed cancer. </Text>
+				<Text>検査により、表皮細胞が異常に多く検出されました。これは、予後が悪くなったり、がんがより進行していることを示すことがあります。 </Text>
 			</GameDBLocalizedString>
 
 
