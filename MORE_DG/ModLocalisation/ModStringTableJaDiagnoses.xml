@@ -184,11 +184,11 @@
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HPRL_F</LocID>
-				<Text>高プロラクチン血</Text>
+				<Text>高プロラクチン血症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HPRL_H</LocID>
-				<Text>高プロラクチン血</Text>
+				<Text>高プロラクチン血症</Text>
 			</GameDBLocalizedString>
 			<GameDBLocalizedString>
 				<LocID>DIA_MOREDG_HPRL_DESCRIPTION</LocID>
