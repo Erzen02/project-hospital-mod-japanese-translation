@@ -898,7 +898,7 @@
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_08_DESC</LocID>
-				<Text>B-Raf癌遺伝子（BRAF）は、細胞質セリン・スレオニンキナーゼをコードし、マイトジェン活性化プロテインキナーゼのシグナル伝達経路を制御する重要な役割を担っています。BRAF遺伝子のエキソン15のコドン600に活性化ミスセンス変異（V600E）が確認されており、メラノーマ、大腸がん、甲状腺乳頭がん、有毛細胞白血病、ランゲルハンス細胞組織球症など多くの新生物が存在することがわかっています。</Text>
+				<Text>B-Raf癌遺伝子（BRAF）は、細胞質セリン・スレオニンキナーゼをコードし、分裂促進因子活性化タンパク質キナーゼのシグナル伝達経路を制御する重要な役割を担っています。BRAF遺伝子のエキソン15のコドン600に活性化ミスセンス変異（V600E）が確認されており、メラノーマ、大腸がん、甲状腺乳頭がん、有毛細胞白血病、ランゲルハンス細胞組織球症など多くの新生物が存在することがわかっています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
@@ -1053,52 +1053,52 @@
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HRM_01</LocID>
-				<Text>Estrogen Receptor Positive</Text>
+				<Text>エストロゲン受容体陽性</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HRM_01_DESC</LocID>
-				<Text>A cancer is called estrogen-receptor-positive (or ER+) if it has receptors for estrogen. This suggests that the cancer cells, like normal breast cells, may receive signals from estrogen that could promote their growth.</Text>
+				<Text>エストロゲンの受容体があるがんをエストロゲン受容体陽性がん（ER+）といいます。これは、がん細胞が正常な乳房細胞と同様に、エストロゲンからシグナルを受けて増殖を促進する可能性があることを示唆しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HRM_02</LocID>
-				<Text>Progesterone Receptor Positive</Text>
+				<Text>プロゲステロン受容体陽性</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HRM_02_DESC</LocID>
-				<Text>The cancer is progesterone-receptor-positive (PR+) if it has progesterone receptors. Again, this means that the cancer cells may receive signals from progesterone that could promote their growth.</Text>
+				<Text>プロゲステロン受容体を持つがんは、プロゲステロン受容体陽性（PR+）となります。この場合も、がん細胞はプロゲステロンからシグナルを受けて、増殖を促進する可能性があることを意味します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD340_NEG</LocID>
-				<Text>HER2/neu (CD340) Negative Expression</Text>
+				<Text>HER2/neu (CD340) 陰性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD340_NEG_DESC</LocID>
-				<Text>Receptor tyrosine-protein kinase erbB-2, also known as CD340, proto-oncogene Neu, Erbb2, or ERBB2, is a protein that in humans is encoded by the ERBB2 gene. ERBB is abbreviated from erythroblastic oncogene B, a gene isolated from avian genome. It is also frequently called HER2 or HER2/neu. HER2 is a member of the human epidermal growth factor receptor (HER/EGFR/ERBB) family. Amplification or over-expression of this oncogene has been shown to play an important role in the development and progression of certain aggressive types of breast cancer. In recent years the protein has become an important biomarker and target of therapy for approximately 30% of breast cancer patients.</Text>
+				<Text>受容体チロシンプロテインキナーゼerbB-2は、CD340、プロトオンコジーンNeu、Erbb2、またはERBB2としても知られており、ヒトではERBB2遺伝子によってコードされているタンパク質です。ERBBは、鳥類のゲノムから単離された遺伝子であるerythroblastic oncogene Bから略されたもので、HER2またはHER2/neuとも呼ばれることが多いです。HER2は、ヒト上皮成長因子受容体（HER/EGFR/ERBB）ファミリーの一員です。この癌遺伝子の増幅や過剰発現は、ある種の攻撃的なタイプの乳癌の発生や進行に重要な役割を果たすことが示されています。近年、このタンパク質は、乳がん患者の約30％にとって重要なバイオマーカーであり、治療の標的となっています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD340_POS</LocID>
-				<Text>HER2/neu (CD340) Positive Mutation</Text>
+				<Text>HER2/neu (CD340) 陽性変異</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD340_POS_DESC</LocID>
-				<Text>Receptor tyrosine-protein kinase erbB-2, also known as CD340, proto-oncogene Neu, Erbb2, or ERBB2, is a protein that in humans is encoded by the ERBB2 gene. ERBB is abbreviated from erythroblastic oncogene B, a gene isolated from avian genome. It is also frequently called HER2 or HER2/neu. HER2 is a member of the human epidermal growth factor receptor (HER/EGFR/ERBB) family. Amplification or over-expression of this oncogene has been shown to play an important role in the development and progression of certain aggressive types of breast cancer. In recent years the protein has become an important biomarker and target of therapy for approximately 30% of breast cancer patients.</Text>
+				<Text>受容体チロシンプロテインキナーゼerbB-2は、CD340、プロトオンコジーンNeu、Erbb2、またはERBB2としても知られており、ヒトではERBB2遺伝子によってコードされているタンパク質です。ERBBは、鳥類のゲノムから単離された遺伝子であるerythroblastic oncogene Bから略されたもので、HER2またはHER2/neuとも呼ばれることが多いです。HER2は、ヒト上皮成長因子受容体（HER/EGFR/ERBB）ファミリーの一員です。この癌遺伝子の増幅や過剰発現は、ある種の攻撃的なタイプの乳癌の発生や進行に重要な役割を果たすことが示されています。近年、このタンパク質は、乳がん患者の約30％にとって重要なバイオマーカーであり、治療の標的となっています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SPEC_MARG</LocID>
-				<Text>Spiculated Margins</Text>
+				<Text>スピキュラ</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SPEC_MARG_DESC</LocID>
-				<Text>Spiculated margins are a true diagnostic feature of malignancy. Strands of tissue are seen radiating out from an ill-defined mass, producing a stellate appearance.</Text>
+				<Text>スピキュラは、CT画像などでの悪性腫瘍の診断上の特徴を指します。境界が不明瞭な腫瘤から放射状に伸びる組織の束が見られ、星状に見えます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
@@ -1108,452 +1108,452 @@
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD44v6_BRIGHT_DESC</LocID>
-				<Text>CD44v6 is an isoform of the CD44 family of transmembrane glycoproteins. High CD44v6 expression in epithelial cancer correlates with tumour growth, invasion, metastasis, and recurrence. CD44v6 is a co-receptor of the receptor tyrosine kinases c-Met, RON and VEGFR-2.</Text>
+				<Text>CD44v6は、膜貫通型糖タンパク質であるCD44ファミリーのアイソフォームです。上皮性癌におけるCD44v6の高発現は、腫瘍の成長、浸潤、転移、および再発と相関します。CD44v6は、受容体チロシンキナーゼであるc-Met、RON、VEGFR-2の共受容体です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_12</LocID>
-				<Text>GATA3 Mutation Findings</Text>
+				<Text>GATA3変異の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_12_DESC</LocID>
-				<Text>GATA3 is a transcription factor that in humans is encoded by the GATA3 gene. The GATA3 transcription factor is critical for the embryonic development of various tissues as well as for inflammatory and humoral immune responses and the proper functioning of the endothelium of blood vessels. Immuocytochemical analysis of GATA3 protein in breast cells is a valuable marker for diagnosing primary breast cancer, being tested as positive in up to 94% of cases.</Text>
+				<Text>GATA3は転写因子であり、ヒトではGATA3遺伝子にコードされています。GATA3転写因子は、様々な組織の胚発生、炎症性・液性免疫応答、血管内皮の正常な機能発現に重要な役割を担っています。乳房細胞におけるGATA3タンパク質の免疫細胞化学的解析は、原発性乳がんの診断に有用なマーカーであり、最大で94％の症例で陽性と判定されます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HEMOPTYSIS2</LocID>
-				<Text>Severe Hemoptysis</Text>
+				<Text>重度の喀血</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HEMOPTYSIS2_DESC</LocID>
-				<Text>Hemoptysis is the coughing up of blood or blood-stained mucus from the bronchi, larynx, trachea, or lungs. In other words, it is the airway bleeding. This can occur with lung cancer, infections such as tuberculosis, bronchitis, or pneumonia, and certain cardiovascular conditions.</Text>
+				<Text>喀血とは、気管支、喉頭、気管、肺から血液や血液の混じった粘液が咳き込むことです。つまり、気道から出血することです。肺がん、結核、気管支炎、肺炎などの感染症、ある種の心疾患などで起こることがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_INC_INTRAPRE</LocID>
-				<Text>Increased Intracranial Pressure</Text>
+				<Text>頭蓋内圧の上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_INC_INTRAPRE_DESC</LocID>
-				<Text>Increased intracranial pressure (ICP) is a rise in pressure around your brain. It may be due to an increase in the amount of fluid surrounding your brain. For example, there may be an increased amount of the cerebrospinal fluid that naturally cushions your brain or an increase in blood in the brain due to an injury or a ruptured tumour.</Text>
+				<Text>頭蓋内圧（ICP）の上昇とは、脳の周りの圧力が上昇することです。脳を取り囲む液体の量が増えることが原因である可能性があります。例えば、脳のクッションとなる脳脊髄液の量が増加したり、怪我や腫瘍の破裂によって脳内の血液が増加したりすることがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BRAIN_ABW</LocID>
-				<Text>Abnormal Brain Wave Patterns</Text>
+				<Text>異常な脳波パターン</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BRAIN_ABW_DESC</LocID>
-				<Text>EEG has detected abnormal brain wave patterns. Spikes, sharp waves, or spike-wave complexes occurring with consistent localization are observed sometimes early in the course of brain tumours. However, they are more common either as early findings of slowly growing neoplasms associated with seizures or later after focal slowing has developed.</Text>
+				<Text>患者の脳波に異常な脳波パターンを検出しています。スパイク、シャープウェーブ、スパイクウェーブコンプレックスが一定の局在で発生することは、脳腫瘍の経過の初期に時々観察されます。しかし、発作を伴う緩徐に成長する新生物の初期所見として、あるいは局所的な遅滞が生じた後の所見として、より一般的です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_LPT2</LocID>
-				<Text>Abnormal Mass Detected</Text>
+				<Text>異常な腫瘤の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_LPT2_DESC</LocID>
-				<Text>Testing has detected an abnormal mass within the patient, further testing is required to identify malignancy, type or progression.</Text>
+				<Text>検査により異常な腫瘤が検出された場合、悪性度、種類、進行度を特定するためにさらなる検査が必要です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_13</LocID>
-				<Text>Neurofibromatosis Type I (NF-1) Findings</Text>
+				<Text>神経線維腫症I型 (NF-1) の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_13_DESC</LocID>
-				<Text>Neurofibromatosis type I (NF-1) is a complex multi-system human disorder caused by the mutation of a gene on chromosome 17 that is responsible for production of a protein called neurofibromin which is needed for normal function in many human cell types. Approximately 10% of patients with neurofibromatosis I (NFI) patients will have central nervous system (CNS) tumours. The most common of these are hypothalamic-optic gliomas, followed by brainstem and cerebellar pilocytic astrocytomas.</Text>
+				<Text>神経線維腫症I型（NF-1）は、多くのヒトの細胞タイプにおいて正常な機能に必要なニューロフィブロミンというタンパク質の産生に関与する17番染色体上の遺伝子の変異によって引き起こされる複雑な多系統のヒト疾患です。神経線維腫症I型（NFI）の患者様の約10％に中枢神経系（CNS）腫瘍が認められます。最も多いのは視床下部-視索グリオーマで、次いで脳幹および小脳の毛様細胞性星細胞腫があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_EGB</LocID>
-				<Text>Eosinophilic Granular Bodies</Text>
+				<Text>好酸性顆粒体</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_EGB_DESC</LocID>
-				<Text>The frequent presence of eosinophilic granular bodies is often a useful clue in deterring a higher grade neoplasm toward a lower grade tumour, such as a pleomorphic xanthoastrocytoma (PXA) or a pilocytic astrocytoma.</Text>
+				<Text>好酸性顆粒体の頻繁な存在は、多形性黄色星細胞腫（PXA）や毛様細胞性星細胞腫のような低悪性度腫瘍と高悪性度新生物を区別する上でしばしば有用な手がかりとなります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ABSCESS</LocID>
-				<Text>Abscess</Text>
+				<Text>膿瘍</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_FND</LocID>
-				<Text>Focal Neurologic Deficit</Text>
+				<Text>局所神経障害</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_FND_DESC</LocID>
-				<Text>A focal neurologic deficit is a problem with nerve, spinal cord, or brain function. It affects a specific location, such as the left side of the face, right arm, or even a small area such as the tongue. Speech, vision, and hearing problems are also considered focal neurological deficits.</Text>
+				<Text>局所神経障害とは、神経、脊髄、または脳の機能に問題があることです。顔の左側、右腕、あるいは舌のような小さな部位など、特定の場所に影響を及ぼします。言語、視覚、聴覚の問題も、局所神経障害とみなされます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CMD</LocID>
-				<Text>Calcified Mineral Deposits</Text>
+				<Text>脳石(脳内リン酸カルシウム沈着)</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CMD_DESC</LocID>
-				<Text>Brain stones or cerebral calculi are defined as large solid intracranial calcifications. While considered by many to be benign, these calcium phosphate deposits or "brain stones" can become large and are associated with neurological symptoms that range from seizures to parkinsonian symptoms. Dystrophic calcifications are most commonly seen in areas of brain injury such as trauma, surgery, stroke and radiation treatment.</Text>
+				<Text>脳石は、頭蓋内の大きな固形石灰化として定義されています。多くの人は良性とみなしていますが、これらのリン酸カルシウム沈着物または「脳石」は大きくなることがあり、発作からパーキンソン病症状まで、幅広い神経学的症状を伴います。萎縮性石灰化は、外傷、手術、脳卒中、放射線治療などの脳損傷部位に最も多くみられます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_DYSPHASIA</LocID>
-				<Text>Dysphasia</Text>
+				<Text>発語障害</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_14</LocID>
-				<Text>Li-Fraumeni Syndrome (LFS)</Text>
+				<Text>リ・フラウメニ症候群</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_14_DESC</LocID>
-				<Text>Li-Fraumeni syndrome (LFS) is an inherited familial predisposition to a wide range of certain, often rare, cancers. This is due to a change (mutation) in a tumour suppressor gene known as TP53.</Text>
+				<Text>リ・フラウメ二症候群（LFS）は、遺伝性の家族性素因で、特定の、多くはまれな、幅広い種類の癌を発症します。これは、TP53と呼ばれる腫瘍抑制遺伝子の変化（突然変異）に起因します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_DYSPHASIA_DESC</LocID>
-				<Text>Dysphasia is a language disorder marked by deficiency in the generation of speech, and sometimes also in its comprehension, due to brain disease or damage.</Text>
+				<Text>失語症は、脳の病気や障害によって、言葉を発すること、時には理解することもできない言語障害です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_MCRO_CYSTS</LocID>
-				<Text>Microcysts</Text>
+				<Text>小嚢胞（マイクロシスト）</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_MCRO_CYSTS_DESC</LocID>
-				<Text>A microcyst is simply a very small cyst. Cysts are an abnormal, usually noncancerous growth filled with liquid or a semisolid substance, sometimes causing pain.</Text>
+				<Text>マイクロシストとは、簡単に言えば非常に小さな嚢胞のことです。嚢胞は、液体または半固体の物質で満たされた異常な、通常は非癌性の成長であり、時には痛みを引き起こします。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_KI67_LLI</LocID>
-				<Text>Antigen KI-67 Low Labeling Index</Text>
+				<Text>KI-67抗原 低いラベルインデックス</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_KI67_LLI_DESC</LocID>
-				<Text>Antigen KI-67 also known as Ki-67 or MKI67 is a protein that in humans is encoded by the MKI67 gene (antigen identified by monoclonal antibody Ki-67). Ki-67 is an excellent marker to determine the growth fraction of a given cell population. The fraction of Ki-67-positive tumour cells (the Ki-67 labeling index) is often correlated with the clinical course of cancer.</Text>
+				<Text>抗原 KI-67 は、Ki-67 または MKI67 とも呼ばれ、ヒトでは MKI67 遺伝子によってコードされるタンパク質です（モノクローナル抗体 Ki-67 によって抗原が同定されます）。Ki-67は、ある細胞集団の増殖割合を決定するための優れたマーカーです。Ki-67陽性の腫瘍細胞の割合（Ki-67標識指数）は、しばしば癌の臨床経過と相関します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_KI67_BLI</LocID>
-				<Text>Antigen KI-67 Brisk Labeling Index</Text>
+				<Text>KI-67抗原 活発なラベルインデックス</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_15</LocID>
-				<Text>Loss of Heterozygosity</Text>
+				<Text>ヘテロ接合性消失</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_15_DESC</LocID>
-				<Text>Loss of heterozygosity on chromosome arm 10q is the most frequent gene alteration for both primary and secondary glioblastomas; it occurs in 60-90% of cases. This mutation appears to be specific for glioblastoma multiforme and is found rarely in other tumour grades. This mutation is associated with poor survival. LOH at 10q plus 1 or 2 of the additional gene mutations appear to be frequent alterations and are most likely major players in the development of glioblastomas.</Text>
+				<Text>染色体10q上のヘテロ接合体喪失は、原発性および二次性膠芽腫の両方で最も頻度の高い遺伝子変化であり、60-90％の症例で発生します。この突然変異は多形性膠芽腫に特異的であるように思われ、他の腫瘍の悪性度ではまれに認められます。この変異は生存率の低下と関連しています。10qにおけるLOHおよび追加の遺伝子変異の1つまたは2つは頻繁に起こる変化であり、膠芽腫の発生に主要な役割を果たす可能性が最も高いと考えられています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_16</LocID>
-				<Text>Overexpression of PDGFR</Text>
+				<Text>PDGFRの過剰発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_16_DESC</LocID>
-				<Text>Platelet-derived growth factor (PDGF) is one among numerous growth factors that regulate cell growth and division. In particular, PDGF plays a significant role in blood vessel formation, the growth of blood vessels from already-existing blood vessel tissue, mitogenesis, i.e. proliferation, of mesenchymal cells. In Oncology, the PDGF gene acts as a major mitogen for glial cells by binding to the PDGF receptor (PDGFR). Amplification or overexpression of PDGFR is typical in the pathway leading to secondary glioblastomas.</Text>
+				<Text>血小板由来成長因子（PDGF）は、細胞の増殖や分裂を制御する数多くの成長因子のうちの一つです。特に、血管の形成、既存の血管組織からの血管の成長、間葉系細胞の分裂、すなわち増殖に重要な役割を担っています。オンコロジーでは、PDGF遺伝子はPDGF受容体（PDGFR）と結合することにより、グリア細胞の主要な分裂促進因子として作用します。PDGFRの増幅や過剰発現は、二次性膠芽腫に至る経路の典型です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_017</LocID>
-				<Text>IDH1/IDH2 Mutation Negative</Text>
+				<Text>IDH1/IDH2 陰性変異</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_DYSPAREUNIA</LocID>
-				<Text>Dyspareunia (Female)</Text>
+				<Text>性交疼痛症 (女性)</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_DYSPAREUNIA_DESC</LocID>
-				<Text>Painful intercourse can occur for reasons that range from structural problems to psychological concerns. Many women have painful intercourse at some point in their lives. The medical term for painful intercourse is dyspareunia, defined as persistent or recurrent genital pain that occurs just before, during or after intercourse.</Text>
+				<Text>性交痛は、構造的な問題から心理的な懸念まで、さまざまな理由で発生します。多くの女性が、人生のある時点で性交痛に悩まされることになります。性交痛の医学用語は性交疼痛症で、性交の直前、最中、または後に起こる持続性または再発性の性器痛と定義されています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CMA_CA125</LocID>
-				<Text>Cancer Antigen 125 High Blood Levels</Text>
+				<Text>がん抗体125の血中濃度の上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CMA_CA125_DESC</LocID>
-				<Text>CA-125 also known as mucin 16 or MUC16 is a protein that in humans is encoded by the MUC16 gene. MUC16 is a member of the mucin family glycoproteins. A CA 125 test measures the amount of the protein CA 125 (cancer antigen 125) in your blood. A CA 125 test may be used to monitor certain cancers during and after treatment. In some cases, a CA 125 test may be used to look for early signs of ovarian cancer in people with a very high risk of the disease. The amount of CA-125 is higher with ovarian cancer. In premenopausal women, many other illnesses or diseases besides cancer can cause higher levels of CA-125.</Text>
+				<Text>CA-125は、ムチン16またはMUC16としても知られており、ヒトではMUC16遺伝子によってコードされているタンパク質です。MUC16は、ムチンファミリーの糖タンパク質のメンバーです。CA 125検査は、血液中のCA 125（癌抗原125）というタンパク質の量を測定します。CA 125検査は、治療中や治療後に特定のがんをモニタリングするために用いられることがあります。場合によっては、卵巣がんのリスクが非常に高い人の卵巣がんの初期徴候を調べるために、CA 125検査が用いられることがあります。CA-125の量は、卵巣癌で多くなります。閉経前の女性では、がん以外にも多くの病気や疾患がCA-125の値を高くする原因となります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_EARLY_SAT</LocID>
-				<Text>Early Satiety</Text>
+				<Text>早期満腹感</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_EARLY_SAT_DESC</LocID>
-				<Text>Early satiety is the inability to eat a full meal or feeling full after only a small amount of food.</Text>
+				<Text>早期満腹感とは、お腹いっぱい食べられない、または少量の食事で満腹感を感じることです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_PMPB</LocID>
-				<Text>Postmenopausal Bleeding</Text>
+				<Text>閉経後出血</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_PMPB_DESC</LocID>
-				<Text>Postmenopausal bleeding (PMB) is defined as bleeding that occurs after 1 year of amenorrhea in a woman who is not receiving hormone therapy (HT). Women on continuous progesterone and oestrogen hormone therapy can expect to have irregular vaginal bleeding, especially for the first 6 months. There can be several causes of postmenopausal bleeding. The most common causes are: inflammation and thinning of the vaginal lining (atrophic vaginitis) or womb lining (endometrial atrophy) – caused by lower oestrogen levels.</Text>
+				<Text>閉経後出血（PMB）は、ホルモン療法（HT）を受けていない女性において、1年間の無月経後に起こる出血と定義されます。プロゲステロンとエストロゲンのホルモン療法を継続している女性は、特に最初の6ヶ月間は不規則な膣からの出血があることが予想されます。閉経後の出血にはいくつかの原因が考えられます。最も一般的な原因は、エストロゲン濃度の低下による膣内膜（萎縮性膣炎）または子宮内膜（子宮内膜萎縮）の炎症と薄化です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_IRR_MNS</LocID>
-				<Text>Irregular Menstruation</Text>
+				<Text>月経不順</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_IRR_MNS_DESC</LocID>
-				<Text>Missed, delayed or erratic periods or abnormal bleeding patterns. Irregular menstruation can have causes that aren't due to underlying disease. Examples include family history of irregular menstruation, menopause or menarche, physical stress, psychological stress, smoking or medication side effects.</Text>
+				<Text>生理が来ない、遅れる、不規則になる、出血パターンに異常があるなどの状態です。月経不順には、基礎疾患以外の原因があることもあります。例えば、月経不順の家族歴、更年期や初潮、身体的ストレス、心理的ストレス、喫煙、薬の副作用などがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_APM</LocID>
-				<Text>Abnormal Pelvic Mass Detected</Text>
+				<Text>骨盤内の異常な腫瘤を検出</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_APM_DESC</LocID>
-				<Text>A pelvic mass is an enlargement or swelling in the pelvic region. Most pelvic masses are discovered during routine gynaecologic or physical examinations. Pelvic masses may originate from either the gynaecologic organs, such as the cervix, uterus, uterine adnexa, or from other pelvic organs, such as the intestines, bladder, ureters, and renal organs. There are many gynecologic problems that can result in a pelvic mass. Additionally, there are other diseases that may also result in a pelvic mass. Most are benign conditions, such as an Ovarian Cyst, while others can be related to gynecologic cancer.</Text>
+				<Text>骨盤内腫瘤とは、骨盤内の肥大や腫れを指します。骨盤内腫瘤の多くは、定期的な婦人科検診や健康診断で発見されます。骨盤内腫瘤は、子宮頸部、子宮、子宮付属器などの婦人科系器官、または腸、膀胱、尿管、腎臓などのその他の骨盤内器官から発生することがあります。骨盤内腫瘤の原因となる婦人科系の病気はたくさんあります。さらに、骨盤内腫瘤を引き起こす可能性のある他の病気もあります。多くは卵巣嚢腫のような良性の疾患ですが、婦人科がんに関係するものもあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_OVAR_CYST</LocID>
-				<Text>Ovarian Cysts</Text>
+				<Text>卵巣嚢腫</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_OVAR_CYST_DESC</LocID>
-				<Text>Ovarian cysts are fluid-filled sacs or pockets in an ovary or on its surface. Most ovarian cysts don't cause symptoms. In some cases, menstrual irregularities, pain during intercourse or irregular bowel movements can occur. Most ovarian cysts are harmless and often clear up on their own without treatment.</Text>
+				<Text>卵巣嚢腫は、卵巣の中や表面にある、液体を含んだ袋やポケットです。ほとんどの場合、卵巣嚢腫は症状を起こしません。場合によっては、月経不順、性交時の痛み、不規則な排便などが起こることがあります。ほとんどの卵巣嚢腫は無害で、治療をしなくても自然に治ることが多いです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_004</LocID>
-				<Text>Micropapillary Invasion Pattern</Text>
+				<Text>浸潤性微小乳頭状構造</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_004_DESC</LocID>
-				<Text>A micropapillary pattern is defined as a pattern showing micropapillary structures without a fibrovascular core. It is well known that the presence of a micropapillary pattern leads to a poorer prognosis in ovary, breast and bladder cancer.</Text>
+				<Text>微小乳頭状構造とは、線維血管のコアを持たない微小な乳頭構造を示すパターンと定義されます。卵巣がん、乳がん、膀胱がんなどでは、微小乳頭状パターンがあると経過が悪くなることがよく知られています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_005</LocID>
-				<Text>Psammoma Body</Text>
+				<Text>砂粒体</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_005_DESC</LocID>
-				<Text>Psammoma bodies are round microscopic calcific collections. Psammoma bodies are a common finding in well-differentiated serous carcinoma and they may be found in association with malignant glandular cells detected with cervicovaginal cytology.</Text>
+				<Text>砂粒体は、丸い顕微鏡的な石灰質の集塊です。砂粒体は、高分化型漿液性がんでよくみられる所見であり、子宮頸管細胞診で検出される悪性腺房細胞と関連して認められることがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_18</LocID>
-				<Text>BRAF V599E Mutation Detected</Text>
+				<Text>B-Raf癌遺伝子の変異を発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_18_DESC</LocID>
-				<Text>The B-Raf proto-oncogene (BRAF) encodes a cytoplasmic serine/threonine kinase with a key role in regulating the mitogen-activated protein kinase signal transduction pathway. Mutations in the BRAF-gene are found in benign and malignant melanocytic lesions, >90% being a V599E mutation. This mutation results in constitutively active kinase function and increased colony formation in vitro.</Text>
+				<Text>B-Raf癌遺伝子（BRAF）は、細胞質セリン・スレオニンキナーゼをコードし、分裂促進因子活性化タンパク質キナーゼのシグナル伝達経路を制御する重要な役割を担っています。BRAF遺伝子の変異は、良性および悪性のメラノサイト病変で認められ、90％以上がV599E変異です。この変異により、キナーゼの機能が構成的に活性化され、試験でのコロニー形成が増加します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ASCITES</LocID>
-				<Text>Ascites</Text>
+				<Text>腹水</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ASCITES_DESC</LocID>
-				<Text>Abdominal swelling caused by accumulation of fluid, most often related to liver disease.</Text>
+				<Text>体液の蓄積によって起こる腹部の腫れで、肝臓の病気に関係することが多いです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_PLEURAL_EFFUSION</LocID>
-				<Text>Pleural Effusion</Text>
+				<Text>胸水</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_PLEURAL_EFFUSION_DESC</LocID>
-				<Text>Pleural effusion, sometimes referred to as “water on the lungs,” is the build-up of excess fluid between the layers of the pleura outside the lungs. The pleura are thin membranes that line the lungs and the inside of the chest cavity and act to lubricate and facilitate breathing.</Text>
+				<Text>胸水とは、肺の外側にある胸膜の層の間に過剰な液体が溜まることで、「肺に水が溜まる」とも呼ばれます。胸膜は、肺と胸腔の内側を覆っている薄い膜で、潤滑油のような役割を果たし、呼吸を容易にします。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD146_BRIGHT</LocID>
-				<Text>MCAM (CD146) Bright Expression</Text>
+				<Text>メラノーマ細胞接着分子 (CD146) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD146_BRIGHT_DESC</LocID>
-				<Text>Melanoma cell adhesion molecule (MCAM) is a cell adhesion molecule that is abnormally expressed in a variety of tumours and is closely associated with tumour metastasis.</Text>
+				<Text>メラノーマ細胞接着分子（MCAM）は、様々な腫瘍で異常発現している細胞接着分子で、腫瘍の転移と密接に関係しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CK7_BRIGHT</LocID>
-				<Text>Keratin 7 (CK7) Bright Expression</Text>
+				<Text>ケラチン 7 (CK7) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CK7_BRIGHT_DESC</LocID>
-				<Text>Keratin, type II cytoskeletal 7 also known as cytokeratin-7 (CK-7) or keratin-7 (K7) or sarcolectin (SCL) is a protein that in humans is encoded by the KRT7 gene. Keratin-7 is found in simple glandular epithelia, and in transitional epithelium. Epithelial cells of the lung and breast both contain keratin-7, but some other glandular epithelia, such as those of the colon and prostate, do not. Because the keratin-7 antigen is found in both healthy and neoplastic cells, antibodies to CK7 can be used in immunohistochemistry to distinguish ovarian and transitional cell carcinomas from colonic and prostate cancers, respectively. It is commonly used together with CK20 when making such diagnoses.</Text>
+				<Text>ケラチン、II型細胞骨格7は、サイトケラチン-7（CK-7）、ケラチン-7（K7）、サルコレクチン（SCL）としても知られており、ヒトではKRT7遺伝子によりコードされているタンパク質です。ケラチン-7は、単純腺上皮および移行上皮に存在します。肺と乳房の上皮細胞は共にケラチン-7を含んでいますが、結腸や前立腺の上皮のような他の腺上皮には含まれないものもあります。ケラチン-7抗原は健常細胞と腫瘍細胞の両方に存在するため、CK7に対する抗体を免疫組織化学的に用いて、卵巣癌と移行細胞癌をそれぞれ結腸癌と前立腺癌から区別することができます。このような診断を行う場合、CK20とともに使用されるのが一般的です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CK7_NEG</LocID>
-				<Text>Keratin 7 (CK7) Negative Expression</Text>
+				<Text>ケラチン7 (CK7) 陰性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CK7_NEG_DESC</LocID>
-				<Text>Keratin, type II cytoskeletal 7 also known as cytokeratin-7 (CK-7) or keratin-7 (K7) or sarcolectin (SCL) is a protein that in humans is encoded by the KRT7 gene. Keratin-7 is found in simple glandular epithelia, and in transitional epithelium. Epithelial cells of the lung and breast both contain keratin-7, but some other glandular epithelia, such as those of the colon and prostate, do not. Because the keratin-7 antigen is found in both healthy and neoplastic cells, antibodies to CK7 can be used in immunohistochemistry to distinguish ovarian and transitional cell carcinomas from colonic and prostate cancers, respectively. It is commonly used together with CK20 when making such diagnoses.</Text>
+				<Text>ケラチン、II型細胞骨格7は、サイトケラチン-7（CK-7）、ケラチン-7（K7）、サルコレクチン（SCL）としても知られており、ヒトではKRT7遺伝子によりコードされているタンパク質です。ケラチン-7は、単純腺上皮および移行上皮に存在します。肺と乳房の上皮細胞は共にケラチン-7を含んでいますが、結腸や前立腺の上皮のような他の腺上皮には含まれないものもあります。ケラチン-7抗原は健常細胞と腫瘍細胞の両方に存在するため、CK7に対する抗体を免疫組織化学的に用いて、卵巣癌と移行細胞癌をそれぞれ結腸癌と前立腺癌から区別することができます。このような診断を行う場合、CK20とともに使用されるのが一般的です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CK20_BRIGHT</LocID>
-				<Text>Keratin 20 (CK20) Bright Expression</Text>
+				<Text>ケラチン 20 (CK20) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CK20_BRIGHT_DESC</LocID>
-				<Text>Keratin 20, often abbreviated CK20, is a protein that in humans is encoded by the KRT20 gene. In immunohistochemistry, antibodies to CK20 can be used to identify a range of adenocarcinoma arising from epithelia that normally contain the CK20 protein. For example, the protein is commonly found in colorectal cancer, transitional cell carcinomas and in Merkel cell carcinoma, but is absent in lung cancer, prostate cancer, and non-mucinous ovarian cancer. It is often used in combination with antibodies to CK7 to distinguish different types of glandular tumour.</Text>
+				<Text>ケラチン20は、しばしばCK20と略され、ヒトではKRT20遺伝子にコードされるタンパク質です。免疫組織化学において、CK20に対する抗体は、通常CK20タンパク質を含む上皮から生じる様々な腺癌の同定に使用することができます。例えば、このタンパク質は大腸がん、移行細胞がん、メルケル細胞がんによく見られるが、肺がん、前立腺がん、非粘液性卵巣がんでは存在しません。異なるタイプの腺癌を区別するために、CK7に対する抗体と組み合わせて使用されることが多いです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CK20_NEG</LocID>
-				<Text>Keratin 20 (CK20) Negative Expression</Text>
+				<Text>ケラチン 20 (CK20) 陰性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CK20_NEG_DESC</LocID>
-				<Text>Keratin 20, often abbreviated CK20, is a protein that in humans is encoded by the KRT20 gene. In immunohistochemistry, antibodies to CK20 can be used to identify a range of adenocarcinoma arising from epithelia that normally contain the CK20 protein. For example, the protein is commonly found in colorectal cancer, transitional cell carcinomas and in Merkel cell carcinoma, but is absent in lung cancer, prostate cancer, and non-mucinous ovarian cancer. It is often used in combination with antibodies to CK7 to distinguish different types of glandular tumour.</Text>
+				<Text>ケラチン20は、しばしばCK20と略され、ヒトではKRT20遺伝子にコードされるタンパク質です。免疫組織化学において、CK20に対する抗体は、通常CK20タンパク質を含む上皮から生じる様々な腺癌の同定に使用することができます。例えば、このタンパク質は大腸がん、移行細胞がん、メルケル細胞がんによく見られるが、肺がん、前立腺がん、非粘液性卵巣がんでは存在しません。異なるタイプの腺癌を区別するために、CK7に対する抗体と組み合わせて使用されることが多いです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_17</LocID>
-				<Text>IDH1/IDH2 Negative Findings</Text>
+				<Text>IDH1/IDH2 陰性所見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_17_DESC</LocID>
-				<Text>Isocitrate dehydrogenase (IDH) is a key enzyme involved in the conversion of isocitrate to α-ketoglutarate (α-KG) in the tricarboxylic acid (TCA) cycle. IDH mutation produces a neomorphic enzyme, which can lead to the abnormal accumulation of R-2-HG and promotes leukemogenesis. IDH mutation occurs in 20% of acute myeloid leukemia (AML) patients, mainly including IDH1 R132, IDH2 R140, and IDH2 R172.</Text>
+				<Text>イソクエン酸デヒドロゲナーゼ（IDH）は、トリカルボン酸サイクルにおいてイソクエン酸からα-ケトグルタル酸（α-KG）への変換に関与する重要な酵素です。IDHの変異により新型酵素が生成され、R-2-HGの異常蓄積を引き起こし、白血病の発症を促進することがあります。IDH変異は急性骨髄性白血病（AML）患者の20％に認められ、主にIDH1 R132、IDH2 R140、IDH2 R172が含まれます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_PSA_BL_DETECTED</LocID>
-				<Text>Prostate Specific Antigen High Levels</Text>
+				<Text>前立腺特異抗原の血中濃度の上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_PSA_BL_DETECTED_DESC</LocID>
-				<Text>Prostate specific antigen (PSA) is a glycoprotein produced solely by the prostate. Its function is to liquefy semen. Small amounts leak into the bloodstream, where it can be measured. Prostate specific antigen is tissue-specific but not cancer-specific. Elevated levels can occur in men with benign prostatic hypertrophy (BPH), prostatitis, urinary tract infection or prostatic infarction.</Text>
+				<Text>前立腺特異抗原（PSA）は、前立腺のみで産生される糖タンパク質です。その働きは、精液を液化させることです。少量でも血流に漏れるので、測定が可能です。前立腺特異抗原は組織特異的ですが、がん特異的ではありません。前立腺肥大症、前立腺炎、尿路感染症、前立腺梗塞の男性では、値が上昇することがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_DYSORGASMIA</LocID>
-				<Text>Dysorgasmia</Text>
+				<Text>オーガズム障害</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_DYSORGASMIA_DESC</LocID>
-				<Text>Dysorgasmia is defined as a painful orgasm, but without any prior pain during sexual intercourse. The pain is often a cramping sensation in the pelvis, buttock or abdomen.</Text>
+				<Text>オーガズム障害は、オーガズム時に痛みを感じるものの、性交時に事前の痛みがないものと定義されています。痛みは、骨盤、臀部、腹部のけいれん感覚であることが多いです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_APM1</LocID>
-				<Text>Abnormal Prostate Findings</Text>
+				<Text>前立腺の異常の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_APM1_DESC</LocID>
-				<Text>Testing has found abnormalities with the patient's prostate.</Text>
+				<Text>検査で前立腺に異常が見つかりました。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_DIFF_URINE</LocID>
-				<Text>Urinary Retention</Text>
+				<Text>尿閉</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_DIFF_URINE_DESC</LocID>
-				<Text>Difficulty urinating and completely emptying the bladder. Urinary retention can have causes that aren't due to underlying disease. Examples include holding in urine intentionally or medication side effects.</Text>
+				<Text>排尿が困難で、膀胱を完全に空にすることができない状態です。尿閉の原因は、基礎疾患によるものではない場合もあります。例えば、意図的に尿を我慢している場合や、薬の副作用などが挙げられます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_NIGHT_URGE</LocID>
-				<Text>Frequent Urination at Night</Text>
+				<Text>夜間頻尿</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_NIGHT_URGE_DESC</LocID>
-				<Text>A frequent need to get up and go to the bathroom to urinate at night is called nocturia. It differs from enuresis, or bedwetting, in which the person does not arouse from sleep, but the bladder empties anyway. Nocturia is a common cause of sleep loss, especially among older adults.</Text>
+				<Text>夜中に頻繁にトイレに起きて排尿したくなることを夜間頻尿といいます。夜間頻尿は、眠りから覚めなくても膀胱が空っぽになってしまうおねしょとは異なります。夜間頻尿は、特に高齢者の睡眠不足の原因としてよく知られています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_UAS_PCA3</LocID>
-				<Text>Prostate Cancer Antigen 3 High Levels</Text>
+				<Text>前立腺癌抗原3 発現の上昇</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_UAS_PCA3_DESC</LocID>
-				<Text>Prostate cancer antigen 3 (PCA3) is highly expressed in prostatic tumours. Testing has returned high urine levels of PCA3.</Text>
+				<Text>前立腺癌抗原3（PCA3）が前立腺腫瘍に高レベルで発現しています。検査では、尿中のPCA3濃度が高いことが判明しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ED</LocID>
-				<Text>Erectile Dysfunction</Text>
+				<Text>勃起不全（ED）</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ED_DESC</LocID>
-				<Text>Erectile dysfunction (ED) is the inability to get or keep an erection firm enough to have sexual intercourse. It's sometimes referred to as impotence, although this term is now used less often. Occasional ED isn't uncommon. Many men experience it during times of stress. Erectile dysfunction following radical prostatectomy for clinically localized prostate cancer is a known potential complication of the surgery.</Text>
+				<Text>勃起不全（ED）とは、性行為を行うのに十分な硬さの勃起が得られない、または維持できない状態を指します。インポテンスと呼ばれることもありますが、現在ではこの言葉はあまり使われなくなりました。時々起こる勃起障害は珍しいことではありません。多くの男性は、ストレスがかかったときに経験します。臨床的限局性前立腺がんに対する根治的前立腺切除術後の勃起不全は、手術の潜在的合併症として知られています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HEMATOSPERMIA</LocID>
-				<Text>Hematospermia</Text>
+				<Text>血精液症</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HEMATOSPERMIA_DESC</LocID>
-				<Text>Hematospermia is defined as blood in the semen. While often perceived as having little significance, blood in the ejaculate can cause great concern to the men who experience it. The condition is common, with many episodes going unnoticed; therefore, the prevalence of hematospermia remains unknown.</Text>
+				<Text>血精液症とは、精液中に血液が混じっている状態を指します。精液に血が混じることは、あまり意味のないことと思われがちですが、それを経験した男性にとっては大きな不安材料となることがあります。この症状は一般的であり、多くの場合、気づかれずに終わるため、血精液症の有病率は不明です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPERCALCEMIA</LocID>
-				<Text>Hypercalcemia</Text>
+				<Text>高カルシウム血症</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_HYPERCALCEMIA_DESC</LocID>
-				<Text>Hypercalcemia is a condition in which the calcium level in your blood is above normal. Hypercalcaemia is most often caused by overactivity in the four tiny glands in the neck (parathyroid glands) or from cancer. Extra calcium in the blood affects many bodily systems.</Text>
+				<Text>高カルシウム血症とは、血液中のカルシウム濃度が正常値を超えている状態のことです。高カルシウム血症は、首にある4つの小さな腺（副甲状腺）の過剰な活動や、がんによって起こることがほとんどです。血液中の余分なカルシウムは、多くの身体システムに影響を及ぼします。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SEVERE_HYPERCALCEMIA</LocID>
-				<Text>Severe Hypercalcemia</Text>
+				<Text>重度の高カルシウム血症</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SEVERE_HYPERCALCEMIA_DESC</LocID>
-				<Text>Severe hypercalcemia is a medical emergency requiring urgent treatment. Hypercalcemia is a condition in which the calcium level in your blood is above normal. Rarely, severe hypercalcemia can interfere with your heart function, causing palpitations and fainting, indications of cardiac arrhythmia, and other heart problems.</Text>
+				<Text>重度の高カルシウム血症は、緊急に治療が必要な医学的な緊急事態です。高カルシウム血症とは、血液中のカルシウム濃度が正常値を超えている状態のことです。まれに、重度の高カルシウム血症が心臓の機能を妨げ、動悸や失神、不整脈の徴候、その他の心臓の問題を引き起こすことがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
@@ -1563,132 +1563,132 @@
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD30_BRIGHT</LocID>
-				<Text>CD30 Antigen Bright Expression</Text>
+				<Text>CD30抗原 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD30_BRIGHT_DESC</LocID>
-				<Text>CD30, also known as TNFRSF8, is a cell membrane protein of the tumour necrosis factor receptor family and tumour marker. This receptor is expressed by activated, but not by resting, T and B cells. TRAF2 and TRAF5 can interact with this receptor, and mediate the signal transduction that leads to the activation of NF-kappaB. CD30 is associated with anaplastic large cell lymphoma. It is expressed in embryonal carcinoma but not in seminoma and is thus a useful marker in distinguishing between these germ cell tumours. CD30 and CD15 are also expressed on Reed-Sternberg cells typical for Hodgkin's lymphoma.</Text>
+				<Text>CD30は、TNFRSF8としても知られ、腫瘍壊死因子受容体ファミリーの細胞膜タンパク質であり、腫瘍マーカーです。この受容体は、活性化されたT細胞およびB細胞によって発現されますが、静止しているT細胞およびB細胞には発現されません。TRAF2 と TRAF5 はこの受容体と相互作用し、NF-kappaB の活性化につながる信号伝達を媒介することができます。CD30 は未分化大細胞リンパ腫に関連しています。胚性癌では発現していますが、精巣腫瘍では発現していないため、これらの生殖細胞腫瘍を区別する上で有用なマーカーです。CD30とCD15は、ホジキンリンパ腫に典型的なReed-Sternberg細胞にも発現しています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD45_BRIGHT</LocID>
-				<Text>PTPRC (CD45) Bright Expression</Text>
+				<Text>PTPRC (CD45) 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_CD45_BRIGHT_DESC</LocID>
-				<Text>Protein tyrosine phosphatase, receptor type, C also known as PTPRC is an enzyme that, in humans, is encoded by the PTPRC gene. PTPRC is also known as CD45 antigen (CD stands for cluster of differentiation), which was originally called leukocyte common antigen (LCA). CD45 is a pan-leukocyte protein with tyrosine phosphatase activity involved in the regulation of signal transduction in hematopoiesis. CD45 does not colocalize with lipid rafts on murine and human non-transformed hematopoietic cells, but CD45 positioning within lipid rafts is modified during their oncogenic transformation to acute myeloid leukemia.</Text>
+				<Text>タンパクチロシンホスファターゼ、受容体型、Cは、PTPRCとも呼ばれ、ヒトではPTPRC遺伝子によってコードされている酵素です。PTPRCはCD45抗原（CDはCluster of Differentiationの略）としても知られており、当初は白血球共通抗原（LCA）と呼ばれていました。CD45は、チロシンホスファターゼ活性を持つ汎白血球タンパク質で、造血におけるシグナル伝達の制御に関与しています。CD45は、マウスやヒトの非転移性造血細胞では脂質ラフトと共局在しませんが、急性骨髄性白血病への発がん過程において脂質ラフト内でのCD45の位置が変化します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_19</LocID>
-				<Text>IGH-BCL2 Translocation</Text>
+				<Text>IGH-BCL2 転座</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_19_DESC</LocID>
-				<Text>The hallmark of Follicular lymphoma (FL) is the aberrant translocation t(14; 18)(q32; q21) involving the IgH locus on chromosome 14 and BCL2 gene on chromosome 18.</Text>
+				<Text>濾胞性リンパ腫（FL）の特徴は、14番染色体上のIgH遺伝子座と18番染色体上のBCL2遺伝子が関与する異常転座t(14; 18)(q32; q21)であることです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_20</LocID>
-				<Text>BCL6 (3q27) Hypermutation</Text>
+				<Text>BCL6 (3q27) 超変異</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_20_DESC</LocID>
-				<Text>B-cell lymphoma 6 protein is a protein that in humans is encoded by the BCL6 gene. Like BCL2, BCL3, BCL5, BCL7A, BCL9 and BCL10, it has clinical significance in lymphoma. The protein encoded by this gene is an evolutionarily conserved zinc finger transcription factor and contains an N-terminal POZ/BTB domain. This protein acts as a sequence-specific repressor of transcription and has been shown to modulate the STAT-dependent Interleukin 4 (IL-4) responses of B cells. This protein can interact with several corepressor complexes to inhibit transcription. This gene is found to be frequently translocated and hypermutated in diffuse large B cell lymphoma (DLBCL).</Text>
+				<Text>B細胞リンパ腫6タンパク質は、ヒトではBCL6遺伝子にコードされるタンパク質です。BCL2、BCL3、BCL5、BCL7A、BCL9、BCL10と同様に、リンパ腫における臨床的意義があります。この遺伝子にコードされるタンパク質は、進化的に保存されたジンクフィンガー転写因子であり、N-末端のPOZ/BTBドメインを含んでいます。このタンパク質は、配列特異的な転写抑制因子として働き、B細胞のSTAT依存的なインターロイキン4 (IL-4) 応答を調節することが示されています。このタンパク質は、いくつかのコアプレッシャー複合体と相互作用して、転写を抑制することができます。この遺伝子は、びまん性大細胞型B細胞リンパ腫（DLBCL）において頻繁に転座し、高変異を示すことが分かっています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_BLC2_BRIGHT</LocID>
-				<Text>BCL2 Bright Expression</Text>
+				<Text>BCL2 陽性発現</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CM_BLC2_BRIGHT_DESC</LocID>
-				<Text>Bcl-2 (B-cell lymphoma 2), encoded in humans by the BCL2 gene, is the founding member of the Bcl-2 family of regulator proteins that regulate cell death (apoptosis), by either inhibiting (anti-apoptotic) or inducing (pro-apoptotic) apoptosis. Antibodies to Bcl-2 can be used with immunohistochemistry to identify cells containing the antigen. In healthy tissue, these antibodies react with B-cells in the mantle zone, as well as some T-cells. However, positive cells increase considerably in follicular lymphoma, as well as many other forms of cancer. In some cases, the presence or absence of Bcl-2 staining in biopsies may be significant for the patient's prognosis or likelihood of relapse.</Text>
+				<Text>Bcl-2 (B-cell lymphoma 2) は、ヒトでは BCL2 遺伝子によってコードされており、細胞死（アポトーシス）を抑制（抗アポトーシス）または誘導（プロアポトーシス）することによって調節する Bcl-2 ファミリーの創設メンバーです。Bcl-2に対する抗体は、免疫組織化学的に抗原を含む細胞を同定するために使用することができます。健康な組織では、これらの抗体は、マントル帯のB細胞や一部のT細胞と反応します。しかし、濾胞性リンパ腫や他の多くの癌では、陽性細胞がかなり増加します。場合によっては、生検でのBcl-2染色の有無が、患者の予後や再発の可能性にとって重要な意味を持つことがあります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BL_DGP</LocID>
-				<Text>Diffuse Growth Pattern</Text>
+				<Text>びまん性成長パターン</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BL_DGP_DESC</LocID>
-				<Text>Vaguely nodular and/or diffuse cellular growth pattern.</Text>
+				<Text>漠然とした結節および/またはびまん性の細胞増殖パターン。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ABNORMAL_NODULE</LocID>
-				<Text>Abnormally Coloured Nodule</Text>
+				<Text>異常な色の結節</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_ABNORMAL_NODULE_DESC</LocID>
-				<Text>The patient has a nodule (a lump) on the skin that has a strange red/violet colour.</Text>
+				<Text>患者の皮膚に、赤や紫色の奇妙な色をした結節（しこり）があります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_MCP_VIR</LocID>
-				<Text>Merkel Cell Polyomavirus Findings</Text>
+				<Text>メルケル細胞ポリオーマウイルスの発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_MCP_VIR_DESC</LocID>
-				<Text>Merkel cell polyomavirus (MCV or MCPyV) was first described in January 2008 in Pittsburgh, Pennsylvania. It was the first example of a human viral pathogen discovered using unbiased metagenomic next-generation sequencing with a technique called digital transcriptome subtraction. MCV is one of seven currently known human oncoviruses. Detection of the virus is still at a research phase and is generally not available as a clinical test. Detection of viral DNA is performed by PCR or FISH.</Text>
+				<Text>メルケル細胞ポリオーマウイルス（MCVまたはMCPyV）は、2008年1月にペンシルバニア州ピッツバーグで初めて報告されました。これは、デジタル・トランスクリプトーム・サブトラクションと呼ばれる技術を用いた偏りのないメタゲノム次世代シーケンシングによって発見された、ヒトウイルス性病原体の最初の例でした。MCVは、現在知られている7種類のヒト腫瘍ウィルスのうちの1つです。このウイルスの検出はまだ研究段階であり、一般に臨床検査として利用することはできません。ウイルスDNAの検出は、PCR法またはFISH法により行われます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_MCP_VIR_EL</LocID>
-				<Text>Electron Microscope MCV Findings</Text>
+				<Text>電子顕微鏡によるMCV発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_MCP_VIR_EL_DESC</LocID>
-				<Text>Transmission electron microscopy of MCV VLP at ×50,000 magnification shows characteristic polyomaviral icosahedral capsid structures. This evidence points towards Merkel cell polyomavirus or MCV, which is one of seven currently known human oncoviruses. </Text>
+				<Text>MCV VLPの透過型電子顕微鏡による50,000倍の観察では、ポリオマウイルスに特徴的な正20面体カプシド構造が観察されました。このことから、メルケル細胞ポリオーマウイルス（MCV）は、現在知られている7つのヒト腫瘍ウイルスのうちの1つであることが示唆されます。 </Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_006</LocID>
-				<Text>Cyclin D1 Overproduction</Text>
+				<Text>サイクリンD1過剰生産</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_SM_P_006_DESC</LocID>
-				<Text>Cyclin D1 is a protein that regulates entry of the cell into cell cycle. It drives the transition between G0 and G1 phase. In normal tissues, basal epithelial cells, endothelial cells, and stromal cells are often cyclin D1 positive, as these cells are going through the cell cycle. As a result of a translocation involving the cyclin D1 gene and IgH, t(11;14), the vast majority of mantle cell lymphomas overexpress cyclin D1. This is a useful feature in the classification of low-grade B-cell lymphomas.</Text>
+				<Text>サイクリンD1は、細胞が細胞周期に入るのを制御するタンパク質です。G0期とG1期の間の移行を駆動します。正常組織では、基底上皮細胞、内皮細胞、間質細胞は細胞周期を経ているため、サイクリンD1が陽性であることが多いです。マントル細胞リンパ腫の大部分は、サイクリンD1遺伝子とIgHの転座（t(11;14)）の結果、サイクリンD1が過剰発現しています。これは、低悪性度B細胞リンパ腫の分類に有用な特徴です。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_21</LocID>
-				<Text>IGH/CCND1 Translocation Findings</Text>
+				<Text>IGH/CCND1転座の発見</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_CDF_T_21_DESC</LocID>
-				<Text>IGH gene rearrangements are considered to be one of the classical cytogenetic gene aberrations associated with numerous cancers. The molecular hallmark of MCL, t(11;14)(q13;q32) (IGH/CCND1), results in deregulation and overexpression of the G1-phase cell cycle gene, CCND1 (encoding cyclin D1), mediated by enhancer elements found throughout the IGH locus.</Text>
+				<Text>IGH遺伝子再配列は、多くのがんに関連する古典的な細胞遺伝学的遺伝子異常のひとつと考えられています。MCLの分子的特徴であるt(11;14)(q13;q32) (IGH/CCND1) は、IGH遺伝子座全体に見られるエンハンサー要素を介したG1期細胞周期遺伝子CCND1（サイクリンD1をコード）の制御低下と過剰発現をもたらすものです。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BL_SPC</LocID>
-				<Text>Salt-and-Pepper Chromatin</Text>
+				<Text>胡麻塩状クロマチン</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BL_SPC_DESC</LocID>
-				<Text>In pathology, salt-and-pepper chromatin, also salt-and-pepper nuclei and stippled chromatin, refers to cell nuclei that demonstrate granular chromatin (on light microscopy). Salt-and-pepper chromatin is typically seen in endocrine tumours such as medullary thyroid carcinoma, neuroendocrine tumours and pheochromocytoma.</Text>
+				<Text>病理学では、胡麻塩状クロマチンパターン（胡麻塩核、点状クロマチンとも）は、粒状クロマチンを示す細胞核を指す用語です（光学顕微鏡で）。胡麻塩状クロマチンは、甲状腺髄質癌、神経内分泌腫瘍、褐色細胞腫などの内分泌腫瘍によくみられます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BL_LSAC</LocID>
-				<Text>Large Anaplastic Cells</Text>
+				<Text>大きな未分化細胞</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>SYM_CRP_BL_LSAC_DESC</LocID>
-				<Text>Anaplastic cells display marked pleomorphism (variability). The nuclei are characteristically extremely hyperchromatic (darkly stained) and large. The nuclear-cytoplasmic ratio may approach 1:1 instead of the normal 1:4 or 1:6. Giant cells that are considerably larger than their neighbors may be formed and possess either one enormous nucleus or several nuclei (syncytia). Anaplastic nuclei are variable and bizarre in size and shape.</Text>
+				<Text>未分化細胞は、顕著な多形性（ばらつき）を示します。核は極めて多色性（濃く染まる）で大きいのが特徴です。核と細胞質の比率は、通常の1:4または1:6ではなく、1:1に近いかもしれません。隣接する細胞よりかなり大きい巨大細胞が形成されることがあり、1個の巨大な核または複数の核（合胞体）を有します。未分化細胞核は、大きさも形も様々で奇妙な形をしています。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
