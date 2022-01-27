@@ -63,6 +63,14 @@
 				<LocID>EXM_MOREDG_DEB_DESCRIPTION</LocID>
 				<Text>染色体切断分析は、遺伝子の不安定性を評価するための検査です。</Text>
 			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_MOREDG_DEB_SAMPLING_DESCRIPTION</LocID>
+				<Text>染色体切断分析は、遺伝子の不安定性を評価するための検査です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>EXM_MOREDG_DEB_TESTING_DESCRIPTION</LocID>
+				<Text>染色体切断分析は、遺伝子の不安定性を評価するための検査です。</Text>
+			</GameDBLocalizedString>
 
 			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
 +++ v0.02 +++
