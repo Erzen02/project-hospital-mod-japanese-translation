@@ -1,0 +1,381 @@
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_MEDCHECKUPS_DIAGNOSES">
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
+		<Contributors>
+			<Name>James Buckham</Name>
+			<Name>Erzen</Name>
+		</Contributors>
+		<LocalizedStrings>
+			<!-- Diagnoses -->
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_ANNUAL_CU</LocID>
+				<Text>定期健康診断（毎年）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_ANNUAL_CU_DESCRIPTION</LocID>
+				<Text>アニュアル・チェックは、健康や身体に問題がないかどうかを確認するために、1年に1回行う身体検査です。通常、一般医や内科医が行います。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_CARDIO_CU</LocID>
+				<Text>循環器系健診</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_CARDIO_CU_DESCRIPTION</LocID>
+				<Text>循環器系健診は、循環器系に問題がないかどうかを確認するための検査です。通常、循環器専門医によって行われます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NEURO_CU</LocID>
+				<Text>神経学的健診</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NEURO_CU_DESCRIPTION</LocID>
+				<Text>神経学的健診は、神経系に問題がないかどうかを確認するための検査です。通常、神経科医によって行われます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_GASTRO_CU</LocID>
+				<Text>消化器健診</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_GASTRO_CU_DESCRIPTION</LocID>
+				<Text>消化器健診は、消化器系に問題がないかどうかを確認するための検査です。通常、消化器内科医が行います。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NEPHRO_CU</LocID>
+				<Text>腎臓系健診</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NEPHRO_CU_DESCRIPTION</LocID>
+				<Text>腎臓系健診は、腎臓系に問題がないかどうかを確認するための検査です。通常、腎臓学専門医によって行われます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PNEUMO_CU</LocID>
+				<Text>呼吸器系健診</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PNEUMO_CU_DESCRIPTION</LocID>
+				<Text>呼吸器系健診は、呼吸器系に問題がないかどうかを確認するための検査です。通常、呼吸器専門医または内科医が行います。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NUTRI_CU</LocID>
+				<Text>食生活診断</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NUTRI_CU_DESCRIPTION</LocID>
+				<Text>食生活やビタミン摂取量に問題がないかをチェックするのが、「食生活診断」です。通常、栄養士が実施します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_CU</LocID>
+				<Text>COVID感染後診断</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_CU_DESCRIPTION</LocID>
+				<Text>COVID-19に感染し、一般医に予約を入れた患者です。彼らは、コロナウイルス/ウイルス感染後疲労症候群を持っている可能性があります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_VACCINE_FU</LocID>
+				<Text>ワクチン接種後対応</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_VACCINE_FU_DESCRIPTION</LocID>
+				<Text>コロナウイルス感染症対策ワクチンを接種した後、一般医に予約を入れた患者です。副作用や軽度の症状があるようです。</Text>
+			</GameDBLocalizedString>
+
+
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_MMR_VAC</LocID>
+				<Text>MMRワクチン接種</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_MMR_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、新三種混合ワクチン/MMR（Mumps, Measles and Rubella）ワクチンが投与され、麻疹、流行性耳下腺炎、風疹を予防することになります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_INFLU_VAC</LocID>
+				<Text>インフルエンザワクチン接種</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_INFLU_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、H1N1、H3N1、2種類のB型インフルエンザを予防するためのインフルエンザワクチンを接種します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_VARICL_VAC</LocID>
+				<Text>水痘ワクチン接種</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_VARICL_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、水痘・帯状疱疹の予防のため、水痘ワクチンを接種します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_DTAP_VAC</LocID>
+				<Text>DTaPワクチン接種</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_DTAP_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、ジフテリア、破傷風、百日咳の予防のために、DTaP（Diptheria, Tetanus and Pertusis）ワクチンを接種します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PNEUMOCC_VAC</LocID>
+				<Text>肺炎球菌ワクチン接種</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PNEUMOCC_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、肺炎球菌髄膜炎、菌血症、肺炎の予防のために、肺炎球菌ワクチンを接種します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_ANTHRAX_VAC</LocID>
+				<Text>炭疽菌ワクチン接種</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_ANTHRAX_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、炭疽病の予防のために炭疽菌ワクチンが投与されます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_EBOLA_VAC</LocID>
+				<Text>rVSV-ZEBOV ワクチン接種</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_EBOLA_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case, the rVSV-ZEBOV vaccine will be administered to prevent Ebola.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_DENGUE_VAC</LocID>
+				<Text>Dengue Fever ワクチン接種</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_DENGUE_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case, a Dengue Fever vaccine will be administered to prevent Dengue Fever.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_MALARIA_VAC</LocID>
+				<Text>Malaria ワクチン接種</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_MALARIA_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case, a Malaria vaccine will be administered to prevent Malaria.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_TB_VAC</LocID>
+				<Text>Tuberculosis ワクチン接種</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_TB_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case, a Tuberculosis vaccine will be administered to prevent Tuberculosis.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>				<!-- OBSOLETE -->
+				<LocID>DIA_JM_COVID_VAC</LocID>
+				<Text>COVID-19 Trial ワクチン接種</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>				<!-- OBSOLETE -->
+				<LocID>DIA_JM_COVID_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case, a COVID Vaccine in trial will be administered to prevent COVID-19.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_AZCOV_VAC</LocID>
+				<Text>COVID-19 ワクチン接種 - AstraZeneca</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_AZCOV_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case this vaccine brand (Oxford-AstraZeneca), will be administered to prevent COVID-19.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_SINOCOV_VAC</LocID>
+				<Text>COVID-19 ワクチン接種 - SinoVac</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_SINOCOV_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case this vaccine brand (SinoVac-CoVac), will be administered to prevent COVID-19.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_SINOPCOV_VAC</LocID>
+				<Text>COVID-19 ワクチン接種 - Sinopharm</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_SINOPCOV_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case this vaccine brand (Sinopharm), will be administered to prevent COVID-19.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_CANCOV_VAC</LocID>
+				<Text>COVID-19 ワクチン接種 - CanSino</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_CANCOV_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case this vaccine brand (CanSino), will be administered to prevent COVID-19.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PFICOV_VAC</LocID>
+				<Text>COVID-19 ワクチン接種 - Pfizer</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PFICOV_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case this vaccine brand (Pfizer-BioNTech), will be administered to prevent COVID-19.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_MODCOV_VAC</LocID>
+				<Text>COVID-19 ワクチン接種 - Moderna</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_MODCOV_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case this vaccine brand (Moderna), will be administered to prevent COVID-19.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_JNJCOV_VAC</LocID>
+				<Text>COVID-19 ワクチン接種 - Johnson n Johnson</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_JNJCOV_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case this vaccine brand (Johnson n Johnson), will be administered to prevent COVID-19.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_SPUTCOV_VAC</LocID>
+				<Text>COVID-19 ワクチン接種 - Sputnik V</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_SPUTCOV_VAC_DESCRIPTION</LocID>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case this vaccine brand (Sputnik V), will be administered to prevent COVID-19.</Text>
+			</GameDBLocalizedString>
+
+
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_SCRE</LocID>
+				<Text>COVID-19 Screening (Negative)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_SCRE_DESCRIPTION</LocID>
+				<Text>The patient requests to have a COVID-19 test/screening since they either have been in close contact with an infected person and/or having symptoms of COVID-19.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_P_SCRE</LocID>
+				<Text>COVID-19 Screening (Positive)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_COVID_P_SCRE_DESCRIPTION</LocID>
+				<Text>The patient requests to have a COVID-19 test/screening since they either have been in close contact with an infected person and/or having symptoms of COVID-19.</Text>
+			</GameDBLocalizedString>
+
+			<!-- Obsolete -->
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_HCU</LocID>
+				<Text>Annual Checkup</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_HCU_DESCRIPTION</LocID>
+				<Text>An Annual Checkup is a yearly body checkup to see if there is any problems with their health or body. They are usually done by General Practitioners or Internal Medicine doctors.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_CCU</LocID>
+				<Text>Cardiovascular Checkup</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_CCU_DESCRIPTION</LocID>
+				<Text>An Cardiovascular Checkup is a checkup to see if there is any problems within the circulatory system. They are usually performed by Cardiologists.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NCU</LocID>
+				<Text>Neurologic Checkup</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NCU_DESCRIPTION</LocID>
+				<Text>A Neurologic Checkup is a checkup to see if there is any problems within the nervous system. They are usually performed by Neurologists.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_GCU</LocID>
+				<Text>Gastrointestinal Checkup</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_GCU_DESCRIPTION</LocID>
+				<Text>A Gastrointestinal Checkup is a checkup to see if there is any problems within the digestive system. They are usually performed by Gastroenterologists.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NECU</LocID>
+				<Text>Nephrologic Checkup</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_NECU_DESCRIPTION</LocID>
+				<Text>A Nephrologic checkup is a checkup to see if there is any problems within the renal system. It is usually performed by Nephrologists.</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PCU</LocID>
+				<Text>Respiratory Checkup</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_JM_PCU_DESCRIPTION</LocID>
+				<Text>A Respiratory Checkup is a checkup to see if there is any problems within the repiratory system. They are usually performed by Pulmonologists or Internal Medicine Doctors.</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+

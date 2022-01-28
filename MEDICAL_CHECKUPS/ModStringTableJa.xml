@@ -1,0 +1,24 @@
+<Database>
+	<GameDBStringTable ID="ADDON_MOD_MEDICAL_CHECKUPS">
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
+		<Contributors>
+			<Name>James B</Name>
+			<Name>Erzen</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<GameDBLocalizedString>
+				<LocID>ADDON_MOD_MEDICAL_CHECKUPS</LocID>
+				<Text>医療処置(Medical Procedures)</Text>
+			</GameDBLocalizedString>
+
+
+
+
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+

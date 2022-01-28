@@ -14,13 +14,14 @@ Anyone can use them, as long as they follow the license below.
 
 ## Translated MODs
 
-|  Mod name  |  translation progress  |
-| ---------- | ---------------------- |
-|  CRP       |              Completed |
-|  ENT       |              Completed |
-|  MORE_DG   |              Completed |
+|  Mod name           |  translation progress  |
+| --------------------| ---------------------- |
+|  CRP                |              Completed |
+|  ENT                |              Completed |
+|  MORE_DG            |              Completed |
+|  Medical Checkups   |                  W.I.P |
 
-Date of last check: Jan 28, 2022
+Last check: Jan 29, 2022 JST
 
 ## How to use
 
