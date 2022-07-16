@@ -168,97 +168,97 @@
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_EBOLA_VAC_DESCRIPTION</LocID>
-				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case, the rVSV-ZEBOV vaccine will be administered to prevent Ebola.</Text>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、エボラ出血熱を予防するためにrVSV-ZEBOVワクチンが投与されます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_DENGUE_VAC</LocID>
-				<Text>Dengue Fever ワクチン接種</Text>
+				<Text>デング熱 ワクチン接種</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_DENGUE_VAC_DESCRIPTION</LocID>
-				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case, a Dengue Fever vaccine will be administered to prevent Dengue Fever.</Text>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、デング熱の予防のためにデング熱ワクチンの接種を行います。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_MALARIA_VAC</LocID>
-				<Text>Malaria ワクチン接種</Text>
+				<Text>マラリア ワクチン接種</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_MALARIA_VAC_DESCRIPTION</LocID>
-				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case, a Malaria vaccine will be administered to prevent Malaria.</Text>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、マラリア予防のためのマラリアワクチンが投与されます。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_TB_VAC</LocID>
-				<Text>Tuberculosis ワクチン接種</Text>
+				<Text>結核ワクチン接種</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_TB_VAC_DESCRIPTION</LocID>
-				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case, a Tuberculosis vaccine will be administered to prevent Tuberculosis.</Text>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、結核を予防するために結核ワクチンを接種します。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>				<!-- OBSOLETE -->
 				<LocID>DIA_JM_COVID_VAC</LocID>
-				<Text>COVID-19 Trial ワクチン接種</Text>
+				<Text>COVID-19 試験的 ワクチン接種</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>				<!-- OBSOLETE -->
 				<LocID>DIA_JM_COVID_VAC_DESCRIPTION</LocID>
-				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case, a COVID Vaccine in trial will be administered to prevent COVID-19.</Text>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、COVID-19を予防するために、試験中のCOVIDワクチンを投与することになります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_AZCOV_VAC</LocID>
-				<Text>COVID-19 ワクチン接種 - AstraZeneca</Text>
+				<Text>COVID-19 ワクチン接種 - アストラゼネカ</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_AZCOV_VAC_DESCRIPTION</LocID>
-				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case this vaccine brand (Oxford-AstraZeneca), will be administered to prevent COVID-19.</Text>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、オックスフォード・アストラゼネカ製ワクチンが、COVID-19の予防のために投与されることになります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_SINOCOV_VAC</LocID>
-				<Text>COVID-19 ワクチン接種 - SinoVac</Text>
+				<Text>COVID-19 ワクチン接種 - シノバック</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_SINOCOV_VAC_DESCRIPTION</LocID>
-				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case this vaccine brand (SinoVac-CoVac), will be administered to prevent COVID-19.</Text>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 この場合、シノバック・バイオテック製ワクチンが、COVID-19の予防のために投与されることになります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_SINOPCOV_VAC</LocID>
-				<Text>COVID-19 ワクチン接種 - Sinopharm</Text>
+				<Text>COVID-19 ワクチン接種 - シノファーム</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_SINOPCOV_VAC_DESCRIPTION</LocID>
-				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case this vaccine brand (Sinopharm), will be administered to prevent COVID-19.</Text>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、シノファーム製ワクチンが、COVID-19の予防のために投与されることになります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_CANCOV_VAC</LocID>
-				<Text>COVID-19 ワクチン接種 - CanSino</Text>
+				<Text>COVID-19 ワクチン接種 - カンシノ</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_CANCOV_VAC_DESCRIPTION</LocID>
-				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case this vaccine brand (CanSino), will be administered to prevent COVID-19.</Text>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。この場合、カンシノ・バイオロジックス製ワクチンが、COVID-19の予防のために投与されることになります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_PFICOV_VAC</LocID>
-				<Text>COVID-19 ワクチン接種 - Pfizer</Text>
+				<Text>COVID-19 ワクチン接種 - ファイザー</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
 				<LocID>DIA_JM_PFICOV_VAC_DESCRIPTION</LocID>
-				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 In this case this vaccine brand (Pfizer-BioNTech), will be administered to prevent COVID-19.</Text>
+				<Text>ワクチンとは、特定の感染症に対する能動的な獲得免疫を提供する生物学的製剤のことです。ワクチンは通常、病気を引き起こす微生物に類似した物質を含み、多くの場合、その微生物、その毒素、またはその表面タンパク質の1つを弱めたもの、または無害化したものから作られています。 この場合、ファイザー製ワクチンが、COVID-19の予防のために投与されることになります。</Text>
 			</GameDBLocalizedString>
 
 			<GameDBLocalizedString>
